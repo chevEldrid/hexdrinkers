@@ -1,1 +1,1 @@
-Sitemap: https://hexdrinkers.com/sitemap.xml
+Sitemap: hexdrinkers.com/sitemap.xml
