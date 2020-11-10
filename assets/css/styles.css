@@ -28,6 +28,8 @@
 
 .no-margin { margin-bottom: 0; }
 
+.flavor-text { color: gray; font-size: 0.8rem; }
+
 .desktop-navlink { font-size: 1.5rem; }
 
 .inline-card { padding-right: 0.1rem; padding-left: 0.1rem; padding-bottom: 0.1rem; }
