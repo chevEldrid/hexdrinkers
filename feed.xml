@@ -1,4 +1,459 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-01-18T12:14:49-08:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Week 2: Savage Tokens with Tana and Falthis</title><link href="hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2.html" rel="alternate" type="text/html" title="Week 2: Savage Tokens with Tana and Falthis" /><published>2021-01-17T00:00:00-08:00</published><updated>2021-01-17T00:00:00-08:00</updated><id>hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2</id><content type="html" xml:base="hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2.html">&lt;div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-01-25T21:25:39-08:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Week 3: Curse Politics with Ardenn and Vial Smasher</title><link href="hexdrinkers.com/the%20year%20of%20brew/2021/01/24/YoB3.html" rel="alternate" type="text/html" title="Week 3: Curse Politics with Ardenn and Vial Smasher" /><published>2021-01-24T00:00:00-08:00</published><updated>2021-01-24T00:00:00-08:00</updated><id>hexdrinkers.com/the%20year%20of%20brew/2021/01/24/YoB3</id><content type="html" xml:base="hexdrinkers.com/the%20year%20of%20brew/2021/01/24/YoB3.html">&lt;div&gt;
+    
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;img src=&quot;https://media.giphy.com/media/l3q2xgywXN35jhZEk/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+It’s week three of the Year of Brew! This week we’re trading out green for white for a gimmicky Mardu brew. Who needs to play quality ramp and undercosted beaters when you can play your opponents instead?&lt;/p&gt;
+
+&lt;h2 id=&quot;deck-3-mardu&quot;&gt;Deck 3: Mardu&lt;/h2&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/728b802c-969b-4865-b7a0-871c585d097a.jpg?1608908668&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/722b1e02-2268-4e02-8d09-9b337da2a844.jpg?1562405249&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+When &lt;em&gt;Commander Legends&lt;/em&gt; was being previewed, I was immediately intrigued by &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/10/ardenn-intrepid-archaeologist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/728b802c-969b-4865-b7a0-871c585d097a.jpg?1608908668' width=100% height=100%&amp;gt;&quot;&gt;
+	Ardenn, Intrepid Archaeologist
+&lt;/a&gt;. His ability to move around auras and equipments is exactly the off-the-wall tricky thing I’m looking for. When I recently recalled that there are auras that enchant &lt;em&gt;players&lt;/em&gt;, this monstrosity was born.&lt;/p&gt;
+
+&lt;p&gt;This deck is all-in on Ardenn’s ability. We have numerous curses, my personal favorite being &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hou/19/overwhelming-splendor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/867b32d2-e396-411d-ac02-1af4106dd3d2.jpg?1562805786' width=100% height=100%&amp;gt;&quot;&gt;
+	Overwhelming Splendor
+&lt;/a&gt;, the ultimate “no more fun for you” card. But things like Splendor or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/84/cruel-reality?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/06a91cf5-4eab-4d9b-90bd-fb933bb00540.jpg?1543675226' width=100% height=100%&amp;gt;&quot;&gt;
+	Cruel Reality
+&lt;/a&gt; are bound to piss off our opponents, so we have a bunch of &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/6/auramancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f05fde4-a866-459c-9a24-2884116ab647.jpg?1562434949' width=100% height=100%&amp;gt;&quot;&gt;
+	Auramancer
+&lt;/a&gt; effects to recur our favorite auras. The rest of the deck only continues to support our enchanting with plenty of &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/9/enlightened-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c9ebec9-3474-4062-9607-2e2a72f78299.jpg?1580013657' width=100% height=100%&amp;gt;&quot;&gt;
+	Enlightened Tutor
+&lt;/a&gt; effects and cards like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/39/starfield-mystic?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/0/80382963-a9d7-4c2d-8671-8dd3fdd4dbdc.jpg?1592516227' width=100% height=100%&amp;gt;&quot;&gt;
+	Starfield Mystic
+&lt;/a&gt; so we can play as many of them as possible.&lt;/p&gt;
+
+&lt;p&gt;We also have other auras such as the Impetus cycle, a la &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/55/shiny-impetus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0aa80931-0501-4712-a11b-563a3cd1e1c9.jpg?1591319623' width=100% height=100%&amp;gt;&quot;&gt;
+	Shiny Impetus
+&lt;/a&gt;, and the Vow cycle, of which my favorite is &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/209/vow-of-lightning?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71218cff-7e57-40dd-83c2-d06b284a63fd.jpg?1608910481' width=100% height=100%&amp;gt;&quot;&gt;
+	Vow of Lightning
+&lt;/a&gt; because g@dam$% that art is sick! The inclusion of these solidifies the deck as an inherently political deck. Buffing your opponents’ creatures in exchange for directing their violence elsewhere is classic EDH game theory. And since we can shuffle around our blessings (and curses) every turn, we can always stay on the right side of either the king or the mob (whichever is posing more of a threat).&lt;/p&gt;
+
+&lt;p&gt;Given the nature of the deck and how much I wanted to stick on theme, this is not a competitive deck by any means. But that’s the fun of it, using your ability to curse different players who are becoming to powerful and politic around your auras is the right kind of underpowered fun to break up the monotony of standardized deck construction and power!
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+&lt;h3&gt;Cursing Like A Sailor&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-6&quot;&gt;
+				&lt;b&gt;Commanders&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;					
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/10/ardenn-intrepid-archaeologist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/728b802c-969b-4865-b7a0-871c585d097a.jpg?1608908668' width=100% height=100%&amp;gt;&quot;&gt;
+	Ardenn, Intrepid Archaeologist
+&lt;/a&gt;
+				&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c16/49/vial-smasher-the-fierce?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/722b1e02-2268-4e02-8d09-9b337da2a844.jpg?1562405249' width=100% height=100%&amp;gt;&quot;&gt;
+	Vial Smasher the Fierce
+&lt;/a&gt;
+				&lt;/p&gt;
+				&lt;b&gt;Creatures&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/82/ajanis-chosen?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/e/8ea009c1-505e-4307-b8f3-2d37e36507a6.jpg?1600695778' width=100% height=100%&amp;gt;&quot;&gt;
+	Ajani's Chosen
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/3/archon-of-suns-grace?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/235e5999-e8e5-4093-adff-9d47aec70d10.jpg?1581478942' width=100% height=100%&amp;gt;&quot;&gt;
+	Archon of Sun's Grace
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/11/armored-skyhunter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2bf63241-9091-42f5-b997-9ce5aa3484f1.jpg?1608908677' width=100% height=100%&amp;gt;&quot;&gt;
+	Armored Skyhunter
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/6/auramancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f05fde4-a866-459c-9a24-2884116ab647.jpg?1562434949' width=100% height=100%&amp;gt;&quot;&gt;
+	Auramancer
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/10/cavalier-of-dawn?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7b1919e-c0c1-4ac7-9061-a337b6fe7273.jpg?1592515990' width=100% height=100%&amp;gt;&quot;&gt;
+	Cavalier of Dawn
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/370/danitha-capashen-paragon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce5391bc-6b50-49b0-96a1-df944a55d62e.jpg?1610074990' width=100% height=100%&amp;gt;&quot;&gt;
+	Danitha Capashen, Paragon
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c15/121/doomwake-giant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d148e1f1-82fd-44ee-ace4-937f2a638329.jpg?1562709963' width=100% height=100%&amp;gt;&quot;&gt;
+	Doomwake Giant
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/20/heliods-pilgrim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102' width=100% height=100%&amp;gt;&quot;&gt;
+	Heliod's Pilgrim
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/376/ironclad-slayer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/2841f538-9686-423f-ac30-0580665112e5.jpg?1608911916' width=100% height=100%&amp;gt;&quot;&gt;
+	Ironclad Slayer
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/30/kor-cartographer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/583ef638-1ea1-4301-bb86-78cb2b5f3aab.jpg?1608908858' width=100% height=100%&amp;gt;&quot;&gt;
+	Kor Cartographer
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/116/kor-spiritdancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59813c47-e779-404d-8a1c-70ea29bc7023.jpg?1600718299' width=100% height=100%&amp;gt;&quot;&gt;
+	Kor Spiritdancer
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/19/mesa-enchantress?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/d/5d7550ac-c8cd-4e10-8099-c5a42ab093fc.jpg?1580013738' width=100% height=100%&amp;gt;&quot;&gt;
+	Mesa Enchantress
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/21/monk-idealist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31c729e2-4e55-4a14-a288-9c3473e58b88.jpg?1580013751' width=100% height=100%&amp;gt;&quot;&gt;
+	Monk Idealist
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/239/solemn-simulacrum?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.jpg?1594737564' width=100% height=100%&amp;gt;&quot;&gt;
+	Solemn Simulacrum
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/386/sram-senior-edificer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e1ab1ef1-f4e8-461e-801a-a498e4946fa1.jpg?1608912002' width=100% height=100%&amp;gt;&quot;&gt;
+	Sram, Senior Edificer
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/39/starfield-mystic?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/0/80382963-a9d7-4c2d-8671-8dd3fdd4dbdc.jpg?1592516227' width=100% height=100%&amp;gt;&quot;&gt;
+	Starfield Mystic
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/40/transcendent-envoy?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1592345502' width=100% height=100%&amp;gt;&quot;&gt;
+	Transcendent Envoy
+&lt;/a&gt;
+				&lt;/p&gt;
+				&lt;b&gt;Enchantments&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/84/cruel-reality?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/06a91cf5-4eab-4d9b-90bd-fb933bb00540.jpg?1543675226' width=100% height=100%&amp;gt;&quot;&gt;
+	Cruel Reality
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dka/85/curse-of-bloodletting?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9dc4ac6f-0005-47f8-bee9-10429cc542e4.jpg?1562932270' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Bloodletting
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c13/105/curse-of-chaos?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd95b9aa-1abb-4a10-a622-51a2bb578d17.jpg?1562948723' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Chaos
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/isd/94/curse-of-deaths-hold?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/1774d0a8-1cd3-4582-ace0-1caff92af0e7.jpg?1562826771' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Death's Hold
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/16/curse-of-disturbance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d022b7d7-e9f5-4f58-8010-331baaa4e3c4.jpg?1562624254' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Disturbance
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dka/5/curse-of-exhaustion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b737a959-e974-4b2a-8dca-a257da6084b0.jpg?1562938194' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Exhaustion
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c19/16/curse-of-fools-wisdom?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b77ded4-a8af-4065-8c4a-fd76e7cdcc59.jpg?1568003475' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Fool's Wisdom
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dka/56/curse-of-misfortunes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/5/c531d218-ff1c-4333-a19d-446d709b1e28.jpg?1562941569' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Misfortunes
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/24/curse-of-opulence?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e23db9d3-d11f-4b2c-8349-687bc0e9d4c2.jpg?1579814067' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Opulence
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c13/71/curse-of-shallow-graves?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/4/849996e2-fb62-428f-88f1-4ac419617395.jpg?1562922975' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Shallow Graves
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/isd/136/curse-of-stalked-prey&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11a18883-8990-40a0-bcb2-e01d0e82bfad.jpg?1562826328' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Stalked Prey
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dka/57/curse-of-thirst?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a23ed5d1-44dc-4733-9e01-65fbc5dc02f2.jpg?1562933294' width=100% height=100%&amp;gt;&quot;&gt;
+	Curse of Thirst
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790' width=100% height=100%&amp;gt;&quot;&gt;
+	Fires of Invention
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c19/64/ghostly-prison?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/daeca212-3a70-470e-a934-9cd7e0ebf7eb.jpg?1568003836' width=100% height=100%&amp;gt;&quot;&gt;
+	Ghostly Prison
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/28/martial-impetus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/5/25656d3d-dc5a-4085-8461-cab11b96e70a.jpg?1591319379' width=100% height=100%&amp;gt;&quot;&gt;
+	Martial Impetus
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hou/19/overwhelming-splendor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/867b32d2-e396-411d-ac02-1af4106dd3d2.jpg?1562805786' width=100% height=100%&amp;gt;&quot;&gt;
+	Overwhelming Splendor
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/46/parasitic-impetus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b51e0d11-e970-4535-87ac-49ae8ad594df.jpg?1591319546' width=100% height=100%&amp;gt;&quot;&gt;
+	Parasitic Impetus
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cn2/144/phyrexian-arena?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c87d2e75-aa91-4657-b8c0-c399ff9331e0.jpg?1576382721' width=100% height=100%&amp;gt;&quot;&gt;
+	Phyrexian Arena
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/55/shiny-impetus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0aa80931-0501-4712-a11b-563a3cd1e1c9.jpg?1591319623' width=100% height=100%&amp;gt;&quot;&gt;
+	Shiny Impetus
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/384/sigardas-aid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/531da950-dc96-4050-94a8-e01b73ddd965.jpg?1608911983' width=100% height=100%&amp;gt;&quot;&gt;
+	Sigarda's Aid
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c16/77/sphere-of-safety?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a18d7582-185a-429a-9c6a-fc51b981e0a1.jpg?1562413264' width=100% height=100%&amp;gt;&quot;&gt;
+	Sphere of Safety
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ori/33/starfield-of-nyx?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/861dc1a5-4e84-47bc-83a2-f289804086d8.jpg?1562029318' width=100% height=100%&amp;gt;&quot;&gt;
+	Starfield of Nyx
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hou/78/torment-of-scarabs?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/01651f67-cc25-4240-9698-58b7d906a160.jpg?1562787262' width=100% height=100%&amp;gt;&quot;&gt;
+	Torment of Scarabs
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/112/trespassers-curse?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6ef4c59-ab84-4d84-b795-015b21ae3fe0.jpg?1543675434' width=100% height=100%&amp;gt;&quot;&gt;
+	Trespasser's Curse
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/54/vow-of-duty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/107c1b3f-1aab-48a1-a651-8302bc8682f9.jpg?1608909071' width=100% height=100%&amp;gt;&quot;&gt;
+	Vow of Duty
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/209/vow-of-lightning?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71218cff-7e57-40dd-83c2-d06b284a63fd.jpg?1608910481' width=100% height=100%&amp;gt;&quot;&gt;
+	Vow of Lightning
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cm2/82/vow-of-malice?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/5/c58a738c-3f39-4556-ae9a-90f240e3062b.jpg?1562275997' width=100% height=100%&amp;gt;&quot;&gt;
+	Vow of Malice
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/159/vow-of-torment?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/ae74624e-3850-4153-b682-d044272269c1.jpg?1608910035' width=100% height=100%&amp;gt;&quot;&gt;
+	Vow of Torment
+&lt;/a&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;col-6&quot;&gt;
+				&lt;b&gt;Artifacts&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/459/boros-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a2ae6081-1876-42ea-a6f8-d18dbe55c4c4.jpg?1608917766' width=100% height=100%&amp;gt;&quot;&gt;
+	Boros Signet
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/fut/160/cloud-key?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b893ab56-44a6-4b3c-bb3e-6deec298cbce.jpg?1562932147' width=100% height=100%&amp;gt;&quot;&gt;
+	Cloud Key
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c15/250/crystal-chimes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/17a453d0-c195-47fd-ad6b-d31c86faef71.jpg?1562701726' width=100% height=100%&amp;gt;&quot;&gt;
+	Crystal Chimes
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/255/expedition-map?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/551c0a45-9515-4e51-84e5-79703832a661.jpg?1599709184' width=100% height=100%&amp;gt;&quot;&gt;
+	Expedition Map
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/114/mind-stone?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5795300-dcfa-4a40-9c23-79a061c26851.jpg?1604195681' width=100% height=100%&amp;gt;&quot;&gt;
+	Mind Stone
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/247/orzhov-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b5a2cd7-5b31-44e5-bbde-2feac5fb161c.jpg?1591321670' width=100% height=100%&amp;gt;&quot;&gt;
+	Orzhov Signet
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/249/rakdos-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d34fba-bc41-4903-9505-0c1a78b5eb03.jpg?1591321692' width=100% height=100%&amp;gt;&quot;&gt;
+	Rakdos Signet
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/8ed/313/skull-of-orm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccc3a7b4-ff44-4909-ab8d-35ba5d187815.jpg?1562936151' width=100% height=100%&amp;gt;&quot;&gt;
+	Skull of Orm
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/472/sol-ring?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58b26011-e103-45c4-a253-900f4e6b2eeb.jpg?1608917895' width=100% height=100%&amp;gt;&quot;&gt;
+	Sol Ring
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cm2/229/wayfarers-bauble?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b0e3f48-0997-4313-93c9-86cbfc25cd63.jpg?1562275066' width=100% height=100%&amp;gt;&quot;&gt;
+	Wayfarer's Bauble
+&lt;/a&gt;
+				&lt;/p&gt;
+				&lt;b&gt;Instants&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/9/enlightened-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c9ebec9-3474-4062-9607-2e2a72f78299.jpg?1580013657' width=100% height=100%&amp;gt;&quot;&gt;
+	Enlightened Tutor
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/16/flicker-of-fate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067' width=100% height=100%&amp;gt;&quot;&gt;
+	Flicker of Fate
+&lt;/a&gt;
+				&lt;/p&gt;
+				&lt;b&gt;Sorceries&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/24/idyllic-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f06edd53-f3ac-44b0-a087-5670ba8f0fa5.jpg?1582021156' width=100% height=100%&amp;gt;&quot;&gt;
+	Idyllic Tutor
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/34/open-the-armory?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6db45698-9da9-4cea-b9bf-0f84ab276b51.jpg?1608908895' width=100% height=100%&amp;gt;&quot;&gt;
+	Open the Armory
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bng/24/plea-for-guidance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d1d6d76-f399-475a-b5cd-544bd7c6d967.jpg?1593091549' width=100% height=100%&amp;gt;&quot;&gt;
+	Plea for Guidance
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/225/rise-to-glory?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/f/cf6c11c8-64a1-46a4-979c-56a6d5b873d3.jpg?1581481132' width=100% height=100%&amp;gt;&quot;&gt;
+	Rise to Glory
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/pca/13/three-dreams?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4c06b86e-c3fc-4703-affa-0ee2d9613854.jpg?1562908929' width=100% height=100%&amp;gt;&quot;&gt;
+	Three Dreams
+&lt;/a&gt;
+				&lt;/p&gt;
+				&lt;b&gt;Lands&lt;/b&gt;
+				&lt;p class=&quot;mb-0&quot;&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/236/ancient-tomb?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1582753000' width=100% height=100%&amp;gt;&quot;&gt;
+	Ancient Tomb
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cm2/233/arcane-lighthouse?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fa90e142-15d4-461a-9e57-4a301a5df958.jpg?1562276555' width=100% height=100%&amp;gt;&quot;&gt;
+	Arcane Lighthouse
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/229/arid-mesa?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974' width=100% height=100%&amp;gt;&quot;&gt;
+	Arid Mesa
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/250/axgard-armory?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/9/f9c77d35-8418-48fb-b7d7-7cfa763545c5.jpg?1611000199' width=100% height=100%&amp;gt;&quot;&gt;
+	Axgard Armory
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c19/229/barren-moor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c6ae4a0f-6b58-4a29-826e-cda2f115cdda.jpg?1568005022' width=100% height=100%&amp;gt;&quot;&gt;
+	Barren Moor
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/245/blood-crypt?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5faba6c8-3463-47c1-ba01-09eb87fcb2d5.jpg?1584832229' width=100% height=100%&amp;gt;&quot;&gt;
+	Blood Crypt
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ktk/230/bloodstained-mire?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f430794-0d86-4f6a-97e0-4bbb6716d613.jpg?1571667959' width=100% height=100%&amp;gt;&quot;&gt;
+	Bloodstained Mire
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hop/132/cabal-coffers?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/17f91d5f-b717-4ff4-a598-6d57c22dd802.jpg?1562841658' width=100% height=100%&amp;gt;&quot;&gt;
+	Cabal Coffers
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/273/exotic-orchard?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f623a2c3-ebe5-4f43-8b87-59b4d6991ff0.jpg?1591321997' width=100% height=100%&amp;gt;&quot;&gt;
+	Exotic Orchard
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ktk/233/flooded-strand?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/c/8c2996d9-3287-4480-8c04-7a378e37e3cf.jpg?1571667973' width=100% height=100%&amp;gt;&quot;&gt;
+	Flooded Strand
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/483/forgotten-cave?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/084bf9fe-78d2-4fef-8514-ed64d6c771e6.jpg?1608918002' width=100% height=100%&amp;gt;&quot;&gt;
+	Forgotten Cave
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/248/godless-shrine?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ced4c824-2dfc-42ae-84e6-09f8e3f51b5b.jpg?1584832255' width=100% height=100%&amp;gt;&quot;&gt;
+	Godless Shrine
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/241/hall-of-heliods-generosity?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b5cbd10a-b9a6-4c00-8280-72bb4add4390.jpg?1562202569' width=100% height=100%&amp;gt;&quot;&gt;
+	Hall of Heliod's Generosity
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/239/marsh-flats?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/5/659039ed-c269-4c2d-bce6-91d143f0618e.jpg?1593815053' width=100% height=100%&amp;gt;&quot;&gt;
+	Marsh Flats
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/397/mountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69419307-53d5-40d7-82da-cab2e7bfbda4.jpg?1611173991' width=100% height=100%&amp;gt;&quot;&gt;
+	Mountain
+&lt;/a&gt; x2
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/487/myriad-landscape?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/5538f54e-81dc-4396-9d47-3087df16b630.jpg?1608933979' width=100% height=100%&amp;gt;&quot;&gt;
+	Myriad Landscape
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/294/nomad-outpost?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f32ff85d-0a5d-4bab-adc3-27a140ebef1d.jpg?1591322264' width=100% height=100%&amp;gt;&quot;&gt;
+	Nomad Outpost
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/394/plains?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5cbfbafa-f58f-40b2-a374-68ac35b77d89.jpg?1611173984' width=100% height=100%&amp;gt;&quot;&gt;
+	Plains
+&lt;/a&gt; x6
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ktk/239/polluted-delta?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff2f5f58-9a95-4ca6-93a0-813738f0072f.jpg?1571667978' width=100% height=100%&amp;gt;&quot;&gt;
+	Polluted Delta
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cns/210/reflecting-pool?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/1/919a51f8-e7b5-4544-85a3-2d76f9d2d41d.jpg?1562865930' width=100% height=100%&amp;gt;&quot;&gt;
+	Reflecting Pool
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/254/sacred-foundry?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b7b598d0-535d-477d-a33d-d6a10ff5439a.jpg?1572894184' width=100% height=100%&amp;gt;&quot;&gt;
+	Sacred Foundry
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/253/savai-triome?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/748e6a61-9c1f-4225-9f04-e54002f63ac3.jpg?1591228681' width=100% height=100%&amp;gt;&quot;&gt;
+	Savai Triome
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/244/scalding-tarn?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f2661d4a-450a-433a-b893-b1ee15982494.jpg?1593815090' width=100% height=100%&amp;gt;&quot;&gt;
+	Scalding Tarn
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/491/secluded-steppe?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c536cbd-3e81-4c6a-a4e1-02fbd2776706.jpg?1608918074' width=100% height=100%&amp;gt;&quot;&gt;
+	Secluded Steppe
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/usg/325/serras-sanctum?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7a18130-dbaa-4657-a885-3a96a985935a.jpg?1562947303' width=100% height=100%&amp;gt;&quot;&gt;
+	Serra's Sanctum
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/396/swamp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9f9e61c0-b185-4704-913f-9284ed0ce250.jpg?1611173997' width=100% height=100%&amp;gt;&quot;&gt;
+	Swamp
+&lt;/a&gt; x3
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/254/urborg-tomb-of-yawgmoth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/02e17705-739e-409f-a6fd-7bab22120b22.jpg?1559959336' width=100% height=100%&amp;gt;&quot;&gt;
+	Urborg, Tomb of Yawgmoth
+&lt;/a&gt;
+					&lt;br /&gt;
+					&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/249/verdant-catacombs?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15faa763-b897-4e86-b094-73f3236291a9.jpg?1593815136' width=100% height=100%&amp;gt;&quot;&gt;
+	Verdant Catacombs
+&lt;/a&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+If you’re wondering why I didn’t mention &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c16/49/vial-smasher-the-fierce?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/722b1e02-2268-4e02-8d09-9b337da2a844.jpg?1562405249' width=100% height=100%&amp;gt;&quot;&gt;
+	Vial Smasher the Fierce
+&lt;/a&gt; this whole time, it’s cause he’s really only here for extra chaos and color identity. Not that he cares! As long as he can help cause &lt;strong&gt;maximum&lt;/strong&gt; pain, he’s happy.&lt;/p&gt;
+
+&lt;p&gt;Find this decklist as well as the rest of the Year of Brew decklists at the &lt;a href=&quot;https://www.moxfield.com/users/The_Hexdrinkers&quot; target=&quot;_blank&quot;&gt;Hexdrinker’s Moxfield page&lt;/a&gt;!
+&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="The Year of Brew" /><category term="Commander" /><summary type="html">It’s week three of the Year of Brew! This week we’re trading out green for white for a gimmicky Mardu brew. Who needs to play quality ramp and undercosted beaters when you can play your opponents instead? Deck 3: Mardu When Commander Legends was being previewed, I was immediately intrigued by Ardenn, Intrepid Archaeologist . His ability to move around auras and equipments is exactly the off-the-wall tricky thing I’m looking for. When I recently recalled that there are auras that enchant players, this monstrosity was born. This deck is all-in on Ardenn’s ability. We have numerous curses, my personal favorite being Overwhelming Splendor , the ultimate “no more fun for you” card. But things like Splendor or Cruel Reality are bound to piss off our opponents, so we have a bunch of Auramancer effects to recur our favorite auras. The rest of the deck only continues to support our enchanting with plenty of Enlightened Tutor effects and cards like Starfield Mystic so we can play as many of them as possible. We also have other auras such as the Impetus cycle, a la Shiny Impetus , and the Vow cycle, of which my favorite is Vow of Lightning because g@dam$% that art is sick! The inclusion of these solidifies the deck as an inherently political deck. Buffing your opponents’ creatures in exchange for directing their violence elsewhere is classic EDH game theory. And since we can shuffle around our blessings (and curses) every turn, we can always stay on the right side of either the king or the mob (whichever is posing more of a threat). Given the nature of the deck and how much I wanted to stick on theme, this is not a competitive deck by any means. But that’s the fun of it, using your ability to curse different players who are becoming to powerful and politic around your auras is the right kind of underpowered fun to break up the monotony of standardized deck construction and power! Cursing Like A Sailor Commanders Ardenn, Intrepid Archaeologist Vial Smasher the Fierce Creatures Ajani's Chosen Archon of Sun's Grace Armored Skyhunter Auramancer Cavalier of Dawn Danitha Capashen, Paragon Doomwake Giant Heliod's Pilgrim Ironclad Slayer Kor Cartographer Kor Spiritdancer Mesa Enchantress Monk Idealist Solemn Simulacrum Sram, Senior Edificer Starfield Mystic Transcendent Envoy Enchantments Cruel Reality Curse of Bloodletting Curse of Chaos Curse of Death's Hold Curse of Disturbance Curse of Exhaustion Curse of Fool's Wisdom Curse of Misfortunes Curse of Opulence Curse of Shallow Graves Curse of Stalked Prey Curse of Thirst Fires of Invention Ghostly Prison Martial Impetus Overwhelming Splendor Parasitic Impetus Phyrexian Arena Shiny Impetus Sigarda's Aid Sphere of Safety Starfield of Nyx Torment of Scarabs Trespasser's Curse Vow of Duty Vow of Lightning Vow of Malice Vow of Torment Artifacts Boros Signet Cloud Key Crystal Chimes Expedition Map Mind Stone Orzhov Signet Rakdos Signet Skull of Orm Sol Ring Wayfarer's Bauble Instants Enlightened Tutor Flicker of Fate Sorceries Idyllic Tutor Open the Armory Plea for Guidance Rise to Glory Three Dreams Lands Ancient Tomb Arcane Lighthouse Arid Mesa Axgard Armory Barren Moor Blood Crypt Bloodstained Mire Cabal Coffers Exotic Orchard Flooded Strand Forgotten Cave Godless Shrine Hall of Heliod's Generosity Marsh Flats Mountain x2 Myriad Landscape Nomad Outpost Plains x6 Polluted Delta Reflecting Pool Sacred Foundry Savai Triome Scalding Tarn Secluded Steppe Serra's Sanctum Swamp x3 Urborg, Tomb of Yawgmoth Verdant Catacombs If you’re wondering why I didn’t mention Vial Smasher the Fierce this whole time, it’s cause he’s really only here for extra chaos and color identity. Not that he cares! As long as he can help cause maximum pain, he’s happy. Find this decklist as well as the rest of the Year of Brew decklists at the Hexdrinker’s Moxfield page!</summary></entry><entry><title type="html">Week 2: Savage Tokens with Tana and Falthis</title><link href="hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2.html" rel="alternate" type="text/html" title="Week 2: Savage Tokens with Tana and Falthis" /><published>2021-01-17T00:00:00-08:00</published><updated>2021-01-17T00:00:00-08:00</updated><id>hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2</id><content type="html" xml:base="hexdrinkers.com/the%20year%20of%20brew/2021/01/17/YoB2.html">&lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
             &lt;img src=&quot;https://media.giphy.com/media/H1GPESQdaScd05YqaX/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
@@ -4460,145 +4915,4 @@ It shouldn’t be a surprise that this deck is going to be base-green. Consideri
         
     
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="Enter The Guildhall" /><category term="Brawl" /><summary type="html">Ahhhh It’s been a while since I’ve been able to publish something and boy does it feel good! After a week and a half spent driving across the country and getting acclimated to the constant sunshine and mellow temperatures of Southern California, I can once again spend countless hours inside with the blinds closed playing Arena. We’re back… …and with quite the spicy brew! This deck actually took me quite some time to tweak and get juuust right, but I have a feeling you’ll love the end product. For this fine installment of Enter the Guildhall we’ll be following Radha, Heart of Keld as she tears a path across Dominaria leading her army of lands to victory a la Blackblade Reforged . This iteration of Radha is a departure from her “mana dork” roots, but what an explosive pump ability! And it can be repeated!! Ooooookay, huddle in and let’s talk strategy. It shouldn’t be a surprise that this deck is going to be base-green. Considering the only thing kinda Red about Radha’s design is first strike (although I guess you could make an argument for massive pump being Gruul given things like Xenagos, God of Revels ), the bulk of Radha’s ability suite will come from playing lands of all shapes and sizes; very Green indeed. Once we have a decent manabase online it’ll be time to swing in with Radha and a collection of Gruul allstars. Since we’re in Green we’ll include Questing Beast , Aggressive Mammoth , Nissa, Who Shakes the World , etc. but Red won’t be outdone. Now, I don’t want to give too much away in the intro but ahem BOY I sure am TERRIFIED of these PEAKS. More on that below. After that comes some super secret Gruul sauce I’ve wanted to try out and a dash of removal to spice it up. Presto! One haymaker fresh out of the oven. Lands, Ho! Beanstalk Giant pulls double duty as both decent ramp and coming down as an absolute wrecking ball if we’ve been doing our ramp correctly. There are few more destructive forces we can have in the late game when our entire plan is to play all the lands. Azusa, Lost but Seeking is exactly the kind of help we need to move through our deck once Radha is on the field. Given that we can play lands off the top of our library, dropping any potential dead draws straight onto the battlefield is a pretty freaking strong upside. We’re also including Dryad of the Ilysian Grove for exactly the same reason. Solemn Simulacrum is… okay so it doesn’t really need a highlight. It’s Sad Robot. But at the same time SAD ROBOT MADE IT INTO BRAWL!!! Just like Cultivate , seeing EDH staples rubbing shoulders with our Brawl ruffians just hits the feels the right way, ya know? And when that’s not enough, we’ve got Arboreal Grazer , Migration Path , and Migratory Greathorn as well as plenty of dorks like Incubation Druid and Paradise Druid making one final tour before rotation in a month-ish…I’ll really miss these guys, but I have high hopes for Zendikar! Generals, Sir. Elder Gargaroth is this year’s Questing Beast and I for one am here for it. Swapping Haste and Deathtouch for Reach and Trample as well as just a ridiculous swath of abilities make the Elder a auto-include, for better or for worse. Nyxbloom Ancient is our best chance to get a multi-activation Radha going and while I never was able to put the two together I honestly might just keep playing this deck until I do. With a chance to be tripling the land benefit as well as all the other ridiculous stuff Green can do with three times the mana Nyxbloom’s troops will leave no opponent standing. Terror of the Peaks is proof that there’s actually red in this deck. Terror is a uhh “Terror” on its own, but given Green’s propensity to be playing big creatures it’s a match made in heaven to systematically wipe your opponent’s board. And their face. Gimme That Good Gruul If you’ve been into Brawl since it’s return in Eldraine you know just how ridiculously strong Green is. I can say quite honestly it’s second to none and any decks I’ve schemed up with Green in them generally rely on it to do the heavy lifting. That being said, it would be wrong to completely ignore Radha’s Red tilt. We saw Terror of the Peaks above but there are some powerful pieces that make the perfect complement to Green’s rampant board domination. Fires of Invention might be out of Standard’s good graces, but in a deck where lands are the name of the game? The synergies are priceless. More often than not I’d end up playing a beefy spell, followed by a ramp spell, each turn until mana became a concern of the past. Is this card a lil broken? Yes. Does it still feel good to drop a Cavalier of Thorns and an Aggressive Mammoth in a single turn? (And as Julian pointed out to me, it also leaves your mana open for activated abilities, Radha approves of this development.) Rhythm of the Wild is one of Gruul’s best support pieces against the ridiculous number of people in Brawl’s queue who have the audacity to counter my spells. In the playtests I did to prepare for this article, three of the five games I played with this particular build were up against decks that played at LEAST seven counterspells each. I’m not about that, and Rhythm saved my butt many a time making sure we could play our big ugly monsters (and get Radha on the board which is usually quite difficult) Fling …is all I have to say about that. The Results So…I’m not lying when I say this deck has had the best record I’ve ever recorded with an Enter The Guildhall deck. When I finally put this list together after countless versions and tweaks I went 5-0, but I will concede two of those victories were due in part to opponent misplays. In one against Tamiyo, Collector of Tales - my opponent tried to Voracious Greatshark my Elder Gargaroth when Rhythm of the Wild was on the field which… didn’t go how they were expecting. In another close game against Thryx, the Sudden Storm I swung for lethal with a Radha that had mutated with Migratory Greathorn on top meaning my Radha was now a four cmc 3/4 with all the rest of her abilities. This became quite important when my opponent activated their Blast Zone for three (Radha’s cmc) and was left wondering why it hadn’t worked. In short, always read your opponents cards - even if you think you know what they do. They still could surprise you. That’s not to say this isn’t a super strong deck, it is! Hitting someone for 21 is satisfying to such a core level my inner caveman was jumping up and down beating his chest. This deck does what Gruul does best. Smash. Radha You waiting for Commander Radha, Heart of Keld Creatures 1x Aggressive Mammoth 1x Arboreal Grazer 1x Azusa, Lost but Seeking 1x Beanstalk Giant 1x Cavalier of Thorns 1x Dryad of the Ilysian Grove 1x Elder Gargaroth 1x Evolution Sage 1x Gilded Goose 1x Ilysian Caryatid 1x Incubation Druid 1x Leafkin Druid 1x Migratory Greathorn 1x Nyxbloom Ancient 1x Paradise Druid 1x Questing Beast 1x Solemn Simulacrum 1x Terror of the Peaks 1x Voracious Hydra Enchantments 1x Fires of Invention 1x Kenrith's Transformation 1x Omen of the Hunt 1x Rhythm of the Wild Instants 1x Fling 1x Return of the Wildspeaker 1x Soul Sear 1x Veil of Summer Sorceries 1x Cultivate 1x Domri's Ambush 1x Lava Coil 1x Migration Path Planeswalkers 1x Nissa. Who Shakes the World 1x Ugin, the Spirit Dragon Lands 1x Command Tower 1x Fabled Passage 11x Forest 1x Gingerbread Cabin 1x Gruul Guildgate 6x Mountain 1x Rugged Highlands 1x Stomping Ground 1x Temple of Abandon Closing Thoughts The only thing that could make this deck better is if we had a lands-matter theme in an upcoming set haha ooooo boy can’t imagine we’d get that lucky though…</summary></entry><entry><title type="html">A New Hope (Historic)</title><link href="hexdrinkers.com/historically%20speaking/2020/08/12/historic1.html" rel="alternate" type="text/html" title="A New Hope (Historic)" /><published>2020-08-12T00:00:00-07:00</published><updated>2020-08-12T00:00:00-07:00</updated><id>hexdrinkers.com/historically%20speaking/2020/08/12/historic1</id><content type="html" xml:base="hexdrinkers.com/historically%20speaking/2020/08/12/historic1.html">&lt;p&gt;What’s good y’all?! Today, Hexdrinkers treads into new territory… &lt;em&gt;Historic&lt;/em&gt;! I’ve been hearing increasing murmurs of the format and its potential greatness. With my interest in &lt;em&gt;Standard&lt;/em&gt; waning for the time being, and the recent shakeups across many formats, I figured this was a perfect time for me to fully delve into the format in a new series: &lt;em&gt;Historically Speaking…&lt;/em&gt;!
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/9J8gnvAxmDFbG/giphy.gif&quot; style=&quot;max-width: 100%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-But as I was booting MTGA up, I realized, I have no clue what I’m doing.&lt;/p&gt;
-
-&lt;p&gt;So, for my benefit and your entertainment, this article will detail the beginning of my foray into &lt;em&gt;Historic&lt;/em&gt;; how it works, the card pool, the in and outs, I’ll present my full research on all of this as a baseline for moving forward. I’ll also discuss the meta a bit, though that is in flux at the moment. This article will mostly act as a sort of primer and then I hope to get into gameplay and deck techs later on.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-island-of-misfit-toys&quot;&gt;The Island of Misfit Toys&lt;/h2&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;/assets/images/historic/misfitToys.png&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Historic&lt;/em&gt; is a non-rotating format exclusive to &lt;em&gt;MTG Arena&lt;/em&gt;. This means that unlike &lt;em&gt;Standard&lt;/em&gt; cards will stay in the format forever unless they’re banned. The &lt;em&gt;Historic&lt;/em&gt; pool includes any cards that have ever made their way to &lt;em&gt;Arena&lt;/em&gt;. &lt;em&gt;Dominaria&lt;/em&gt;, &lt;em&gt;Ixalan&lt;/em&gt; as well as the more recent pick-and-choose remasters but we’ll get to those in a minute.&lt;/p&gt;
-
-&lt;p&gt;Since &lt;em&gt;Historic&lt;/em&gt; was designed as a digital format, it also allows &lt;em&gt;Wizards&lt;/em&gt; to tweak it and try new things on a much larger scale and more consistently. This is a uniqueness that you can’t get in paper formats or ones that have long standing histories. Now you may be thinking that just means bannings and unbannings will be much more frequent, but there are other ways to shake up the format that are more interesting and arguably healthier than constant banlist adjustment.&lt;/p&gt;
-
-&lt;h2 id=&quot;old-toys--new-toys&quot;&gt;Old Toys = New Toys&lt;/h2&gt;
-
-&lt;p&gt;Historic, similar to the precedent set by &lt;em&gt;Modern Masters&lt;/em&gt; last year, has its own unique sets that inject cards directly into the format bypassing &lt;em&gt;Standard&lt;/em&gt; completely. These &lt;em&gt;Historic Anthologies&lt;/em&gt; are small, curated batches of cards from across &lt;em&gt;Magic’s&lt;/em&gt; vast history designed to fill gaps in the format. Adding answers to unchecked strategies, fan favorites from history, or support for new archetypes that need a boost, that’s what these products do for the format.. Powerhouses from days gone by like 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/181/miraris-wake?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/b/0b461cce-02c7-4c93-afaa-32400ff82942.jpg?1562599586' width=100% height=100%&amp;gt;&quot;&gt;
-	Mirari’s Wake
-&lt;/a&gt;, &lt;em&gt;Modern&lt;/em&gt; staples like 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/36/thalia-guardian-of-thraben?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/7/97ff44c9-6ff5-432d-9876-488c96833c39.jpg?1562438581' width=100% height=100%&amp;gt;&quot;&gt;
-	Thalia, Guardian of Thraben
-&lt;/a&gt;, and even kitchen table favorites like 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/31/serra-ascendant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/0/a/0a22ee47-fc56-436d-8570-88fbff421027.jpg?1562845354' width=100% height=100%&amp;gt;&quot;&gt;
-	Serra Ascendant
-&lt;/a&gt;. These anthologies cover a broad spectrum of interesting play styles and eras to make &lt;em&gt;Historic&lt;/em&gt; truly unique.&lt;/p&gt;
-
-&lt;p&gt;So far, three of these anthologies have been released. &lt;a href=&quot;https://scryfall.com/sets/ha1?as=grid&amp;amp;order=set&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Historic Anthology I&lt;/em&gt;&lt;/a&gt; in November of 2019 brought 20 new cards, &lt;a href=&quot;https://scryfall.com/sets/ha2?as=grid&amp;amp;order=set&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Historic Anthology II&lt;/em&gt;&lt;/a&gt; in March of 2020 had an increased 25 cards, and in May of 2020, &lt;a href=&quot;https://scryfall.com/sets/ha3?as=grid&amp;amp;order=set&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Historic Anthology 3&lt;/em&gt;&lt;/a&gt; upped the package again to 27 new cards to play with. Each one (which granted a playset of each card included) was available for 3400 gems on &lt;em&gt;Arena&lt;/em&gt;, or individual cards could be crafted using the wildcard system. Though these are no longer available as bundles like before, &lt;em&gt;Wizards&lt;/em&gt; has said they hope to drop new cards into &lt;em&gt;Historic&lt;/em&gt; every quarter, so we can almost certainly expect anthologies 4, 5, etc. to drop moving into next year with a similar amount of cards (or slightly increased) and with a similar “price point”. 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/l2QDMzntLKB6HN7Ow/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-Though that isn’t the only way new cards get added into &lt;em&gt;Historic&lt;/em&gt;. In December of 2019, 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/213/rhys-the-redeemed?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/b/9/b91dadcb-31e9-43b0-b425-c9311af3e9d7.jpg?1596139016' width=100% height=100%&amp;gt;&quot;&gt;
-	Rhys, the Redeemed
-&lt;/a&gt; was added into both &lt;em&gt;Brawl&lt;/em&gt; and &lt;em&gt;Historic&lt;/em&gt; as part of the &lt;em&gt;Brawlidays&lt;/em&gt; special event. Though nothing like this has happened since, it’s safe to say that we could receive singular (or much smaller than an anthology) drops as part of special events at really any time.&lt;/p&gt;
-
-&lt;p&gt;The most recent and largest addition to the format comes in the form of &lt;a href=&quot;https://magic.wizards.com/en/articles/archive/news/introducing-jumpstart-new-way-play-magic-2020-02-20&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Jumpstart&lt;/em&gt;&lt;/a&gt;, the supplemental summer set released a few weeks back. &lt;em&gt;Jumpstart&lt;/em&gt; included a &lt;a href=&quot;https://magic.wizards.com/en/articles/archive/card-image-gallery/jumpstart&quot; target=&quot;_blank&quot;&gt;host of tasty reprints as well as a slew of new cards&lt;/a&gt; to assist each theme (and cater to eternal formats). Because of this and with its release on &lt;em&gt;Arena&lt;/em&gt;, &lt;em&gt;Jumpstart&lt;/em&gt; cards also were added into &lt;em&gt;Historic&lt;/em&gt; (with a &lt;a href=&quot;https://magic.wizards.com/en/articles/archive/news/jumpstart-cards-being-replaced-mtg-arena-2020-06-17&quot; target=&quot;_blank&quot;&gt;caveat&lt;/a&gt;). Exciting!&lt;/p&gt;
-
-&lt;h2 id=&quot;time-out&quot;&gt;Time-Out&lt;/h2&gt;
-
-&lt;p&gt;So we have dedicated, curated drops, special event inclusions, as well as supplemental sets that can get added. All of these avenues mean the &lt;em&gt;Historic&lt;/em&gt; card pool is continually growing and cards that are new and exciting as well as helpful to the meta are constantly being shuffled in. But sometimes action needs to be taken to help balance the format.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/S9KZTIzcPM3Ju/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-I’m of course talking about the traditional way of “fixing” formats… &lt;strong&gt;Bannings&lt;/strong&gt;. Something that we’ve been all too familiar with over the past year. &lt;a href=&quot;https://mtg.gamepedia.com/Historic_(format)&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Historic&lt;/em&gt; has a banned list&lt;/a&gt; just like other formats (in fact, it looks quite similar to &lt;em&gt;Standard’s&lt;/em&gt;, more on that later), but it also has a second form of disciplinary action: the Suspension.&lt;/p&gt;
-
-&lt;p&gt;Another benefit of an all digital format is that instead of having to go through the ordeal of outright banning something, &lt;em&gt;Wizards&lt;/em&gt; can suspend cards, essentially putting them in “time-out”. A suspended card is not legal in the format, but it only remains in that status for a short time (usually one to two months). During this time, the meta can readjust and &lt;em&gt;Wizards&lt;/em&gt; can watch to see if the format becomes healthier or if other problems arise. After the allotted time, the card either moves from suspension to banning, or can be reintroduced into the card pool. Most cards so far have gotten banned after serving their time, but some cards have been returned to the format and it sets a nice precedent for the future.&lt;/p&gt;
-
-&lt;p&gt;Being able to more quickly take action, test the effects of certain changes, and also not having the feel-bads or negative PR of a true ban, the suspension system is interesting and probably good for &lt;em&gt;Historic&lt;/em&gt; and one of the benefits of an all digital format.&lt;/p&gt;
-
-&lt;h2 id=&quot;as-above-so-below&quot;&gt;As Above, So Below&lt;/h2&gt;
-
-&lt;p&gt;Lastly, let’s discuss the &lt;em&gt;Historic&lt;/em&gt; meta briefly, so we know what we’re getting ourselves into. Given the power of the last year and a half of printings and also the so far limited card pool of the format, a lot of it looks similar to recent &lt;em&gt;Standard&lt;/em&gt;. Up until the suspensions, Temur Reclamation was the top deck with variation on Bant and Sultai Ramp also doing well and variations of Sacrifice and Mono-red jockeying for position. In previous iterations of the format, 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/125/fires-of-invention?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860' width=100% height=100%&amp;gt;&quot;&gt;
-	Fires of Invention
-&lt;/a&gt; or 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/216/winota-joiner-of-forces?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1591630143' width=100% height=100%&amp;gt;&quot;&gt;
-	Winota, Joiner of Forces
-&lt;/a&gt; decks were dominant. 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/247/field-of-the-dead?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1592517808' width=100% height=100%&amp;gt;&quot;&gt;
-	Field of the Dead
-&lt;/a&gt; builds, usually with 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/226/golos-tireless-pilgrim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1592517637' width=100% height=100%&amp;gt;&quot;&gt;
-	Golos, Tireless Pilgrim
-&lt;/a&gt; have wavered in and out of the top of the format, with Field being one of the cards that was initially suspended and then un-suspended. 
-&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-After digesting several metagame breakdowns and deck techs, I feel I have a reasonable understanding of the &lt;em&gt;Historic&lt;/em&gt; metagame. One of the characteristics setting it apart from &lt;em&gt;Standard&lt;/em&gt; is the presence of several powerful aggressive decks (though the recent bannings have started to prompt a resurgence in &lt;em&gt;Standard&lt;/em&gt;). Mono-red, similar to its &lt;em&gt;Standard&lt;/em&gt; counterpart, is strong and recently a top-tier version of a Goblins deck has emerged thanks to the additions in &lt;em&gt;Jumpstart&lt;/em&gt; and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1592705417' width=100% height=100%&amp;gt;&quot;&gt;
-	Muxus, Goblin Grandee
-&lt;/a&gt;. Mono-green and mono-black both can compete, and there’s even a mono-blue aggro/tempo deck with 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/147/curiosity?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/c/5/c5a0be10-c20f-4ac0-89a5-1770ecf48aad.jpg?1592706075' width=100% height=100%&amp;gt;&quot;&gt;
-	Curiosity
-&lt;/a&gt; similar to the Mythic Championship winning deck from last year. Gruul aggro with the powerhouses 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/171/questing-beast?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/e/4/e41cf82d-3213-47ce-a015-6e51a8b07e4f.jpg?1572490640' width=100% height=100%&amp;gt;&quot;&gt;
-	Questing Beast
-&lt;/a&gt; and 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/120/embercleave?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/a/a/aaae15dd-11b6-4421-99e9-365c7fe4a5d6.jpg?1572490333' width=100% height=100%&amp;gt;&quot;&gt;
-	Embercleave
-&lt;/a&gt; has been tier one for quite a while (though it just took a hit with the explosive 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dds/55/burning-tree-emissary?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/2/2/22e3e874-a0ec-4459-b78d-abef6b9232b9.jpg?1592761843' width=100% height=100%&amp;gt;&quot;&gt;
-	Burning-tree Emissary
-&lt;/a&gt; getting suspended).&lt;/p&gt;
-
-&lt;h2 id=&quot;history-is-written-by-the-victors&quot;&gt;History is Written by the Victors&lt;/h2&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/MBgdGZh70DbViIZlgr/giphy.gif&quot; style=&quot;max-width: 100%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-With the recent regicide of 
-&lt;a class=&quot;accented-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/196/wilderness-reclamation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://img.scryfall.com/cards/normal/front/9/4/94a28102-dfbe-49e9-b64f-52b552afac1b.jpg?1596451498' width=100% height=100%&amp;gt;&quot;&gt;
-	Wilderness Reclamation
-&lt;/a&gt;, I suspect that these tier two decks will quickly rise to fill the space. Also, &lt;em&gt;Jumpstart&lt;/em&gt; cards are still fresh and haven’t been tested fully, so I hope they will start to make even more impacts and soon we’ll have a new set in &lt;em&gt;Zendikar Rising&lt;/em&gt; to shake things up even more!&lt;/p&gt;
-
-&lt;p&gt;I’m excited to explore this fresh new format! Next week I’ll be doing a deeper dive into the current decks and testing some of them out. After that it’s off to the Hexdrinkers special laboratory to concoct up some lists of our own! Hit us up in the comments or on social media for anything you want to see me build around, and remember to stay brewin’ y’all!!
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="Historically Speaking..." /><category term="Historic" /><summary type="html">What’s good y’all?! Today, Hexdrinkers treads into new territory… Historic! I’ve been hearing increasing murmurs of the format and its potential greatness. With my interest in Standard waning for the time being, and the recent shakeups across many formats, I figured this was a perfect time for me to fully delve into the format in a new series: Historically Speaking…! But as I was booting MTGA up, I realized, I have no clue what I’m doing. So, for my benefit and your entertainment, this article will detail the beginning of my foray into Historic; how it works, the card pool, the in and outs, I’ll present my full research on all of this as a baseline for moving forward. I’ll also discuss the meta a bit, though that is in flux at the moment. This article will mostly act as a sort of primer and then I hope to get into gameplay and deck techs later on. The Island of Misfit Toys Historic is a non-rotating format exclusive to MTG Arena. This means that unlike Standard cards will stay in the format forever unless they’re banned. The Historic pool includes any cards that have ever made their way to Arena. Dominaria, Ixalan as well as the more recent pick-and-choose remasters but we’ll get to those in a minute. Since Historic was designed as a digital format, it also allows Wizards to tweak it and try new things on a much larger scale and more consistently. This is a uniqueness that you can’t get in paper formats or ones that have long standing histories. Now you may be thinking that just means bannings and unbannings will be much more frequent, but there are other ways to shake up the format that are more interesting and arguably healthier than constant banlist adjustment. Old Toys = New Toys Historic, similar to the precedent set by Modern Masters last year, has its own unique sets that inject cards directly into the format bypassing Standard completely. These Historic Anthologies are small, curated batches of cards from across Magic’s vast history designed to fill gaps in the format. Adding answers to unchecked strategies, fan favorites from history, or support for new archetypes that need a boost, that’s what these products do for the format.. Powerhouses from days gone by like Mirari’s Wake , Modern staples like Thalia, Guardian of Thraben , and even kitchen table favorites like Serra Ascendant . These anthologies cover a broad spectrum of interesting play styles and eras to make Historic truly unique. So far, three of these anthologies have been released. Historic Anthology I in November of 2019 brought 20 new cards, Historic Anthology II in March of 2020 had an increased 25 cards, and in May of 2020, Historic Anthology 3 upped the package again to 27 new cards to play with. Each one (which granted a playset of each card included) was available for 3400 gems on Arena, or individual cards could be crafted using the wildcard system. Though these are no longer available as bundles like before, Wizards has said they hope to drop new cards into Historic every quarter, so we can almost certainly expect anthologies 4, 5, etc. to drop moving into next year with a similar amount of cards (or slightly increased) and with a similar “price point”. Though that isn’t the only way new cards get added into Historic. In December of 2019, Rhys, the Redeemed was added into both Brawl and Historic as part of the Brawlidays special event. Though nothing like this has happened since, it’s safe to say that we could receive singular (or much smaller than an anthology) drops as part of special events at really any time. The most recent and largest addition to the format comes in the form of Jumpstart, the supplemental summer set released a few weeks back. Jumpstart included a host of tasty reprints as well as a slew of new cards to assist each theme (and cater to eternal formats). Because of this and with its release on Arena, Jumpstart cards also were added into Historic (with a caveat). Exciting! Time-Out So we have dedicated, curated drops, special event inclusions, as well as supplemental sets that can get added. All of these avenues mean the Historic card pool is continually growing and cards that are new and exciting as well as helpful to the meta are constantly being shuffled in. But sometimes action needs to be taken to help balance the format. I’m of course talking about the traditional way of “fixing” formats… Bannings. Something that we’ve been all too familiar with over the past year. Historic has a banned list just like other formats (in fact, it looks quite similar to Standard’s, more on that later), but it also has a second form of disciplinary action: the Suspension. Another benefit of an all digital format is that instead of having to go through the ordeal of outright banning something, Wizards can suspend cards, essentially putting them in “time-out”. A suspended card is not legal in the format, but it only remains in that status for a short time (usually one to two months). During this time, the meta can readjust and Wizards can watch to see if the format becomes healthier or if other problems arise. After the allotted time, the card either moves from suspension to banning, or can be reintroduced into the card pool. Most cards so far have gotten banned after serving their time, but some cards have been returned to the format and it sets a nice precedent for the future. Being able to more quickly take action, test the effects of certain changes, and also not having the feel-bads or negative PR of a true ban, the suspension system is interesting and probably good for Historic and one of the benefits of an all digital format. As Above, So Below Lastly, let’s discuss the Historic meta briefly, so we know what we’re getting ourselves into. Given the power of the last year and a half of printings and also the so far limited card pool of the format, a lot of it looks similar to recent Standard. Up until the suspensions, Temur Reclamation was the top deck with variation on Bant and Sultai Ramp also doing well and variations of Sacrifice and Mono-red jockeying for position. In previous iterations of the format, Fires of Invention or Winota, Joiner of Forces decks were dominant. Field of the Dead builds, usually with Golos, Tireless Pilgrim have wavered in and out of the top of the format, with Field being one of the cards that was initially suspended and then un-suspended. After digesting several metagame breakdowns and deck techs, I feel I have a reasonable understanding of the Historic metagame. One of the characteristics setting it apart from Standard is the presence of several powerful aggressive decks (though the recent bannings have started to prompt a resurgence in Standard). Mono-red, similar to its Standard counterpart, is strong and recently a top-tier version of a Goblins deck has emerged thanks to the additions in Jumpstart and Muxus, Goblin Grandee . Mono-green and mono-black both can compete, and there’s even a mono-blue aggro/tempo deck with Curiosity similar to the Mythic Championship winning deck from last year. Gruul aggro with the powerhouses Questing Beast and Embercleave has been tier one for quite a while (though it just took a hit with the explosive Burning-tree Emissary getting suspended). History is Written by the Victors With the recent regicide of Wilderness Reclamation , I suspect that these tier two decks will quickly rise to fill the space. Also, Jumpstart cards are still fresh and haven’t been tested fully, so I hope they will start to make even more impacts and soon we’ll have a new set in Zendikar Rising to shake things up even more! I’m excited to explore this fresh new format! Next week I’ll be doing a deeper dive into the current decks and testing some of them out. After that it’s off to the Hexdrinkers special laboratory to concoct up some lists of our own! Hit us up in the comments or on social media for anything you want to see me build around, and remember to stay brewin’ y’all!!</summary></entry></feed>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="Enter The Guildhall" /><category term="Brawl" /><summary type="html">Ahhhh It’s been a while since I’ve been able to publish something and boy does it feel good! After a week and a half spent driving across the country and getting acclimated to the constant sunshine and mellow temperatures of Southern California, I can once again spend countless hours inside with the blinds closed playing Arena. We’re back… …and with quite the spicy brew! This deck actually took me quite some time to tweak and get juuust right, but I have a feeling you’ll love the end product. For this fine installment of Enter the Guildhall we’ll be following Radha, Heart of Keld as she tears a path across Dominaria leading her army of lands to victory a la Blackblade Reforged . This iteration of Radha is a departure from her “mana dork” roots, but what an explosive pump ability! And it can be repeated!! Ooooookay, huddle in and let’s talk strategy. It shouldn’t be a surprise that this deck is going to be base-green. Considering the only thing kinda Red about Radha’s design is first strike (although I guess you could make an argument for massive pump being Gruul given things like Xenagos, God of Revels ), the bulk of Radha’s ability suite will come from playing lands of all shapes and sizes; very Green indeed. Once we have a decent manabase online it’ll be time to swing in with Radha and a collection of Gruul allstars. Since we’re in Green we’ll include Questing Beast , Aggressive Mammoth , Nissa, Who Shakes the World , etc. but Red won’t be outdone. Now, I don’t want to give too much away in the intro but ahem BOY I sure am TERRIFIED of these PEAKS. More on that below. After that comes some super secret Gruul sauce I’ve wanted to try out and a dash of removal to spice it up. Presto! One haymaker fresh out of the oven. Lands, Ho! Beanstalk Giant pulls double duty as both decent ramp and coming down as an absolute wrecking ball if we’ve been doing our ramp correctly. There are few more destructive forces we can have in the late game when our entire plan is to play all the lands. Azusa, Lost but Seeking is exactly the kind of help we need to move through our deck once Radha is on the field. Given that we can play lands off the top of our library, dropping any potential dead draws straight onto the battlefield is a pretty freaking strong upside. We’re also including Dryad of the Ilysian Grove for exactly the same reason. Solemn Simulacrum is… okay so it doesn’t really need a highlight. It’s Sad Robot. But at the same time SAD ROBOT MADE IT INTO BRAWL!!! Just like Cultivate , seeing EDH staples rubbing shoulders with our Brawl ruffians just hits the feels the right way, ya know? And when that’s not enough, we’ve got Arboreal Grazer , Migration Path , and Migratory Greathorn as well as plenty of dorks like Incubation Druid and Paradise Druid making one final tour before rotation in a month-ish…I’ll really miss these guys, but I have high hopes for Zendikar! Generals, Sir. Elder Gargaroth is this year’s Questing Beast and I for one am here for it. Swapping Haste and Deathtouch for Reach and Trample as well as just a ridiculous swath of abilities make the Elder a auto-include, for better or for worse. Nyxbloom Ancient is our best chance to get a multi-activation Radha going and while I never was able to put the two together I honestly might just keep playing this deck until I do. With a chance to be tripling the land benefit as well as all the other ridiculous stuff Green can do with three times the mana Nyxbloom’s troops will leave no opponent standing. Terror of the Peaks is proof that there’s actually red in this deck. Terror is a uhh “Terror” on its own, but given Green’s propensity to be playing big creatures it’s a match made in heaven to systematically wipe your opponent’s board. And their face. Gimme That Good Gruul If you’ve been into Brawl since it’s return in Eldraine you know just how ridiculously strong Green is. I can say quite honestly it’s second to none and any decks I’ve schemed up with Green in them generally rely on it to do the heavy lifting. That being said, it would be wrong to completely ignore Radha’s Red tilt. We saw Terror of the Peaks above but there are some powerful pieces that make the perfect complement to Green’s rampant board domination. Fires of Invention might be out of Standard’s good graces, but in a deck where lands are the name of the game? The synergies are priceless. More often than not I’d end up playing a beefy spell, followed by a ramp spell, each turn until mana became a concern of the past. Is this card a lil broken? Yes. Does it still feel good to drop a Cavalier of Thorns and an Aggressive Mammoth in a single turn? (And as Julian pointed out to me, it also leaves your mana open for activated abilities, Radha approves of this development.) Rhythm of the Wild is one of Gruul’s best support pieces against the ridiculous number of people in Brawl’s queue who have the audacity to counter my spells. In the playtests I did to prepare for this article, three of the five games I played with this particular build were up against decks that played at LEAST seven counterspells each. I’m not about that, and Rhythm saved my butt many a time making sure we could play our big ugly monsters (and get Radha on the board which is usually quite difficult) Fling …is all I have to say about that. The Results So…I’m not lying when I say this deck has had the best record I’ve ever recorded with an Enter The Guildhall deck. When I finally put this list together after countless versions and tweaks I went 5-0, but I will concede two of those victories were due in part to opponent misplays. In one against Tamiyo, Collector of Tales - my opponent tried to Voracious Greatshark my Elder Gargaroth when Rhythm of the Wild was on the field which… didn’t go how they were expecting. In another close game against Thryx, the Sudden Storm I swung for lethal with a Radha that had mutated with Migratory Greathorn on top meaning my Radha was now a four cmc 3/4 with all the rest of her abilities. This became quite important when my opponent activated their Blast Zone for three (Radha’s cmc) and was left wondering why it hadn’t worked. In short, always read your opponents cards - even if you think you know what they do. They still could surprise you. That’s not to say this isn’t a super strong deck, it is! Hitting someone for 21 is satisfying to such a core level my inner caveman was jumping up and down beating his chest. This deck does what Gruul does best. Smash. Radha You waiting for Commander Radha, Heart of Keld Creatures 1x Aggressive Mammoth 1x Arboreal Grazer 1x Azusa, Lost but Seeking 1x Beanstalk Giant 1x Cavalier of Thorns 1x Dryad of the Ilysian Grove 1x Elder Gargaroth 1x Evolution Sage 1x Gilded Goose 1x Ilysian Caryatid 1x Incubation Druid 1x Leafkin Druid 1x Migratory Greathorn 1x Nyxbloom Ancient 1x Paradise Druid 1x Questing Beast 1x Solemn Simulacrum 1x Terror of the Peaks 1x Voracious Hydra Enchantments 1x Fires of Invention 1x Kenrith's Transformation 1x Omen of the Hunt 1x Rhythm of the Wild Instants 1x Fling 1x Return of the Wildspeaker 1x Soul Sear 1x Veil of Summer Sorceries 1x Cultivate 1x Domri's Ambush 1x Lava Coil 1x Migration Path Planeswalkers 1x Nissa. Who Shakes the World 1x Ugin, the Spirit Dragon Lands 1x Command Tower 1x Fabled Passage 11x Forest 1x Gingerbread Cabin 1x Gruul Guildgate 6x Mountain 1x Rugged Highlands 1x Stomping Ground 1x Temple of Abandon Closing Thoughts The only thing that could make this deck better is if we had a lands-matter theme in an upcoming set haha ooooo boy can’t imagine we’d get that lucky though…</summary></entry></feed>
