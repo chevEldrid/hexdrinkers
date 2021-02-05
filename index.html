@@ -35,7 +35,7 @@
 <meta property="twitter:title" content="The Hexdrinkers" />
 <meta name="twitter:site" content="@hexdrinkers" />
 <script type="application/ld+json">
-{"@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"hexdrinkers.com/assets/images/logo.png"}},"url":"hexdrinkers.com/","name":"The Hexdrinkers","headline":"The Hexdrinkers","description":"Magic the Gathering and Magic Arena decks, strategy, and commentary","sameAs":["https://twitter.com/hexdrinkers"],"@context":"https://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"hexdrinkers.com/assets/images/logo.png"}},"@type":"WebSite","url":"hexdrinkers.com/","headline":"The Hexdrinkers","sameAs":["https://twitter.com/hexdrinkers"],"name":"The Hexdrinkers","description":"Magic the Gathering and Magic Arena decks, strategy, and commentary","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!--Twitter-->
@@ -132,7 +132,7 @@
         }
         document.getElementById("logo").src = "favicon.png";
     }
-    req.open("GET", "http://status.hexdrinkers.com", true);
+    req.open("GET", "https://status.hexdrinkers.com", true);
     req.send(null);
     }
     window.onload = get_twitch_status;
