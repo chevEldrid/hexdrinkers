@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>hexdrinkers.com/authors/chev.html</loc>
-<lastmod>2021-02-24T08:04:23-08:00</lastmod>
+<lastmod>2021-02-26T08:06:47-08:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/eric.html</loc>
-<lastmod>2021-02-24T08:04:23-08:00</lastmod>
+<lastmod>2021-02-26T08:06:47-08:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/julian.html</loc>
-<lastmod>2021-02-24T08:04:23-08:00</lastmod>
+<lastmod>2021-02-26T08:06:47-08:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/oakley.html</loc>
-<lastmod>2021-02-24T08:04:23-08:00</lastmod>
+<lastmod>2021-02-26T08:06:47-08:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/intro/2020/05/10/welcome.html</loc>
@@ -185,6 +185,10 @@
 <lastmod>2021-02-09T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>hexdrinkers.com/the%20year%20of%20brew/2021/02/14/YoB6.html</loc>
+<lastmod>2021-02-14T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>hexdrinkers.com/2021/02/14/amredh_formatted.html</loc>
 <lastmod>2021-02-14T00:00:00-08:00</lastmod>
 </url>
@@ -249,5 +253,8 @@
 </url>
 <url>
 <loc>hexdrinkers.com/articles/3/</loc>
+</url>
+<url>
+<loc>hexdrinkers.com/articles/4/</loc>
 </url>
 </urlset>
