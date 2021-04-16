@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>hexdrinkers.com/authors/chev.html</loc>
-<lastmod>2021-03-28T16:42:53-07:00</lastmod>
+<lastmod>2021-04-15T19:46:14-07:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/eric.html</loc>
-<lastmod>2021-03-28T16:42:53-07:00</lastmod>
+<lastmod>2021-04-15T19:46:14-07:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/julian.html</loc>
-<lastmod>2021-03-28T16:42:53-07:00</lastmod>
+<lastmod>2021-04-15T19:46:14-07:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/authors/oakley.html</loc>
-<lastmod>2021-03-28T16:42:53-07:00</lastmod>
+<lastmod>2021-04-15T19:46:14-07:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/intro/2020/05/10/welcome.html</loc>
@@ -189,7 +189,7 @@
 <lastmod>2021-02-14T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>hexdrinkers.com/2021/02/14/amredh_formatted.html</loc>
+<loc>hexdrinkers.com/2021/02/14/amredh.html</loc>
 <lastmod>2021-02-14T00:00:00-08:00</lastmod>
 </url>
 <url>
@@ -219,6 +219,14 @@
 <url>
 <loc>hexdrinkers.com/the%20year%20of%20brew/2021/03/23/YoB11.html</loc>
 <lastmod>2021-03-23T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>hexdrinkers.com/the%20year%20of%20brew/2021/03/28/YoB12.html</loc>
+<lastmod>2021-03-28T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>hexdrinkers.com/the%20year%20of%20brew/2021/04/11/YoB14.html</loc>
+<lastmod>2021-04-11T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>hexdrinkers.com/about.html</loc>
