@@ -1,4 +1,543 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-06-17T20:09:51-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Shirei Sera</title><link href="hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei.html" rel="alternate" type="text/html" title="Shirei Sera" /><published>2021-06-17T00:00:00-07:00</published><updated>2021-06-17T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei.html">&lt;p&gt;What’s up everybody! Welcome back and TGIPDHD, Thank God it’s PDH Day! (The name is still being workshopped). Much like The Hexdrinkers Podcast, the type of PDH content we produce will vary from week to week. Last time we focused on some of the spicy new hotness coming our way with MH2, while this week reflects what you’ll probably be seeing the most of in our pauper content and that is: a bomb ass deck. Fresh off a one-game winning streak at our last Commander night I give to you Shirei, Shizo’s Caretaker!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-06-24T20:55:33-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Sythis For the Common Man</title><link href="hexdrinkers.com/pauper%20commander/2021/06/24/pdh_satyr.html" rel="alternate" type="text/html" title="Sythis For the Common Man" /><published>2021-06-24T00:00:00-07:00</published><updated>2021-06-24T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/06/24/pdh_satyr</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/06/24/pdh_satyr.html">&lt;p&gt;While Modern Horizons 2 has given us a slew of new commanders for PDH, I will admit - the first creature to catch my eye was a rare. I know, I know. Only one complete week into our new PDH series and my eyes are already wandering BUT &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/214/sythis-harvests-hand?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1622663715' width=100% height=100%&amp;gt;&quot;&gt;
+Sythis, Harvest’s Hand
+&lt;/a&gt; is a &lt;em&gt;super&lt;/em&gt; versatile commander and well worth the attention. In fact, they’re the star of this week’s Hexdrinkers Podcast which you should totally check out! From cEDH to a $25 budget build we cover allll the bases for the little Selesnya value engine that could.&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/e/3/e31c544f-a748-4180-8366-9bb1622bb99d.jpg?1562304816&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But we’re not gathered here today to talk about those Elder Dragons. Not when we’ve already had our &lt;em&gt;own&lt;/em&gt; Pauper Dragon Sythis for nearly three years! May I introduce: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m19/223/satyr-enchanter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e31c544f-a748-4180-8366-9bb1622bb99d.jpg?1562304816' width=100% height=100%&amp;gt;&quot;&gt;
+Satyr Enchanter
+&lt;/a&gt;. What we lose in the incidental lifegain and one more pip really becomes inconsequential once the ball starts rolling, and as anyone who might have experience with a card-draw commander (&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/206/tatyova-benthic-druid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/93657aaa-7a0f-49ad-b026-6f79b3bd6768.jpg?1591104748' width=100% height=100%&amp;gt;&quot;&gt;
+Tatyova, Benthic Druid
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/326/chulane-teller-of-tales?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/3/83f43730-1c1f-4150-8771-d901c54bedc4.jpg?1571282906' width=100% height=100%&amp;gt;&quot;&gt;
+Chulane, Teller of Tales
+&lt;/a&gt;) will know, the ball starts rolling pretty freaking fast.&lt;/p&gt;
+
+&lt;p&gt;I’m also excited to say this build has been a group effort! The original inspiration for a Satyr Enchanter PDH deck obviously came from our work on Sythis, but when Oakley shared his relatively cheap auras build including some nifty commons like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/shm/242/shield-of-the-oversoul?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242' width=100% height=100%&amp;gt;&quot;&gt;
+Shield of the Oversoul
+&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/186/rancor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059' width=100% height=100%&amp;gt;&quot;&gt;
+Rancor
+&lt;/a&gt; it immediately started bringing back memories of Eric’s &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/216/eutropia-the-twice-favored?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2159949-3d21-448d-bc34-a3dbaf219476.jpg?1581481050' width=100% height=100%&amp;gt;&quot;&gt;
+Eutropia, the Twice-Favored
+&lt;/a&gt; deck from the gang’s very FIRST foray into PDH all those &lt;a href=&quot;https://open.spotify.com/episode/1v71YoFl1Dt8ZBfhftBBiN?si=1d26cd76eaa440e0&quot; target=&quot;_blank&quot;&gt;moons ago&lt;/a&gt;….(or, if you just want that simic auras decklist, you can check it &lt;a href=&quot;https://www.moxfield.com/decks/EL3sxrW5wk67XlZRvU85FQ&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;While the majority of this build is the combined effort of Oakley and I, we did hire Eric as an independent consultant to fully vet our auras and test for leaks. Ladies, Gents, I’m proud to say this deck has got the Von Allmen seal of approval. We made it. But that’s enough preamble, Let’s deck tech!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-build&quot;&gt;The Build&lt;/h3&gt;
+
+&lt;p&gt;What we’ve got here is a classic auras enchantment build that hopes to turn an explosive start of card advantage into just out-valuing our opponents as the game continues.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/5/15625580-3cbd-459c-a667-87efdcdaf2b2.jpg?1562433020&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/0/e/0e1ae3d6-6d96-4db6-bbc4-cee91bae6cf7.jpg?1562898244&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d2e16cbe-b52b-46d7-8532-2068684b3491.jpg?1618251934&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m19/223/satyr-enchanter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e31c544f-a748-4180-8366-9bb1622bb99d.jpg?1562304816' width=100% height=100%&amp;gt;&quot;&gt;
+Satyr Enchanter
+&lt;/a&gt; benefits from being on the battlefield early and often, we’re hoping to consistently drop them on turn three and just start drawing ALL the cards. With that in mind, a lot of our ramp/early pieces are looking to have a mana value of 2 or less. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/192/utopia-sprawl?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15625580-3cbd-459c-a667-87efdcdaf2b2.jpg?1562433020' width=100% height=100%&amp;gt;&quot;&gt;
+Utopia Sprawl
+&lt;/a&gt; or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/165/wild-growth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18fbebd4-d5b4-429a-bfbd-8a7173924d1c.jpg?1592711009' width=100% height=100%&amp;gt;&quot;&gt;
+Wild Growth
+&lt;/a&gt; are GREAT t1 options to get our little Satyr onto the battlefield a turn early. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/123/font-of-fertility?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/ac8d1ecb-de7c-4641-81da-13117820195c.jpg?1593096189' width=100% height=100%&amp;gt;&quot;&gt;
+Font of Fertility
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/204/rampant-growth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2e16cbe-b52b-46d7-8532-2068684b3491.jpg?1618251934' width=100% height=100%&amp;gt;&quot;&gt;
+Rampant Growth
+&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/147/fertile-ground?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e1fbfce-9677-4ae2-b525-1bb371c8e109.jpg?1592710906' width=100% height=100%&amp;gt;&quot;&gt;
+Fertile Ground
+&lt;/a&gt; are what we’re going to be looking for on that t2 where any one of them would allow us to spend the next turn dropping our commander with a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/21/hyena-umbra?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87128a82-bcde-4def-9447-0ab8165d6b5e.jpg?1547515597' width=100% height=100%&amp;gt;&quot;&gt;
+Hyena Umbra
+&lt;/a&gt; for protection or at least some other 1 mv enchantment out to start the value train. Our final ramp option at that sweet spot of 2 mv is the ever-forgotten &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/me3/120/gaeas-touch?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/f/2f23950c-f583-4559-8c3b-bd28bedecf80.jpg?1562904910' width=100% height=100%&amp;gt;&quot;&gt;
+Gaea’s Touch
+&lt;/a&gt;, or the budget cousin to &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/167/exploration?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce4c6535-afea-4704-b35c-badeb04c4f4c.jpg?1599707192' width=100% height=100%&amp;gt;&quot;&gt;
+Exploration
+&lt;/a&gt; that can ALSO serve as a quick burst of mana in the late game. Frankly I’d always consider running Gaea’s touch in any base green PDH deck.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg?1562836199&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/6/76960e65-e5c7-4414-b9a5-37d7b2ded4a0.jpg?1562788397&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After those early hits, it’s a fight to protect our bullseye-marked boy and build up terrifying threats on the backs of “protected” creatures like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m14/176/gladecover-scout?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg?1562836199' width=100% height=100%&amp;gt;&quot;&gt;
+Gladecover Scout
+&lt;/a&gt; who absolutely thrive in an environment without good wraths. Hexproof, for the most part, is broken down here and only really stoppable with combat tricks or sacrifice effects. Things no deck is going to be truly built for until they encounter a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/pca/77/silhana-ledgewalker&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/8/a/8ad3bdce-c0fa-4b5f-af14-7452b683960f.jpg?1562920729' width=100% height=100%&amp;gt;&quot;&gt;
+Silhana Edgewalker
+&lt;/a&gt; equipped with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/157/ancestral-mask?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/7/c7a19fc5-20f3-48d2-8c12-e012d3b302e7.jpg?1580014720' width=100% height=100%&amp;gt;&quot;&gt;
+Ancestral Mask
+&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rtr/9/ethereal-armor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/76960e65-e5c7-4414-b9a5-37d7b2ded4a0.jpg?1562788397' width=100% height=100%&amp;gt;&quot;&gt;
+Ethereal Armor
+&lt;/a&gt;. Trust me. Anyway, protection. For this we will generally rely on White’s bevvy of different protection effects from ACTUAL protection with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/13/benevolent-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0d5c2401-da2c-46f9-b850-f37edcbb85cd.jpg?1608908694' width=100% height=100%&amp;gt;&quot;&gt;
+Benevolent Blessing
+&lt;/a&gt; or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mmq/12/cho-mannos-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c9f33c6-5294-4584-854d-c8c0f847aba8.jpg?1562380883' width=100% height=100%&amp;gt;&quot;&gt;
+Cho-Manno’s Blessing
+&lt;/a&gt;, to granting indestructible through &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/shm/242/shield-of-the-oversoul?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242' width=100% height=100%&amp;gt;&quot;&gt;
+Shield of the Oversoul
+&lt;/a&gt;, or the aforementioned umbras of which we’re running like four. With any luck, before long both your commander and your main threats will be completely untouchable, lethal combinations of keyword soup and the biggest bodies on the table.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/3/1/31c729e2-4e55-4a14-a288-9c3473e58b88.jpg?1580013751&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/2841f538-9686-423f-ac30-0580665112e5.jpg?1608911916&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1e52f05c-29de-4d76-8a5d-113e29fa8322.jpg?1573514309&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, inevitably, someone somewhere will be able to resolve a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/89/chainers-edict?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a36a583a-d4be-4589-a43c-a2854de062c6.jpg?1547516797' width=100% height=100%&amp;gt;&quot;&gt;
+Chainer’s Edict
+&lt;/a&gt; and our whole world will have the potential to come crashing down. Playing voltron is very high-risk high-reward, and while we don’t have access to say…&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/106/sun-titan?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dfbf6204-f08e-4bdc-904d-d617dabdfdd8.jpg?1617735345' width=100% height=100%&amp;gt;&quot;&gt;
+Sun Titan
+&lt;/a&gt; to continuously recur a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gvl/16/lignify?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/23464d53-fa76-40e2-84c3-b6d6cc729be4.jpg?1598177954' width=100% height=100%&amp;gt;&quot;&gt;
+Lignify
+&lt;/a&gt; or two (Oakley), we are able to run a pretty exhaustive suite of enchantment graveyard recursion with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/21/monk-idealist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31c729e2-4e55-4a14-a288-9c3473e58b88.jpg?1580013751' width=100% height=100%&amp;gt;&quot;&gt;
+Monk Idealist
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/6/auramancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f05fde4-a866-459c-9a24-2884116ab647.jpg?1562434949' width=100% height=100%&amp;gt;&quot;&gt;
+Auramancer
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/376/ironclad-slayer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/2841f538-9686-423f-ac30-0580665112e5.jpg?1608911916' width=100% height=100%&amp;gt;&quot;&gt;
+Ironclad Slayer
+&lt;/a&gt; among others with things like the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/19/late-to-dinner&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/6633cab9-23f9-474e-96f1-ca7c0c67691c.jpg?1622388304' width=100% height=100%&amp;gt;&quot;&gt;
+Late to Dinner
+&lt;/a&gt; or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/202/pulse-of-murasa?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b9f8f4-d704-4f16-8495-cf8185285859.jpg?1618251902' width=100% height=100%&amp;gt;&quot;&gt;
+Pulse of Murasa
+&lt;/a&gt; for the threats themselves. We don’t plan to be on the back foot for long.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27885a9a-3bcd-476d-97a9-acaec0553a60.jpg?1622388410&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/b/0/b0bc4682-bcaf-4f51-be0b-9f2851a16e3b.jpg?1616723512&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;…Although just in case we’re going to run basically all the on brand removal we can think of with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmd/17/journey-to-nowhere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799' width=100% height=100%&amp;gt;&quot;&gt;
+Journey to Nowhere
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/29/oblivion-ring?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff31eba-8ab3-403e-8d82-37a18b279bec.jpg?1562266919' width=100% height=100%&amp;gt;&quot;&gt;
+Oblivion Ring
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/264/seal-of-cleansing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27885a9a-3bcd-476d-97a9-acaec0553a60.jpg?1622388410' width=100% height=100%&amp;gt;&quot;&gt;
+Seal of Cleansing
+&lt;/a&gt;, and the more permanent all-in-one removal tool: an &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/3/introduction-to-annihilation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b0bc4682-bcaf-4f51-be0b-9f2851a16e3b.jpg?1616723512' width=100% height=100%&amp;gt;&quot;&gt;
+Introduction to Annihilation
+&lt;/a&gt;. Cause sometimes you just have to banish a feisty &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/8/ulamogs-crusher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.jpg?1547515341' width=100% height=100%&amp;gt;&quot;&gt;
+Ulamog’s Crusher
+&lt;/a&gt; to the shadow realm and no one can tell me differently.&lt;/p&gt;
+
+&lt;p&gt;Pics: Whip Silk, Dawn Charm, Track Down
+&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/0/10566804-fd15-4ef0-ad7d-cc979f4cc8c5.jpg?1562898296&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.jpg?1594737287&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, I want to highlight a few lesser-known heroes in this deck. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/inv/225/whip-silk?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10566804-fd15-4ef0-ad7d-cc979f4cc8c5.jpg?1562898296' width=100% height=100%&amp;gt;&quot;&gt;
+Whip SIlk
+&lt;/a&gt; has been making some big waves after slowly sneaking onto Sythis’s EDHREC page, and it’s easy to see why. A one mana enchantment that cantrips with our commander out, BUT can be bounced for another one mana??? A lean, mean, card draw machine - it’s the perfect way to dig for answers or just generate a ton of value in the mid to late game when you might be passing turns with some unspent green mana. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824' width=100% height=100%&amp;gt;&quot;&gt;
+Dawn Charm
+&lt;/a&gt; I think is a perfect example of a card we all agree sounds cool, but forget to actually play. It can…&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;Be a counterspell in white which is the exact OPPOSITE of what’s expected when you pass with a Plains open&lt;/li&gt;
+    &lt;li&gt;Regenerate your prized pig (including all its tasty auras)&lt;/li&gt;
+    &lt;li&gt;Worst case, fog if you’re caught without a threat on the board&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;
+Basically, it’s a powerhouse and y’all should be ripping copies left and right. Our last “hidden gem” is &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/211/track-down?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.jpg?1594737287' width=100% height=100%&amp;gt;&quot;&gt;
+	Track Down
+&lt;/a&gt;. While it’s certainly not as flashy as the first two, this guy can put in significant work to remedy a mana flood/drought or hopefully snag a useful creature. At the very least, being able to essentially &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/115/brainstorm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0359f212-9564-41a9-870b-d2c57455a695.jpg?1617910233' width=100% height=100%&amp;gt;&quot;&gt;
+	Brainstorm
+&lt;/a&gt; in green is always worth a slot.&lt;/p&gt;
+
+&lt;p&gt;So there you have it! Terrify your friends and strangers alike with a beast of an enchantments deck, here’s the &lt;a href=&quot;https://www.moxfield.com/decks/sXqssf69Jki-FmhyKeGO9g&quot; target=&quot;_blank&quot;&gt;full list.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;&lt;h3&gt;Sythis For the Common Man&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-8&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-6&quot;&gt;
+    &lt;b&gt;Commanders&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m19/223/satyr-enchanter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e31c544f-a748-4180-8366-9bb1622bb99d.jpg?1562304816' width=100% height=100%&amp;gt;&quot;&gt;
+	Satyr Enchanter
+&lt;/a&gt;&lt;/p&gt;
+    &lt;b&gt;Lands&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/249/arctic-treeline?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b20e3117-f1e4-4449-ae9d-0b66abfc717d.jpg?1616399895' width=100% height=100%&amp;gt;&quot;&gt;
+	Arctic Treeline
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/244/blossoming-sands?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.jpg?1594737617' width=100% height=100%&amp;gt;&quot;&gt;
+	Blossoming Sands
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/284/command-tower?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b53a112c-671c-4312-af56-53fdb735829b.jpg?1618252552' width=100% height=100%&amp;gt;&quot;&gt;
+	Command Tower
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/271/drifting-meadow?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64dde056-f16f-495b-bba6-2e6edc8cb63a.jpg?1591321972' width=100% height=100%&amp;gt;&quot;&gt;
+	Drifting Meadow
+&lt;/a&gt;
+&lt;br /&gt;
+17x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/278/forest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b6a46b11-3225-45aa-b54e-4d19d81b51cf.jpg?1624535759' width=100% height=100%&amp;gt;&quot;&gt;
+	Forest
+&lt;/a&gt;
+&lt;br /&gt;
+11x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/262/plains?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/879f7f54-25a3-440b-848d-0e780277a681.jpg?1624535761' width=100% height=100%&amp;gt;&quot;&gt;
+	Plains
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/315/secluded-steppe?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69b876f8-4f4e-4eaa-904c-fa99f543e319.jpg?1619384268' width=100% height=100%&amp;gt;&quot;&gt;
+	Secluded Steppe
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/140/selesnya-sanctuary?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c6d7a00e-f828-43c1-bcbe-ea04589dc4ed.jpg?1604196496' width=100% height=100%&amp;gt;&quot;&gt;
+	Selesnya Sanctuary
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cma/275/slippery-karst?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/8/a8c55693-2111-4406-997e-0ad929931c8c.jpg?1592673947' width=100% height=100%&amp;gt;&quot;&gt;
+	Slippery Karst
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/408/tranquil-thicket?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d213bb6c-b6e1-4603-8e01-a2e28af5a15f.jpg?1618045293' width=100% height=100%&amp;gt;&quot;&gt;
+	Tranquil Thicket
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Creatures&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/128/aura-gnarlid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/0/808d06bb-1467-4c91-965e-bf8874ffa5e6.jpg?1592710792' width=100% height=100%&amp;gt;&quot;&gt;
+	Aura Gnarlid
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/6/auramancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f05fde4-a866-459c-9a24-2884116ab647.jpg?1562434949' width=100% height=100%&amp;gt;&quot;&gt;
+	Auramancer
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m14/176/gladecover-scout?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e112d77d-f019-4709-b31a-b02952df0e35.jpg?1562836199' width=100% height=100%&amp;gt;&quot;&gt;
+	Gladecover Scout
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nph/111/glistener-elf?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b94f4c6-b518-43b3-be52-e889d1f3ea38.jpg?1562879525' width=100% height=100%&amp;gt;&quot;&gt;
+	Glistener Elf
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/107/healers-hawk?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/d/dd39dd28-1dc2-46a5-a3cf-9b5d267e16d6.jpg?1600696494' width=100% height=100%&amp;gt;&quot;&gt;
+	Healer's Hawk
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/20/heliods-pilgrim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102' width=100% height=100%&amp;gt;&quot;&gt;
+	Heliod's Pilgrim
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ths/19/hopeful-eidolon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4c69995b-ef31-4635-8d5a-b31f73993364.jpg?1562817802' width=100% height=100%&amp;gt;&quot;&gt;
+	Hopeful Eidolon
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/127/humbler-of-mortals?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/1/f12149b9-b450-4ad6-ab5d-9a0eeb36997e.jpg?1593096217' width=100% height=100%&amp;gt;&quot;&gt;
+	Humbler of Mortals
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/som/166/ichorclaw-myr?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/faef8b8b-2c45-4fed-b6ba-a8ac49c66330.jpg?1562825404' width=100% height=100%&amp;gt;&quot;&gt;
+	Ichorclaw Myr
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/376/ironclad-slayer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/2841f538-9686-423f-ac30-0580665112e5.jpg?1608911916' width=100% height=100%&amp;gt;&quot;&gt;
+	Ironclad Slayer
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/21/monk-idealist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31c729e2-4e55-4a14-a288-9c3473e58b88.jpg?1580013751' width=100% height=100%&amp;gt;&quot;&gt;
+	Monk Idealist
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/pca/77/silhana-ledgewalker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8ad3bdce-c0fa-4b5f-af14-7452b683960f.jpg?1562920729' width=100% height=100%&amp;gt;&quot;&gt;
+	Silhana Ledgewalker
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/32/starnheim-courser?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c5373dd-4aec-4e93-97fb-a639aa096764.jpg?1614985427' width=100% height=100%&amp;gt;&quot;&gt;
+	Starnheim Courser
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/40/transcendent-envoy?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/9/a9241289-28d2-4827-970e-81bdecbb5c16.jpg?1615522768' width=100% height=100%&amp;gt;&quot;&gt;
+	Transcendent Envoy
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/167/yavimaya-enchantress?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e7255a92-12eb-4506-a3fa-996cd38ca836.jpg?1592711021' width=100% height=100%&amp;gt;&quot;&gt;
+	Yavimaya Enchantress
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Sorceries&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/3/introduction-to-annihilation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b0bc4682-bcaf-4f51-be0b-9f2851a16e3b.jpg?1616723512' width=100% height=100%&amp;gt;&quot;&gt;
+	Introduction to Annihilation
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/155/kruphixs-insight?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5d7ab7a-fcb2-44c7-8e99-e627d3ced1ea.jpg?1592710952' width=100% height=100%&amp;gt;&quot;&gt;
+	Kruphix's Insight
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/19/late-to-dinner?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/6633cab9-23f9-474e-96f1-ca7c0c67691c.jpg?1622388304' width=100% height=100%&amp;gt;&quot;&gt;
+	Late to Dinner
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/204/rampant-growth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d2e16cbe-b52b-46d7-8532-2068684b3491.jpg?1618251934' width=100% height=100%&amp;gt;&quot;&gt;
+	Rampant Growth
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/211/track-down?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.jpg?1594737287' width=100% height=100%&amp;gt;&quot;&gt;
+	Track Down
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Artifacts&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/251/mind-stone?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/c/8c899cbd-cddd-43f9-a95d-a6e5af990362.jpg?1617986435' width=100% height=100%&amp;gt;&quot;&gt;
+	Mind Stone
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/231/relic-of-progenitus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/3/436cd66c-0622-43cd-8748-af4d21a2db3f.jpg?1580015265' width=100% height=100%&amp;gt;&quot;&gt;
+	Relic of Progenitus
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/grn/240/selesnya-locket?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/ea0c04b9-c7fc-4204-9af2-5d1987bdd97e.jpg?1572894091' width=100% height=100%&amp;gt;&quot;&gt;
+	Selesnya Locket
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/258/thornglint-bridge?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9d483643-6a11-47f7-a0aa-190e0179525f.jpg?1622390923' width=100% height=100%&amp;gt;&quot;&gt;
+	Thornglint Bridge
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/pca/115/whispersilk-cloak?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5ead169f-4777-405b-9a5e-60a7aefa70a7.jpg?1562912463' width=100% height=100%&amp;gt;&quot;&gt;
+	Whispersilk Cloak
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-6&quot;&gt;&lt;b&gt;Enchantments&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/157/ancestral-mask?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/7/c7a19fc5-20f3-48d2-8c12-e012d3b302e7.jpg?1580014720' width=100% height=100%&amp;gt;&quot;&gt;
+	Ancestral Mask
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/10/angelic-renewal?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/0/a03fc1f1-31f6-4e52-87d0-e3d18ea60d3b.jpg?1547515384' width=100% height=100%&amp;gt;&quot;&gt;
+	Angelic Renewal
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/195/armadillo-cloak?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/fa232c65-dbb4-4414-bd95-b3bbd321c653.jpg?1580014998' width=100% height=100%&amp;gt;&quot;&gt;
+	Armadillo Cloak
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/13/benevolent-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0d5c2401-da2c-46f9-b850-f37edcbb85cd.jpg?1608908694' width=100% height=100%&amp;gt;&quot;&gt;
+	Benevolent Blessing
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/158/cartouche-of-strength?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d6bb237c-4e39-4879-90b4-2f507a90d3d7.jpg?1543675766' width=100% height=100%&amp;gt;&quot;&gt;
+	Cartouche of Strength
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mmq/12/cho-mannos-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c9f33c6-5294-4584-854d-c8c0f847aba8.jpg?1562380883' width=100% height=100%&amp;gt;&quot;&gt;
+	Cho-Manno's Blessing
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/139/dawns-reflection?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/3/1366d406-4539-408f-93c1-f940327c1ba2.jpg?1592710857' width=100% height=100%&amp;gt;&quot;&gt;
+	Dawn's Reflection
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rtr/9/ethereal-armor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/76960e65-e5c7-4414-b9a5-37d7b2ded4a0.jpg?1562788397' width=100% height=100%&amp;gt;&quot;&gt;
+	Ethereal Armor
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/147/fertile-ground?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e1fbfce-9677-4ae2-b525-1bb371c8e109.jpg?1592710906' width=100% height=100%&amp;gt;&quot;&gt;
+	Fertile Ground
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/123/font-of-fertility?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/ac8d1ecb-de7c-4641-81da-13117820195c.jpg?1593096189' width=100% height=100%&amp;gt;&quot;&gt;
+	Font of Fertility
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/me3/120/gaeas-touch?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/f/2f23950c-f583-4559-8c3b-bd28bedecf80.jpg?1562904910' width=100% height=100%&amp;gt;&quot;&gt;
+	Gaea's Touch
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/191/gift-of-paradise?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48273e83-139a-43a4-9bb8-171d3620da60.jpg?1618251848' width=100% height=100%&amp;gt;&quot;&gt;
+	Gift of Paradise
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/21/hyena-umbra?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87128a82-bcde-4def-9447-0ab8165d6b5e.jpg?1547515597' width=100% height=100%&amp;gt;&quot;&gt;
+	Hyena Umbra
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmd/17/journey-to-nowhere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799' width=100% height=100%&amp;gt;&quot;&gt;
+	Journey to Nowhere
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gvl/16/lignify?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/23464d53-fa76-40e2-84c3-b6d6cc729be4.jpg?1598177954' width=100% height=100%&amp;gt;&quot;&gt;
+	Lignify
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/24/mammoth-umbra?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/9/d9f9195c-cd12-47b7-8ebc-5c4a77a9002a.jpg?1547515665' width=100% height=100%&amp;gt;&quot;&gt;
+	Mammoth Umbra
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/29/oblivion-ring?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff31eba-8ab3-403e-8d82-37a18b279bec.jpg?1562266919' width=100% height=100%&amp;gt;&quot;&gt;
+	Oblivion Ring
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/192/omen-of-the-hunt?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d4ebdea-78d4-4034-921b-735bdb11a716.jpg?1581480831' width=100% height=100%&amp;gt;&quot;&gt;
+	Omen of the Hunt
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/157/overgrowth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e2e1694b-4d69-4961-b189-a7ba25a11836.jpg?1592710963' width=100% height=100%&amp;gt;&quot;&gt;
+	Overgrowth
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/125/pacifism?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0da7c6dc-9325-4866-8c09-78c7021f8f17.jpg?1600713540' width=100% height=100%&amp;gt;&quot;&gt;
+	Pacifism
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/27/pentarch-ward?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c455d6d8-f116-46b5-9e6d-615b752b8455.jpg?1562853693' width=100% height=100%&amp;gt;&quot;&gt;
+	Pentarch Ward
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/exo/117/predatory-hunger?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db6d9d28-3a05-4dfa-a322-36b4cc2697d4.jpg?1562089253' width=100% height=100%&amp;gt;&quot;&gt;
+	Predatory Hunger
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/186/rancor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059' width=100% height=100%&amp;gt;&quot;&gt;
+	Rancor
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/23/reprobation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b1349c3d-39ad-40ba-897e-59e5b76de853.jpg?1562201189' width=100% height=100%&amp;gt;&quot;&gt;
+	Reprobation
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/264/seal-of-cleansing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27885a9a-3bcd-476d-97a9-acaec0553a60.jpg?1622388410' width=100% height=100%&amp;gt;&quot;&gt;
+	Seal of Cleansing
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/tsr/228/seal-of-primordium?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd5592ab-6883-4c5a-8d50-d9530d905b19.jpg?1619398626' width=100% height=100%&amp;gt;&quot;&gt;
+	Seal of Primordium
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/36/sentinels-eyes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235' width=100% height=100%&amp;gt;&quot;&gt;
+	Sentinel's Eyes
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dtk/206/sheltered-aerie?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/afecf5a8-3c9e-48e0-8818-e2e3183e958c.jpg?1562791647' width=100% height=100%&amp;gt;&quot;&gt;
+	Sheltered Aerie
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/shm/242/shield-of-the-oversoul?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242' width=100% height=100%&amp;gt;&quot;&gt;
+	Shield of the Oversoul
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/182/snake-umbra?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e3071a8b-05b1-490c-89f6-4bf97c02833b.jpg?1547517804' width=100% height=100%&amp;gt;&quot;&gt;
+	Snake Umbra
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/192/utopia-sprawl?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15625580-3cbd-459c-a667-87efdcdaf2b2.jpg?1562433020' width=100% height=100%&amp;gt;&quot;&gt;
+	Utopia Sprawl
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/204/warbriar-blessing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed.jpg?1581480932' width=100% height=100%&amp;gt;&quot;&gt;
+	Warbriar Blessing
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/inv/225/whip-silk?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10566804-fd15-4ef0-ad7d-cc979f4cc8c5.jpg?1562898296' width=100% height=100%&amp;gt;&quot;&gt;
+	Whip Silk
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/165/wild-growth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18fbebd4-d5b4-429a-bfbd-8a7173924d1c.jpg?1592711009' width=100% height=100%&amp;gt;&quot;&gt;
+	Wild Growth
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Instants&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/xln/177/blinding-fog?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/bae7d501-72a1-43c2-9f72-d768ac5e9320.jpg?1562563001' width=100% height=100%&amp;gt;&quot;&gt;
+	Blinding Fog
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824' width=100% height=100%&amp;gt;&quot;&gt;
+	Dawn Charm
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/202/pulse-of-murasa?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b9f8f4-d704-4f16-8495-cf8185285859.jpg?1618251902' width=100% height=100%&amp;gt;&quot;&gt;
+	Pulse of Murasa
+&lt;/a&gt;
+&lt;br /&gt;
+1x &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/200/return-to-nature?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f1b4490-d96d-4448-835b-6cc453c1f344.jpg?1594737172' width=100% height=100%&amp;gt;&quot;&gt;
+	Return to Nature
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+Think I’m missing anything? Want an opinion on who gets the pdh treatment next? Fire away in the comments below! Until next week!&lt;/p&gt;</content><author><name>chev</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><summary type="html">While Modern Horizons 2 has given us a slew of new commanders for PDH, I will admit - the first creature to catch my eye was a rare. I know, I know. Only one complete week into our new PDH series and my eyes are already wandering BUT Sythis, Harvest’s Hand is a super versatile commander and well worth the attention. In fact, they’re the star of this week’s Hexdrinkers Podcast which you should totally check out! From cEDH to a $25 budget build we cover allll the bases for the little Selesnya value engine that could. But we’re not gathered here today to talk about those Elder Dragons. Not when we’ve already had our own Pauper Dragon Sythis for nearly three years! May I introduce: Satyr Enchanter . What we lose in the incidental lifegain and one more pip really becomes inconsequential once the ball starts rolling, and as anyone who might have experience with a card-draw commander ( Tatyova, Benthic Druid , Chulane, Teller of Tales ) will know, the ball starts rolling pretty freaking fast. I’m also excited to say this build has been a group effort! The original inspiration for a Satyr Enchanter PDH deck obviously came from our work on Sythis, but when Oakley shared his relatively cheap auras build including some nifty commons like Shield of the Oversoul and Rancor it immediately started bringing back memories of Eric’s Eutropia, the Twice-Favored deck from the gang’s very FIRST foray into PDH all those moons ago….(or, if you just want that simic auras decklist, you can check it here) While the majority of this build is the combined effort of Oakley and I, we did hire Eric as an independent consultant to fully vet our auras and test for leaks. Ladies, Gents, I’m proud to say this deck has got the Von Allmen seal of approval. We made it. But that’s enough preamble, Let’s deck tech! The Build What we’ve got here is a classic auras enchantment build that hopes to turn an explosive start of card advantage into just out-valuing our opponents as the game continues. Since Satyr Enchanter benefits from being on the battlefield early and often, we’re hoping to consistently drop them on turn three and just start drawing ALL the cards. With that in mind, a lot of our ramp/early pieces are looking to have a mana value of 2 or less. Utopia Sprawl or Wild Growth are GREAT t1 options to get our little Satyr onto the battlefield a turn early. Font of Fertility , Rampant Growth , and Fertile Ground are what we’re going to be looking for on that t2 where any one of them would allow us to spend the next turn dropping our commander with a Hyena Umbra for protection or at least some other 1 mv enchantment out to start the value train. Our final ramp option at that sweet spot of 2 mv is the ever-forgotten Gaea’s Touch , or the budget cousin to Exploration that can ALSO serve as a quick burst of mana in the late game. Frankly I’d always consider running Gaea’s touch in any base green PDH deck. After those early hits, it’s a fight to protect our bullseye-marked boy and build up terrifying threats on the backs of “protected” creatures like Gladecover Scout who absolutely thrive in an environment without good wraths. Hexproof, for the most part, is broken down here and only really stoppable with combat tricks or sacrifice effects. Things no deck is going to be truly built for until they encounter a Silhana Edgewalker equipped with Ancestral Mask and Ethereal Armor . Trust me. Anyway, protection. For this we will generally rely on White’s bevvy of different protection effects from ACTUAL protection with Benevolent Blessing or Cho-Manno’s Blessing , to granting indestructible through Shield of the Oversoul , or the aforementioned umbras of which we’re running like four. With any luck, before long both your commander and your main threats will be completely untouchable, lethal combinations of keyword soup and the biggest bodies on the table. Now, inevitably, someone somewhere will be able to resolve a Chainer’s Edict and our whole world will have the potential to come crashing down. Playing voltron is very high-risk high-reward, and while we don’t have access to say… Sun Titan to continuously recur a Lignify or two (Oakley), we are able to run a pretty exhaustive suite of enchantment graveyard recursion with Monk Idealist , Auramancer , Ironclad Slayer among others with things like the Late to Dinner or Pulse of Murasa for the threats themselves. We don’t plan to be on the back foot for long. …Although just in case we’re going to run basically all the on brand removal we can think of with Journey to Nowhere , Oblivion Ring , Seal of Cleansing , and the more permanent all-in-one removal tool: an Introduction to Annihilation . Cause sometimes you just have to banish a feisty Ulamog’s Crusher to the shadow realm and no one can tell me differently. Pics: Whip Silk, Dawn Charm, Track Down Lastly, I want to highlight a few lesser-known heroes in this deck. Whip SIlk has been making some big waves after slowly sneaking onto Sythis’s EDHREC page, and it’s easy to see why. A one mana enchantment that cantrips with our commander out, BUT can be bounced for another one mana??? A lean, mean, card draw machine - it’s the perfect way to dig for answers or just generate a ton of value in the mid to late game when you might be passing turns with some unspent green mana. Dawn Charm I think is a perfect example of a card we all agree sounds cool, but forget to actually play. It can… Be a counterspell in white which is the exact OPPOSITE of what’s expected when you pass with a Plains open Regenerate your prized pig (including all its tasty auras) Worst case, fog if you’re caught without a threat on the board Basically, it’s a powerhouse and y’all should be ripping copies left and right. Our last “hidden gem” is Track Down . While it’s certainly not as flashy as the first two, this guy can put in significant work to remedy a mana flood/drought or hopefully snag a useful creature. At the very least, being able to essentially Brainstorm in green is always worth a slot. So there you have it! Terrify your friends and strangers alike with a beast of an enchantments deck, here’s the full list. Sythis For the Common Man Commanders 1x Satyr Enchanter Lands 1x Arctic Treeline 1x Blossoming Sands 1x Command Tower 1x Drifting Meadow 17x Forest 11x Plains 1x Secluded Steppe 1x Selesnya Sanctuary 1x Slippery Karst 1x Tranquil Thicket Creatures 1x Aura Gnarlid 1x Auramancer 1x Gladecover Scout 1x Glistener Elf 1x Healer's Hawk 1x Heliod's Pilgrim 1x Hopeful Eidolon 1x Humbler of Mortals 1x Ichorclaw Myr 1x Ironclad Slayer 1x Monk Idealist 1x Silhana Ledgewalker 1x Starnheim Courser 1x Transcendent Envoy 1x Yavimaya Enchantress Sorceries 1x Introduction to Annihilation 1x Kruphix's Insight 1x Late to Dinner 1x Rampant Growth 1x Track Down Artifacts 1x Mind Stone 1x Relic of Progenitus 1x Selesnya Locket 1x Thornglint Bridge 1x Whispersilk Cloak Enchantments 1x Ancestral Mask 1x Angelic Renewal 1x Armadillo Cloak 1x Benevolent Blessing 1x Cartouche of Strength 1x Cho-Manno's Blessing 1x Dawn's Reflection 1x Ethereal Armor 1x Fertile Ground 1x Font of Fertility 1x Gaea's Touch 1x Gift of Paradise 1x Hyena Umbra 1x Journey to Nowhere 1x Lignify 1x Mammoth Umbra 1x Oblivion Ring 1x Omen of the Hunt 1x Overgrowth 1x Pacifism 1x Pentarch Ward 1x Predatory Hunger 1x Rancor 1x Reprobation 1x Seal of Cleansing 1x Seal of Primordium 1x Sentinel's Eyes 1x Sheltered Aerie 1x Shield of the Oversoul 1x Snake Umbra 1x Utopia Sprawl 1x Warbriar Blessing 1x Whip Silk 1x Wild Growth Instants 1x Blinding Fog 1x Dawn Charm 1x Pulse of Murasa 1x Return to Nature Think I’m missing anything? Want an opinion on who gets the pdh treatment next? Fire away in the comments below! Until next week!</summary></entry><entry><title type="html">Shirei Sera</title><link href="hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei.html" rel="alternate" type="text/html" title="Shirei Sera" /><published>2021-06-17T00:00:00-07:00</published><updated>2021-06-17T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/06/17/pdh_shirei.html">&lt;p&gt;What’s up everybody! Welcome back and TGIPDHD, Thank God it’s PDH Day! (The name is still being workshopped). Much like The Hexdrinkers Podcast, the type of PDH content we produce will vary from week to week. Last time we focused on some of the spicy new hotness coming our way with MH2, while this week reflects what you’ll probably be seeing the most of in our pauper content and that is: a bomb ass deck. Fresh off a one-game winning streak at our last Commander night I give to you Shirei, Shizo’s Caretaker!&lt;/p&gt;
 
 &lt;div&gt;
     
@@ -10,7 +549,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 There are very few commanders that hit the right balance between enabling a solid recursion strategy and not being too generic in their abilities (looking at you &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/199/muldrotha-the-gravetide?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c654737d-34ac-42ff-ae27-3a3bbb930fc1.jpg?1591204580' width=100% height=100%&amp;gt;&quot;&gt;
-	Muldrotha the Gravetide
+Muldrotha the Gravetide
 &lt;/a&gt;). While Shirei has a pretty harsh restriction for what they can bring back beyond death’s door, with the right build Shirei can still be absolutely heinous. Luckily for us, that doesn’t really change much between EDH and PDH. What I’m saying is the first post-game round is probably going to be on you.&lt;/p&gt;
 
 &lt;p&gt;Our Shirei of the day is focused around three main themes:&lt;br /&gt;
@@ -44,19 +583,19 @@ There are very few commanders that hit the right balance between enabling a soli
 
 &lt;p&gt;Our main source of offense is going to be in ETB/LTB triggers. Due to the nature of Shirei returning small creatures from the graveyard back into play, Shirei allows us to exploit these abilities with devastating results. Here’s a taste:&lt;br /&gt;
 &lt;strong&gt;Direct Damage&lt;/strong&gt;: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/99/serrated-scorpion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bc8f0242-35e1-4409-9321-56e742e8fef4.jpg?1591226960' width=100% height=100%&amp;gt;&quot;&gt;
-	Serrated Scorpion
+Serrated Scorpion
 &lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/216/cauldron-familiar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32cf273e-b8f7-434b-9d5d-883dfd6f7423.jpg?1600699817' width=100% height=100%&amp;gt;&quot;&gt;
-	Cauldron Familiar
+Cauldron Familiar
 &lt;/a&gt;&lt;br /&gt;
 &lt;strong&gt;Card Advantage&lt;/strong&gt;: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/2/farfinder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53f63f40-46f1-4b9e-b447-ff9274f2b926.jpg?1591230179' width=100% height=100%&amp;gt;&quot;&gt;
-	Farfinder
+Farfinder
 &lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/89/dusk-legion-zealot?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98a9ef61-1c6d-49d1-b185-2b022482b442.jpg?1562438935' width=100% height=100%&amp;gt;&quot;&gt;
-	Dusk Legion Zealot
+Dusk Legion Zealot
 &lt;/a&gt;&lt;br /&gt;
 &lt;strong&gt;Other Crazy Stuff&lt;/strong&gt;: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/95/nested-shambler?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/9851f290-f502-49f8-9b48-67f7966d4e34.jpg?1622651477' width=100% height=100%&amp;gt;&quot;&gt;
-	Nested Shambler
+Nested Shambler
 &lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/257/gleaming-barrier?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/1/410c7922-5d99-4b94-bcdb-4f02ca175e65.jpg?1599709231' width=100% height=100%&amp;gt;&quot;&gt;
-	Gleaming Barrier
+Gleaming Barrier
 &lt;/a&gt;&lt;br /&gt;
 Since we can only recur creatures of power 1 or less, each of these effects are relatively minor, so our main path to the finish line is going to be chaining as many of these as possible each turn cycle. This will prooobably require…&lt;/p&gt;
 
@@ -83,19 +622,19 @@ Since we can only recur creatures of power 1 or less, each of these effects are 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Not only do these cards allow you to repeatedly hit those potent ETBs, but most are also incredibly powerful in their own right. Whether you’re sacc-ing a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/226/dutiful-attendant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f35fd9cd-795f-4a8b-b2e9-648f6273927e.jpg?1600700106' width=100% height=100%&amp;gt;&quot;&gt;
-	Dutiful Attendant
+Dutiful Attendant
 &lt;/a&gt; just in time to equip Shirei with a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bok/62/blessing-of-leeches?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/de0ba1cf-d913-4285-9d8b-38acf78cc45e.jpg?1562880256' width=100% height=100%&amp;gt;&quot;&gt;
-	Blessing of Leeches
+Blessing of Leeches
 &lt;/a&gt;, or you just need a little extra mana &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/all/60a/soldevi-adnate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b2651b0-1ab2-4d7e-834f-7505797da474.jpg?1562769222' width=100% height=100%&amp;gt;&quot;&gt;
-	Soldevi Adnate
+Soldevi Adnate
 &lt;/a&gt; is a great stand in for &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/204/black-market?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/f/1f51ced8-9384-4b8d-aa60-efb281ac9439.jpg?1600699469' width=100% height=100%&amp;gt;&quot;&gt;
-	Black Market
+Black Market
 &lt;/a&gt; providing quick bursts of mana when it’s least expected. Or maybe you need a big creature to keep something like an enchanted &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hou/48/striped-riverwinder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bbeef9ef-487c-400b-bcee-1c0e8ec94b6a.jpg?1562812506' width=100% height=100%&amp;gt;&quot;&gt;
-	Striped Riverwinder
+Striped Riverwinder
 &lt;/a&gt; at bay? Spend a turn cycle sacc-ing your entire board to a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/86/bloodflow-connoisseur?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a788fb3-fc21-47b2-b387-ceff438969af.jpg?1547516761' width=100% height=100%&amp;gt;&quot;&gt;
-	Bloodflow Connoisseur
+Bloodflow Connoisseur
 &lt;/a&gt; or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/81/carrion-feeder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.jpg?1562201576' width=100% height=100%&amp;gt;&quot;&gt;
-	Carrion Feeder
+Carrion Feeder
 &lt;/a&gt; to quickly create a very significant threat.&lt;/p&gt;
 
 &lt;h3 id=&quot;persistence&quot;&gt;Persistence&lt;/h3&gt;
@@ -3602,453 +4141,4 @@ Wound Reflection
 &lt;p&gt;&lt;br /&gt;
 Find this decklist as well as the rest of the Year of Brew decklists at the &lt;a href=&quot;https://www.moxfield.com/users/The_Hexdrinkers&quot; target=&quot;_blank&quot;&gt;Hexdrinker’s Moxfield page&lt;/a&gt;!
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="The Year of Brew" /><category term="Commander" /><summary type="html">It’s time for our second customized deck in this second half of the Arc of the Power of Friendship. Eric is next, and he gave me the following criteria: Contains At Least White and Black in its Color Identity Not Reliant on its Board State Has a theme of Burst Damage Let’s see what can do to appease our resident green mage! (hint: we aren’t playing green) Deck 15: Mardu So to cater to Eric’s request, I’ve concocted quite the doozy. It was a bit of a convoluted thought process to get to where we are, but I first focused on this idea of “burst damage”, which we’ll get to in a bit and decided I wanted to be in Mardu. Not only is it an underloved color combo, but depriving Eric of green is necessary for personal growth and it’ll also be fun to see him go through withdrawal. However, I did choose to give him Oros, the Avenger as his Commander. Considering how far we’ve strayed from his norm, I figured a beefy dragon would give him some comfort. If I wanted to be really mean, I would’ve made him an Esper deck, but… this is already a control deck, so we’re basically there. That’s right, this is a control deck that we’re gifting to the King of Timmy’s. Eric didn’t want reliance on board state and by golly, who needs a board state when none of your opponents have one either? That’s always been my motto and we’re running plenty of removal, card draw, and wraths to back it up. I did try to spice up our picks a bit, divying between red looting and black drawing cards and losing life, Painful Truths being a personal favorite. Rip Apart is a versatile answer fresh from Strixhaven, and Ruinous Ultimatum is the flashiest sort of control card, meeting Eric’s taste in the middle. However, I think my favorite includes are Tragic Arrogance and Mythos of Snapdax , both of which absolutely decimate our opponents but with the extra salt of us getting to choose which measely permanents they can keep. So now we come to that ever important criteria of Burst Damage. Initially I was thinking big mana jammin’ with things like Comet Storm and Debt to the Deathless . Too easy. Well, what about Boros Reckoner -esque effects with Blasphemous Act , Star of Extinction , etc.? Too. EASY. What’s the biggest amount of damage we can inflict in one burst? Well, all of it, duh. That’s a little overkill, but how about… half of our opponents life total? Goldy f***ing Locks, that’s *just right*. Yup, this deck is all about smacking our opponents life totals in half. We’ve got a bunch of heaters like Blood Tribute , Revenge , and of course, Fraying Omnipotence , as well as creature-based versions like Heartless Hidetsugu and Raving Dead . A sick synergy is with Anya, Merciless Angel who just so happens to care about that halfway point, but was unfortunately stuck in a Boros pre-con. Add in an Increasing Vengeance , Dualcaster Mage or even Wound Reflection to really spread the love &amp;lt;3&amp;lt;3&amp;lt;3 I hope Eric likes this deck, but I hope y’all like it even more. Go forth and cleave through your opponents’ life totals! Glass Half Full Commander Oros, the Avenger Artifacts Arcane Signet Boros Signet Chromatic Lantern Expedition Map Gilded Lotus Hedron Archive Lightning Greaves Mind Stone Orzhov Signet Quietus Spike Rakdos Signet Scytheclaw Sol Ring Swiftfoot Boots Wayfarer's Bauble Creatures Angelic Arbiter Anya, Merciless Angel Cataclysmic Gearhulk Combustible Gearhulk Dire Fleet Ravager Dualcaster Mage Gisela, Blade of Goldnight Heartless Hidetsugu Kokusho, the Evening Star Malignus Raving Dead Sun Titan Torgaar, Famine Incarnate Velomachus Lorehold Instants Anguished Unmaking Chaos Warp Comeuppance Deflecting Palm Disenchant Enlightened Tutor Increasing Vengeance Inkshield Oblation Reverberate Thrill of Possibility Enchantments Animate Dead Dictate of the Twin Gods Smothering Tithe Wound Reflection Planeswalkers Sorin Markov Sorceries Blood Tribute Chain Reaction Damnation Faithless Looting Fraying Omnipotence Grim Tutor Increasing Ambition Mythos of Snapdax Night's Whisper Painful Truths Profane Command Reanimate Revival // Revenge Rip Apart Ruinous Ultimatum Sorin's Vengeance Temporal Extortion Tragic Arrogance Wrath of God Lands Arid Mesa Blood Crypt Bloodstained Mire Cabal Coffers Clifftop Retreat Command Tower Dragonskull Summit Godless Shrine Isolated Chapel Marsh Flats Mountain x4 Plains x8 Sacred Foundry Savai Triome Swamp x10 Urborg, Tomb of Yawgmoth Find this decklist as well as the rest of the Year of Brew decklists at the Hexdrinker’s Moxfield page!</summary></entry><entry><title type="html">Week 14: Chev Asked, So I Obliged</title><link href="hexdrinkers.com/the%20year%20of%20brew/2021/04/11/YoB14.html" rel="alternate" type="text/html" title="Week 14: Chev Asked, So I Obliged" /><published>2021-04-11T00:00:00-07:00</published><updated>2021-04-11T00:00:00-07:00</updated><id>hexdrinkers.com/the%20year%20of%20brew/2021/04/11/YoB14</id><content type="html" xml:base="hexdrinkers.com/the%20year%20of%20brew/2021/04/11/YoB14.html">&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://media.giphy.com/media/iD6qXKO6kY1UFWrH21/giphy.gif&quot; style=&quot;max-width: 75%;&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-We’re back here in Year of Brew Land (as if we ever left lol) and the &lt;em&gt;Arc of the Power of Friendship&lt;/em&gt; is entering a new phase. We’ve collaborated with the fellow Hexdrinkers on a series of decks, but now it’s back to just good ol’ Julian and his brews: name a better combination, I’ll wait.&lt;/p&gt;
-
-&lt;p&gt;And, I’m feeling in a generous mood, so I’ve asked the boys to give me 3 criteria, anything from color, to mechanics, to just overall strategy. I’ll take these stipulations and brew up something new and exciting for everyone to bring to future game nights. Chev is first, and he gave me the following criteria:
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;li&gt;White&lt;/li&gt;
-&lt;li&gt;Combat Matters&lt;/li&gt;
-&lt;li&gt;Counters&lt;/li&gt;
-&lt;p&gt;&lt;br /&gt;
-Let’s see what can do to appease our glorious co-founder!
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;deck-14-orzhov&quot;&gt;Deck 14: Orzhov&lt;/h2&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b73d2f5a-028d-4d5f-9b52-9328872bbf5e.jpg?1617913710&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-So to appease Chev’s out of character demands, I’ve co-opted a new commander from the &lt;em&gt;C21&lt;/em&gt; Pre-cons, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/2/felisa-fang-of-silverquill?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b73d2f5a-028d-4d5f-9b52-9328872bbf5e.jpg?1617913710' width=100% height=100%&amp;gt;&quot;&gt;
-	Felisa, Fang of Silverquill
-&lt;/a&gt;. Immediately, she hits all of the criteria provided. She’s Orzhov, so she has white, while still providing black as a comfort blanket for Chev’s preferences. She has &lt;em&gt;Mentor&lt;/em&gt; and evasion, meaning she wants to be attacking and she wants the rest of the team to attack with her. And she cares about counters on our creatures, the more counters, the more creatures we’ll get to attack with. Overall, a perfect fit.&lt;/p&gt;
-
-&lt;p&gt;The deck as a whole leans on a few different groups of cards to run smoothly. The outlast lords from &lt;em&gt;Khans of Tarkir&lt;/em&gt; like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/2/abzan-battle-priest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f2877ac-195b-4397-89bd-0bee3220b2a4.jpg?1562847965' width=100% height=100%&amp;gt;&quot;&gt;
-Abzan Battle Priest
-&lt;/a&gt; buff all our creatures with +1/+1 counters on them. &lt;em&gt;Modular&lt;/em&gt; creatures from Mirrodin already have counters on them to synergize with Felisa. Ikoria cards like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/21/luminous-broodmoth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb65df55-d6a6-4a57-a903-e5eb17637982.jpg?1591230310' width=100% height=100%&amp;gt;&quot;&gt;
-Luminous Broodmoth
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/90/grimdancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807' width=100% height=100%&amp;gt;&quot;&gt;
-Grimdancer
-&lt;/a&gt; provide a variety of ability counters to further diversify our value.&lt;/p&gt;
-
-&lt;p&gt;We also have a token subtheme. This stems from a combination of Silverquill providing a lot of support, Felisa providing an Inkling army, and Chev asking me to help him make a token deck about a week before I wrote this article. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/2/anointed-procession?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565' width=100% height=100%&amp;gt;&quot;&gt;
-Anointed Procession
-&lt;/a&gt; is a must have for whenever we get Inklings, with a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/95/cathars-crusade?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fbb70e7b-2a68-436e-96a4-32a88fb87da0.jpg?1600715516' width=100% height=100%&amp;gt;&quot;&gt;
-Cathar’s Crusade
-&lt;/a&gt; refueling the fire. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/16/felidar-retreat?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/45340647-4d3e-4be1-b0e6-e40cc56a438b.jpg?1604195832' width=100% height=100%&amp;gt;&quot;&gt;
-Felidar Retreat
-&lt;/a&gt; hits both our goals with a singular card. And newcomers, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/230/shadrix-silverquill?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/ab701909-83d6-4d39-9a84-e6a9b2cb38d6.jpg?1616704070' width=100% height=100%&amp;gt;&quot;&gt;
-Shadrix Silverquill
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1618273045' width=100% height=100%&amp;gt;&quot;&gt;
-Blot out the Sky
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/71/inkshield?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e1c14a0-cd68-45fc-a127-422ca6113048.jpg?1617911828' width=100% height=100%&amp;gt;&quot;&gt;
-Inkshield
-&lt;/a&gt; are absolute beasts in this build.&lt;/p&gt;
-
-&lt;p&gt;Lastly, I had to include &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/18/heliod-sun-crowned?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1581479085' width=100% height=100%&amp;gt;&quot;&gt;
-Heliod, Sun-Crowned
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/306/walking-ballista?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1599710252' width=100% height=100%&amp;gt;&quot;&gt;
-Walking Ballista
-&lt;/a&gt; combo for sneaky wins, and a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/som/57/carnifex-demon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c191dba2-659d-40e7-a558-c99ece872197.jpg?1562822640' width=100% height=100%&amp;gt;&quot;&gt;
-Carnifex Demon
-&lt;/a&gt; to make Chev feel better about leaning so heavily in to the “inferior +1/+1 counters,” that damn &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/199/hapatra-vizier-of-poisons?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/6/56fbbcc9-db23-4902-b0f7-cea78a2a36af.jpg?1543676055' width=100% height=100%&amp;gt;&quot;&gt;
-Hapatra, Vizier of Poisons
-&lt;/a&gt; fanboy…&lt;/p&gt;
-
-&lt;p&gt;I hope Chev likes this deck, but I hope y’all like it even more. Go forth and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1618273045' width=100% height=100%&amp;gt;&quot;&gt;
-Blot Out the Sky
-&lt;/a&gt; with your bloody ink!
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;text-center&quot;&gt;
-&lt;h3&gt;Blood in the Ink&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div class=&quot;row&quot;&gt;
-            &lt;div class=&quot;col-6&quot;&gt;
-				&lt;b&gt;Commander&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/2/felisa-fang-of-silverquill?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b73d2f5a-028d-4d5f-9b52-9328872bbf5e.jpg?1617913710' width=100% height=100%&amp;gt;&quot;&gt;
-	Felisa, Fang of Silverquill
-&lt;/a&gt;					
-				&lt;/p&gt;
-				&lt;b&gt;Creatures&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/2/abzan-battle-priest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f2877ac-195b-4397-89bd-0bee3220b2a4.jpg?1562847965' width=100% height=100%&amp;gt;&quot;&gt;
-	Abzan Battle Priest
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/9/abzan-falconer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/42560ce5-c7ac-422f-8f22-e2fb043861b7.jpg?1604195477' width=100% height=100%&amp;gt;&quot;&gt;
-	Abzan Falconer
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/9/abzan-falconer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/42560ce5-c7ac-422f-8f22-e2fb043861b7.jpg?1604195477' width=100% height=100%&amp;gt;&quot;&gt;
-	Abzan Falconer
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/4/ainok-bond-kin?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0f32c514-36b9-4e1f-86e8-1d36e5282062.jpg?1562845827' width=100% height=100%&amp;gt;&quot;&gt;
-	Ainok Bond-Kin
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/4/alharu-solemn-ritualist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/2047bfa4-3f4d-47bd-9484-545686f15b75.jpg?1608908659' width=100% height=100%&amp;gt;&quot;&gt;
-	Alharu, Solemn Ritualist
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gtc/3/angelic-skirmisher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/beb04702-5cb2-4590-b675-9409ba52a395.jpg?1561844079' width=100% height=100%&amp;gt;&quot;&gt;
-	Angelic Skirmisher
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mma/198/arcbound-ravager?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0c33a92-5621-40b4-a3a2-b67893edbc01.jpg?1561968545' width=100% height=100%&amp;gt;&quot;&gt;
-	Arcbound Ravager
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mma/199/arcbound-stinger?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db438720-5bfb-4cd9-b565-434839045f60.jpg?1561969018' width=100% height=100%&amp;gt;&quot;&gt;
-	Arcbound Stinger
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mma/201/arcbound-worker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdfc2453-5a2b-4104-bf82-84f935de7b99.jpg?1561969500' width=100% height=100%&amp;gt;&quot;&gt;
-	Arcbound Worker
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/22/avenging-huntbonder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/24ad6b07-3487-4e19-b554-196697a413df.jpg?1591319314' width=100% height=100%&amp;gt;&quot;&gt;
-	Avenging Huntbonder
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/8/basris-acolyte?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08d1dd97-2675-4953-ab95-d47d23abfe05.jpg?1594734783' width=100% height=100%&amp;gt;&quot;&gt;
-	Basri's Acolyte
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/xln/4/bellowing-aegisaur?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3e3b6c5-fd30-4d45-a122-ce60d5707357.jpg?1562563552' width=100% height=100%&amp;gt;&quot;&gt;
-	Bellowing Aegisaur
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/76/boot-nipper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/f/cff5a5b8-f823-4429-acd8-c4f34a676cb4.jpg?1591226621' width=100% height=100%&amp;gt;&quot;&gt;
-	Boot Nipper
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gn2/3/calculating-lich?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/17b2ed72-d0f0-4d8d-bb5e-dce08d157466.jpg?1576267142' width=100% height=100%&amp;gt;&quot;&gt;
-	Calculating Lich
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/som/57/carnifex-demon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c191dba2-659d-40e7-a558-c99ece872197.jpg?1562822640' width=100% height=100%&amp;gt;&quot;&gt;
-	Carnifex Demon
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/14/combat-calligrapher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3b9136e-7f71-40d5-bdfb-d710cd39912d.jpg?1618250976' width=100% height=100%&amp;gt;&quot;&gt;
-	Combat Calligrapher
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/234/crystalline-giant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/1146c418-2176-466e-8a06-f2ef6bf2b1a9.jpg?1591228515' width=100% height=100%&amp;gt;&quot;&gt;
-	Crystalline Giant
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/225/drana-liberator-of-malakir?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31d0c37f-ebce-4362-9400-6b9a6e439247.jpg?1600714392' width=100% height=100%&amp;gt;&quot;&gt;
-	Drana, Liberator of Malakir
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/40/fain-the-broker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/6/26acb9db-1a2f-4b08-b121-88f953e597e5.jpg?1617913090' width=100% height=100%&amp;gt;&quot;&gt;
-	Fain, the Broker
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/90/grimdancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807' width=100% height=100%&amp;gt;&quot;&gt;
-	Grimdancer
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ori/229/hangarback-walker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/9/791c21fb-fc78-4106-9a42-abc73f41ab8b.jpg?1562026741' width=100% height=100%&amp;gt;&quot;&gt;
-	Hangarback Walker
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/243/harvester-of-souls?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/870ebc0b-b748-4a21-b939-a48811451bba.jpg?1600700538' width=100% height=100%&amp;gt;&quot;&gt;
-	Harvester of Souls
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/18/heliod-sun-crowned?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1581479085' width=100% height=100%&amp;gt;&quot;&gt;
-	Heliod, Sun-Crowned
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/21/luminous-broodmoth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb65df55-d6a6-4a57-a903-e5eb17637982.jpg?1591230310' width=100% height=100%&amp;gt;&quot;&gt;
-	Luminous Broodmoth
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/97/mer-ek-nightblade?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ade8f32c-d188-4a36-98a4-584b6ef95902.jpg?1562852963' width=100% height=100%&amp;gt;&quot;&gt;
-	Mer-Ek Nightblade
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/123/mikaeus-the-lunarch?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1b24d60d-bd80-4363-829c-a9d7f8c61fdf.jpg?1600717902' width=100% height=100%&amp;gt;&quot;&gt;
-	Mikaeus, the Lunarch
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/96/odric-master-tactician?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/00111afb-26fe-487b-8d12-087cd8a8fe86.jpg?1591320115' width=100% height=100%&amp;gt;&quot;&gt;
-	Odric Master Tactician
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/99/orzhov-advokist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f0904e3-e477-4661-a4f3-76fe5b93ec53.jpg?1618015435' width=100% height=100%&amp;gt;&quot;&gt;
-	Orzhov Advokist
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/229/shadewing-laureate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64795a8b-8cf2-436e-8f95-9e8bb40c0d7d.jpg?1617452563' width=100% height=100%&amp;gt;&quot;&gt;
-	Shadewing Laureate
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/230/shadrix-silverquill?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/ab701909-83d6-4d39-9a84-e6a9b2cb38d6.jpg?1616704070' width=100% height=100%&amp;gt;&quot;&gt;
-	Shadrix Silverquill
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/158/shaile-dean-of-radiance-embrose-dean-of-shadow?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1617453576' width=100% height=100%&amp;gt;&quot;&gt;
-	Shaile, Dean of Radiance
-&lt;/a&gt;/&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/158/shaile-dean-of-radiance-embrose-dean-of-shadow?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/back/9/3/938cee8f-ac2c-49a5-9ff7-1367d0edfabe.jpg?1617453576' width=100% height=100%&amp;gt;&quot;&gt;
-	Embrose, Dean of Shadow
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c16/48/tymna-the-weaver?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bc7cbe9b-324e-42b8-94e2-36e91cb32163.jpg?1606762188' width=100% height=100%&amp;gt;&quot;&gt;
-	Tymna the Weaver
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/306/walking-ballista?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1599710252' width=100% height=100%&amp;gt;&quot;&gt;
-	Walking Ballista
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Instants&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/75/blood-curdle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/1/4184c851-1419-476c-ba9c-9f0cb1137114.jpg?1591226609' width=100% height=100%&amp;gt;&quot;&gt;
-	Blood Curdle
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/9/enlightened-tutor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c9ebec9-3474-4062-9607-2e2a72f78299.jpg?1580013657' width=100% height=100%&amp;gt;&quot;&gt;
-	Enlightened Tutor
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/71/inkshield?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e1c14a0-cd68-45fc-a127-422ca6113048.jpg?1617911828' width=100% height=100%&amp;gt;&quot;&gt;
-	Inkshield
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/25/path-to-exile?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/9/e9d36855-c38a-4bba-a642-cff3f81e057e.jpg?1599709071' width=100% height=100%&amp;gt;&quot;&gt;
-	Path to Exile
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/100/return-to-dust?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59713368-9626-4466-9be4-8ca08e03a888.jpg?1617735248' width=100% height=100%&amp;gt;&quot;&gt;
-	Return to Dust
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/387/swords-to-plowshares?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be2b4177-e47c-4dde-9ead-31b7602065ec.jpg?1608912010' width=100% height=100%&amp;gt;&quot;&gt;
-	Swords to Plowshares
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/232/utter-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/37e3bfc9-10ba-4ecc-9e0f-e711ccd95a0b.jpg?1618014649' width=100% height=100%&amp;gt;&quot;&gt;
-	Utter End
-&lt;/a&gt;
-				&lt;/p&gt;
-			&lt;/div&gt;
-			&lt;div class=&quot;col-6&quot;&gt;
-				&lt;b&gt;Artifacts&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/kld/194/animation-module?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/34bdc973-db45-46a6-ac48-ce88fb59920a.jpg?1576382961' width=100% height=100%&amp;gt;&quot;&gt;
-	Animation Module
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/234/arcane-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/01b186af-8825-4257-80fd-9c1ecdb21414.jpg?1617647997' width=100% height=100%&amp;gt;&quot;&gt;
-	Arcane Signet
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/299/armory-of-iroas?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321' width=100% height=100%&amp;gt;&quot;&gt;
-	Armory of Iroas
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/239/commanders-sphere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/c/1c1fda5d-f519-4b27-9fc6-1a617d0fc79b.jpg?1617735624' width=100% height=100%&amp;gt;&quot;&gt;
-	Commander's Sphere
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/td2/67/contagion-clasp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/4882ba90-2662-4bca-96c0-17bdfb484ae1.jpg?1562909792' width=100% height=100%&amp;gt;&quot;&gt;
-	Contagion Clasp
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/som/145/contagion-engine?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/c/dce72636-08e4-484e-ad81-4d1597a31ffb.jpg?1576030799' width=100% height=100%&amp;gt;&quot;&gt;
-	Contagion Engine
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/267/lightning-greaves?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e6cec97f-0a2b-4543-a02e-d5e42d337790.jpg?1599709454' width=100% height=100%&amp;gt;&quot;&gt;
-	Lightning Greaves
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/251/mind-stone?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/c/8c899cbd-cddd-43f9-a95d-a6e5af990362.jpg?1617986435' width=100% height=100%&amp;gt;&quot;&gt;
-	Mind Stone
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/254/orzhov-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8bb7d748-c95f-4028-a86e-cf42494be362.jpg?1618014339' width=100% height=100%&amp;gt;&quot;&gt;
-	Orzhov Signet
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/263/sol-ring?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4cbc6901-6a4a-4d0a-83ea-7eefa3b35021.jpg?1618264523' width=100% height=100%&amp;gt;&quot;&gt;
-	Sol Ring
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/105/swiftfoot-boots?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bf700ec0-1fd3-4971-ab03-51365dc8f4f4.jpg?1611967346' width=100% height=100%&amp;gt;&quot;&gt;
-	Swiftfoot Boots
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/237/the-ozolith?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1591228544' width=100% height=100%&amp;gt;&quot;&gt;
-	The Ozolith
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cm2/229/wayfarers-bauble?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b0e3f48-0997-4313-93c9-86cbfc25cd63.jpg?1562275066' width=100% height=100%&amp;gt;&quot;&gt;
-	Wayfarer's Bauble
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Enchantments&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/2/anointed-procession?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a52c265-6920-4929-ba0a-70da08df01f1.jpg?1543674565' width=100% height=100%&amp;gt;&quot;&gt;
-	Anointed Procession
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/95/cathars-crusade?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fbb70e7b-2a68-436e-96a4-32a88fb87da0.jpg?1600715516' width=100% height=100%&amp;gt;&quot;&gt;
-	Cathar's Crusade
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/85/citadel-siege?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c6e693ad-3e49-4692-a35a-06e9e4e8027e.jpg?1618015163' width=100% height=100%&amp;gt;&quot;&gt;
-	Citadel Siege
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/180/dramatic-finale?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/8/a8ec9be6-c8ad-4a82-8253-c49cdb9443ba.jpg?1617466096' width=100% height=100%&amp;gt;&quot;&gt;
-	Dramatic Finale
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/16/felidar-retreat?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/45340647-4d3e-4be1-b0e6-e40cc56a438b.jpg?1604195832' width=100% height=100%&amp;gt;&quot;&gt;
-	Felidar Retreat
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/24/intangible-virtue?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/535764b9-67b2-4123-a4be-2aa72fcd8a33.jpg?1608908801' width=100% height=100%&amp;gt;&quot;&gt;
-	Intangible Virtue
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cn2/144/phyrexian-arena?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c87d2e75-aa91-4657-b8c0-c399ff9331e0.jpg?1576382721' width=100% height=100%&amp;gt;&quot;&gt;
-	Phyrexian Arena
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Sorceries&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/167/blot-out-the-sky?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/1/0141312f-4b68-4c56-b1dc-5b7e6afbb96c.jpg?1618273045' width=100% height=100%&amp;gt;&quot;&gt;
-	Blot Out the Sky
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/emn/17/collective-effort?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d85a6369-c07f-47d5-8448-72d8ec7e7898.jpg?1576383801' width=100% height=100%&amp;gt;&quot;&gt;
-	Collective Effort
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/100/nights-whisper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4638720-a55d-4c3b-b57d-2d028db5894d.jpg?1580014319' width=100% height=100%&amp;gt;&quot;&gt;
-	Night's Whisper
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/122/read-the-bones?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ece1852d-8b7f-4fe6-b9fe-0584a94087ab.jpg?1562627961' width=100% height=100%&amp;gt;&quot;&gt;
-	Read the Bones
-&lt;/a&gt;
-				&lt;/p&gt;
-				&lt;b&gt;Lands&lt;/b&gt;
-				&lt;p class=&quot;mb-0&quot;&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/277/barren-moor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b38d7666-0791-44b4-877e-8fd33ce008aa.jpg?1618013958' width=100% height=100%&amp;gt;&quot;&gt;
-	BarrenMoor
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326' width=100% height=100%&amp;gt;&quot;&gt;
-	Brightclimb Pathway
-&lt;/a&gt;/&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/259/brightclimb-pathway-grimclimb-pathway?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/back/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1604264326' width=100% height=100%&amp;gt;&quot;&gt;
-	Grimclimb Pathway
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/284/command-tower?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b53a112c-671c-4312-af56-53fdb735829b.jpg?1618252552' width=100% height=100%&amp;gt;&quot;&gt;
-	Command Tower
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/271/drifting-meadow?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64dde056-f16f-495b-bba6-2e6edc8cb63a.jpg?1591321972' width=100% height=100%&amp;gt;&quot;&gt;
-	Drifting Meadow
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/246/fabled-passage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d313d051-7295-4884-8cbf-f2f835fd45f4.jpg?1594737636' width=100% height=100%&amp;gt;&quot;&gt;
-	Fabled Passage
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/58/forge-of-heroes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/2/826ff8c2-8a1d-45f5-a7e2-d8bf826fcadc.jpg?1592710371' width=100% height=100%&amp;gt;&quot;&gt;
-	Forge of Heroes
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/248/godless-shrine?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ced4c824-2dfc-42ae-84e6-09f8e3f51b5b.jpg?1584832255' width=100% height=100%&amp;gt;&quot;&gt;
-	Godless Shrine
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/241/isolated-chapel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a1d95d37-5dbe-4a25-bc80-a4db08f3c63a.jpg?1562740520' width=100% height=100%&amp;gt;&quot;&gt;
-	Isolated Chapel
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/239/marsh-flats?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/5/659039ed-c269-4c2d-bce6-91d143f0618e.jpg?1593815053' width=100% height=100%&amp;gt;&quot;&gt;
-	Marsh Flats
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/304/myriad-landscape?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/e/7eadf4ea-1fd8-4f35-baf6-c9e7ce706795.jpg?1618252827' width=100% height=100%&amp;gt;&quot;&gt;
-	Myriad Landscape
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/306/opal-palace?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c803776b-91d2-412c-8e1f-e10fb86665c6.jpg?1618252857' width=100% height=100%&amp;gt;&quot;&gt;
-	Opal Palace
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/366/plains?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/abadcf9e-46ed-4a8b-888c-0cd3756bc8ab.jpg?1616785691' width=100% height=100%&amp;gt;&quot;&gt;
-	Plains
-&lt;/a&gt; x10
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cma/265/polluted-mire?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f204cbfb-c84e-4d2b-9ef3-518f3237e718.jpg?1592673891' width=100% height=100%&amp;gt;&quot;&gt;
-	Polluted Mire
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/312/rogues-passage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba61e204-825b-49e6-b713-c44f714b7539.jpg?1618252922' width=100% height=100%&amp;gt;&quot;&gt;
-	Rogue's Passage
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/315/secluded-steppe?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69b876f8-4f4e-4eaa-904c-fa99f543e319.jpg?1618252991' width=100% height=100%&amp;gt;&quot;&gt;
-	Secluded Steppe
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/273/silverquill-campus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/42583850-ba5c-4a71-8717-406b5c6d048f.jpg?1617453894' width=100% height=100%&amp;gt;&quot;&gt;
-	Silverquill Campus
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/370/swamp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/3/13bd1c69-2561-4ff1-af00-bb519b3897c2.jpg?1616785736' width=100% height=100%&amp;gt;&quot;&gt;
-	Swamp
-&lt;/a&gt; x8
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dka/158/vault-of-the-archangel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35a65437-430a-42ef-854f-6e66f8e1a04a.jpg?1562907598' width=100% height=100%&amp;gt;&quot;&gt;
-	Vault of the Archangel
-&lt;/a&gt;
-				&lt;br /&gt;
-				&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/361/war-room?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48d6ce7c-5dc8-449b-acbd-db259ae687ed.jpg?1610072943' width=100% height=100%&amp;gt;&quot;&gt;
-	War Room
-&lt;/a&gt;
-				&lt;/p&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-Find this decklist as well as the rest of the Year of Brew decklists at the &lt;a href=&quot;https://www.moxfield.com/users/The_Hexdrinkers&quot; target=&quot;_blank&quot;&gt;Hexdrinker’s Moxfield page&lt;/a&gt;!
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="The Year of Brew" /><category term="Commander" /><summary type="html">We’re back here in Year of Brew Land (as if we ever left lol) and the Arc of the Power of Friendship is entering a new phase. We’ve collaborated with the fellow Hexdrinkers on a series of decks, but now it’s back to just good ol’ Julian and his brews: name a better combination, I’ll wait. And, I’m feeling in a generous mood, so I’ve asked the boys to give me 3 criteria, anything from color, to mechanics, to just overall strategy. I’ll take these stipulations and brew up something new and exciting for everyone to bring to future game nights. Chev is first, and he gave me the following criteria: White Combat Matters Counters Let’s see what can do to appease our glorious co-founder! Deck 14: Orzhov So to appease Chev’s out of character demands, I’ve co-opted a new commander from the C21 Pre-cons, Felisa, Fang of Silverquill . Immediately, she hits all of the criteria provided. She’s Orzhov, so she has white, while still providing black as a comfort blanket for Chev’s preferences. She has Mentor and evasion, meaning she wants to be attacking and she wants the rest of the team to attack with her. And she cares about counters on our creatures, the more counters, the more creatures we’ll get to attack with. Overall, a perfect fit. The deck as a whole leans on a few different groups of cards to run smoothly. The outlast lords from Khans of Tarkir like Abzan Battle Priest buff all our creatures with +1/+1 counters on them. Modular creatures from Mirrodin already have counters on them to synergize with Felisa. Ikoria cards like Luminous Broodmoth and Grimdancer provide a variety of ability counters to further diversify our value. We also have a token subtheme. This stems from a combination of Silverquill providing a lot of support, Felisa providing an Inkling army, and Chev asking me to help him make a token deck about a week before I wrote this article. Anointed Procession is a must have for whenever we get Inklings, with a Cathar’s Crusade refueling the fire. Felidar Retreat hits both our goals with a singular card. And newcomers, Shadrix Silverquill , Blot out the Sky , and Inkshield are absolute beasts in this build. Lastly, I had to include Heliod, Sun-Crowned and Walking Ballista combo for sneaky wins, and a Carnifex Demon to make Chev feel better about leaning so heavily in to the “inferior +1/+1 counters,” that damn Hapatra, Vizier of Poisons fanboy… I hope Chev likes this deck, but I hope y’all like it even more. Go forth and Blot Out the Sky with your bloody ink! Blood in the Ink Commander Felisa, Fang of Silverquill Creatures Abzan Battle Priest Abzan Falconer Abzan Falconer Ainok Bond-Kin Alharu, Solemn Ritualist Angelic Skirmisher Arcbound Ravager Arcbound Stinger Arcbound Worker Avenging Huntbonder Basri's Acolyte Bellowing Aegisaur Boot Nipper Calculating Lich Carnifex Demon Combat Calligrapher Crystalline Giant Drana, Liberator of Malakir Fain, the Broker Grimdancer Hangarback Walker Harvester of Souls Heliod, Sun-Crowned Luminous Broodmoth Mer-Ek Nightblade Mikaeus, the Lunarch Odric Master Tactician Orzhov Advokist Shadewing Laureate Shadrix Silverquill Shaile, Dean of Radiance / Embrose, Dean of Shadow Tymna the Weaver Walking Ballista Instants Blood Curdle Enlightened Tutor Inkshield Path to Exile Return to Dust Swords to Plowshares Utter End Artifacts Animation Module Arcane Signet Armory of Iroas Commander's Sphere Contagion Clasp Contagion Engine Lightning Greaves Mind Stone Orzhov Signet Sol Ring Swiftfoot Boots The Ozolith Wayfarer's Bauble Enchantments Anointed Procession Cathar's Crusade Citadel Siege Dramatic Finale Felidar Retreat Intangible Virtue Phyrexian Arena Sorceries Blot Out the Sky Collective Effort Night's Whisper Read the Bones Lands BarrenMoor Brightclimb Pathway / Grimclimb Pathway Command Tower Drifting Meadow Fabled Passage Forge of Heroes Godless Shrine Isolated Chapel Marsh Flats Myriad Landscape Opal Palace Plains x10 Polluted Mire Rogue's Passage Secluded Steppe Silverquill Campus Swamp x8 Vault of the Archangel War Room Find this decklist as well as the rest of the Year of Brew decklists at the Hexdrinker’s Moxfield page!</summary></entry></feed>
+&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="The Year of Brew" /><category term="Commander" /><summary type="html">It’s time for our second customized deck in this second half of the Arc of the Power of Friendship. Eric is next, and he gave me the following criteria: Contains At Least White and Black in its Color Identity Not Reliant on its Board State Has a theme of Burst Damage Let’s see what can do to appease our resident green mage! (hint: we aren’t playing green) Deck 15: Mardu So to cater to Eric’s request, I’ve concocted quite the doozy. It was a bit of a convoluted thought process to get to where we are, but I first focused on this idea of “burst damage”, which we’ll get to in a bit and decided I wanted to be in Mardu. Not only is it an underloved color combo, but depriving Eric of green is necessary for personal growth and it’ll also be fun to see him go through withdrawal. However, I did choose to give him Oros, the Avenger as his Commander. Considering how far we’ve strayed from his norm, I figured a beefy dragon would give him some comfort. If I wanted to be really mean, I would’ve made him an Esper deck, but… this is already a control deck, so we’re basically there. That’s right, this is a control deck that we’re gifting to the King of Timmy’s. Eric didn’t want reliance on board state and by golly, who needs a board state when none of your opponents have one either? That’s always been my motto and we’re running plenty of removal, card draw, and wraths to back it up. I did try to spice up our picks a bit, divying between red looting and black drawing cards and losing life, Painful Truths being a personal favorite. Rip Apart is a versatile answer fresh from Strixhaven, and Ruinous Ultimatum is the flashiest sort of control card, meeting Eric’s taste in the middle. However, I think my favorite includes are Tragic Arrogance and Mythos of Snapdax , both of which absolutely decimate our opponents but with the extra salt of us getting to choose which measely permanents they can keep. So now we come to that ever important criteria of Burst Damage. Initially I was thinking big mana jammin’ with things like Comet Storm and Debt to the Deathless . Too easy. Well, what about Boros Reckoner -esque effects with Blasphemous Act , Star of Extinction , etc.? Too. EASY. What’s the biggest amount of damage we can inflict in one burst? Well, all of it, duh. That’s a little overkill, but how about… half of our opponents life total? Goldy f***ing Locks, that’s *just right*. Yup, this deck is all about smacking our opponents life totals in half. We’ve got a bunch of heaters like Blood Tribute , Revenge , and of course, Fraying Omnipotence , as well as creature-based versions like Heartless Hidetsugu and Raving Dead . A sick synergy is with Anya, Merciless Angel who just so happens to care about that halfway point, but was unfortunately stuck in a Boros pre-con. Add in an Increasing Vengeance , Dualcaster Mage or even Wound Reflection to really spread the love &amp;lt;3&amp;lt;3&amp;lt;3 I hope Eric likes this deck, but I hope y’all like it even more. Go forth and cleave through your opponents’ life totals! Glass Half Full Commander Oros, the Avenger Artifacts Arcane Signet Boros Signet Chromatic Lantern Expedition Map Gilded Lotus Hedron Archive Lightning Greaves Mind Stone Orzhov Signet Quietus Spike Rakdos Signet Scytheclaw Sol Ring Swiftfoot Boots Wayfarer's Bauble Creatures Angelic Arbiter Anya, Merciless Angel Cataclysmic Gearhulk Combustible Gearhulk Dire Fleet Ravager Dualcaster Mage Gisela, Blade of Goldnight Heartless Hidetsugu Kokusho, the Evening Star Malignus Raving Dead Sun Titan Torgaar, Famine Incarnate Velomachus Lorehold Instants Anguished Unmaking Chaos Warp Comeuppance Deflecting Palm Disenchant Enlightened Tutor Increasing Vengeance Inkshield Oblation Reverberate Thrill of Possibility Enchantments Animate Dead Dictate of the Twin Gods Smothering Tithe Wound Reflection Planeswalkers Sorin Markov Sorceries Blood Tribute Chain Reaction Damnation Faithless Looting Fraying Omnipotence Grim Tutor Increasing Ambition Mythos of Snapdax Night's Whisper Painful Truths Profane Command Reanimate Revival // Revenge Rip Apart Ruinous Ultimatum Sorin's Vengeance Temporal Extortion Tragic Arrogance Wrath of God Lands Arid Mesa Blood Crypt Bloodstained Mire Cabal Coffers Clifftop Retreat Command Tower Dragonskull Summit Godless Shrine Isolated Chapel Marsh Flats Mountain x4 Plains x8 Sacred Foundry Savai Triome Swamp x10 Urborg, Tomb of Yawgmoth Find this decklist as well as the rest of the Year of Brew decklists at the Hexdrinker’s Moxfield page!</summary></entry></feed>
