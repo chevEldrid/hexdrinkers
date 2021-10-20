@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-10-16T12:30:11-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Mono Blue Aggro with Tetsuko Umezawa</title><link href="hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko.html" rel="alternate" type="text/html" title="Mono Blue Aggro with Tetsuko Umezawa" /><published>2021-10-15T00:00:00-07:00</published><updated>2021-10-15T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko.html">&lt;p&gt;What’s up everybody, considering it’s one of the rare weeks where spoilers/a set/etc has not been released we’re doing a good old fashioned deck tech! This one is a real blast from the past featuring one of my favorite underloved commanders of the last five years.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2021-10-19T17:32:08-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Top ways to spice up Game Night</title><link href="hexdrinkers.com/podcast/2021/10/18/pod45.html" rel="alternate" type="text/html" title="Top ways to spice up Game Night" /><published>2021-10-18T00:00:00-07:00</published><updated>2021-10-18T00:00:00-07:00</updated><id>hexdrinkers.com/podcast/2021/10/18/pod45</id><content type="html" xml:base="hexdrinkers.com/podcast/2021/10/18/pod45.html">&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/episode/41xSSEWMbwlZ6boGUtbKHB?si=Tp65j1W1QM-D57nimCgJLQ&quot;&gt;Episode 45&lt;/a&gt; of the Hexdrinkers Podcast dives into some of the myriad of ways we’ve tried to add a little more spice to our Commander nights, highlighting everything from interesting variants of the format to more specific and indvidualized customizations. While we go into greater detail on the pod, we thought it might be helpful to provide a spruced up “link-list” for some of the resources and tools we mention during the episode.&lt;/p&gt;
+
+&lt;h2 id=&quot;commander-variants&quot;&gt;Commander Variants&lt;/h2&gt;
+
+&lt;p&gt;Even a 100-card singleton format can use a little bit of variety now and again, so here are our three favorite variations:&lt;/p&gt;
+
+&lt;h4 id=&quot;two-headed-giant&quot;&gt;Two-Headed Giant&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8c21da73-0dad-4b2b-8cc6-61861bed9410.jpg?1562923296&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b457672-902b-42c0-9d53-a3c21be2f500.jpg?1562923137&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/5/45bc8745-9aaf-4b3c-922f-5a577324bb1f.jpg?1601079454&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Two-Headed Giant might be the format we mention that you’re most familiar with, but maybe not in the context of commander - there are a couple different rules worth repeating:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each team starts with 60 life&lt;/li&gt;
+  &lt;li&gt;Commander Damage is unchanged (21)&lt;/li&gt;
+  &lt;li&gt;Starting team doesn’t draw&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;planechase&quot;&gt;Planechase&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/8/98aeab2a-69b5-4b4f-9de4-5401d01c26e2.jpg?1562923340&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3b276615-24e2-4c8d-a2b4-b5ff777c5086.jpg?1562905891&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8e23b9df-2419-4906-8b21-29af6f65a2c3.jpg?1575572167&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+While not seeing a new product since 2012, Planechase is perhaps the most universally beloved Commander variant among the Hexdrinkers. As Oakley describes it, “It’s like adding a 5th player who loves group hug but occasionally dives into stax.” For an official format breakdown, check out &lt;a href=&quot;https://mtg.fandom.com/wiki/Planechase_(format)&quot;&gt;this&lt;/a&gt;. We also mention the fan initiative “Planechase 2019” on the show, an absolutely delightful custom set of Plane cards set everywhere MTG has gone from 2012 - 2019. You can find the original Reddit post that introduces the expansion &lt;a href=&quot;https://www.reddit.com/r/magicTCG/comments/9127qi/after_over_a_year_of_work_we_give_you_what/&quot;&gt;here&lt;/a&gt; (and a huge shout-out to u/ExPointReddit and team who helped make this possible).&lt;/p&gt;
+
+&lt;p&gt;If this all seems interesting and you’d like to try out planechase classic, 2019, or both with your friends and playgroup - we gotchu! Head on over to &lt;a href=&quot;http://planeswalk-app.com/&quot;&gt;planeswalk-app.com&lt;/a&gt; where we’ve put together a custom Planechase companion app to make the process absolutely seamless.&lt;/p&gt;
+
+&lt;h4 id=&quot;commander-dungeons-and-dragons&quot;&gt;Commander Dungeons and Dragons&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e893613-423e-409b-9334-292bd252405b.jpg?1627706980&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.jpg?1627708684&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.jpg?1627704159&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+While a little rough around the edges, “Commander DnD” as we’ve been calling it is a Hexdrinkers original! Born as a fun Hexdrinkers’ Olympics event (You can find a link to that episode &lt;a href=&quot;https://open.spotify.com/episode/5TFw6PmWDGMFxHSo7ipgLG?si=e8fca64e4a884dc8&quot;&gt;here&lt;/a&gt;), we’ve been doing some work to build the format out and make it more enjoyable with more impactful effects. The basic premise is like Planechase: you’re given access to a die that can trigger events from outside the game. Only in this case, it’s a d20 with effects based off of the &lt;a href=&quot;https://scryfall.com/search?q=set%3Aafr+you&amp;amp;as=grid&amp;amp;order=set&quot;&gt;You come across…&lt;/a&gt; cycle from AFR. Our official format page is just a Google spreadsheet right now but check it out! Recently we’ve been playing with adding classes (Eric had a ton of fun running the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/217/bard-class?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1627708744' width=100% height=100%&amp;gt;&quot;&gt;
+Bard Class
+&lt;/a&gt; with his mono-green legends deck)…but let us know what you think!&lt;/p&gt;
+
+&lt;h4 id=&quot;point-systems&quot;&gt;Point Systems&lt;/h4&gt;
+
+&lt;p&gt;Again referencing the Hexdrinkers Olympics episode, having other goals besides victory in your game can lead to some very interesting (and fun!) plays. I believe &lt;a href=&quot;https://www.youtube.com/watch?v=XGFKpx02Jvg&amp;amp;list=PL5d1KNNFArSNNRrpJjhf1WrwwuZqUcg0K&quot;&gt;Commander Vs&lt;/a&gt; shows off this idea best.&lt;/p&gt;
+
+&lt;h2 id=&quot;commander-restrictions&quot;&gt;Commander Restrictions&lt;/h2&gt;
+
+&lt;p&gt;Sometimes the best way to get out of a deckbuilding rut is to force yourself to explore cards outside of your traditional picks. Here are the ways we’ve limited ourselves from the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/47/cyclonic-rift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff08e5ed-f47b-4d8e-8b8b-41675dccef8b.jpg?1598303834' width=100% height=100%&amp;gt;&quot;&gt;
+Cyclonic Rifts
+&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/422/avenger-of-zendikar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/03dea775-bbb3-4e9c-8514-0605b5ad2e8b.jpg?1632467938' width=100% height=100%&amp;gt;&quot;&gt;
+Avengers of Zendikar
+&lt;/a&gt; of the world:&lt;/p&gt;
+
+&lt;h4 id=&quot;budget-commander&quot;&gt;Budget Commander&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80665af6-fd66-4684-94ec-1f04eb898c2a.jpg?1631585654&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1626098785&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1631301068&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+One of the easiest ways to limit a deck from going off the rails is imposing a budget. We’ve all been building for a while and have amassed sizable collections, but every once in a while it’s good to see what is the best you can do with $50, $30, or $20 - and with current reprint policies you’d be surprised! Check out some of our more recent &lt;a href=&quot;https://open.spotify.com/episode/3xJIyU2cSVlfbN72OgK6rF?si=8d642218d0844d9c&quot;&gt;Group Brew&lt;/a&gt; episodes where we usually have someone taking a budget approach.&lt;/p&gt;
+
+&lt;h4 id=&quot;planar-commanderthemed-decks&quot;&gt;Planar Commander/Themed Decks&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/7207c416-dc16-40ab-94a0-836ee0710e24.jpg?1562405248&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/81bd293b-07b9-4d7c-826a-948d5b01ab5e.jpg?1608911156&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/594cb7dc-ea88-4909-ab40-1d40fecc9817.jpg?1592517535&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+While we call out Planar Commanders on the pod, we’ve had a lot of success with our “Commander Precons” Podcast episodes exploring theme limits on deck building. Most recently, this has taken the form of &lt;a href=&quot;https://open.spotify.com/episode/1UZ8dk7R3GcCaxrf2zwC0f?si=9844a7545dce4a2f&quot;&gt;DnD Campaign-themed decks&lt;/a&gt; but I have a feeling something new is coming out soon too…&lt;/p&gt;
+
+&lt;h4 id=&quot;pauper-commander&quot;&gt;Pauper Commander&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/16185c50-f7b8-4cea-a129-dfad8e9df781.jpg?1591605108&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/2/5/253f9e43-5bc6-4f26-a8e9-773cd0ca3d02.jpg?1562732810&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+We’ve been doing a LOT of &lt;a href=&quot;https://hexdrinkers.com/archives/pdh&quot;&gt;PDH&lt;/a&gt; recently and it’s been an absolute blast. Limiting yourself to 99 commons with any uncommon creature in the command zone forces some really interesting design decisions…and makes some approaches a lot more viable. While we provide a lot of base format information (and will continue to do so) when it comes to top cards from recent sets or some deck techs, the format home page is at &lt;a href=&quot;https://www.pdhhomebase.com/&quot;&gt;pdhhomebase.com&lt;/a&gt;. If you’d like to dig into the budding competitive scene we recommend checking out &lt;a href=&quot;https://www.youtube.com/c/TheTryhards&quot;&gt;The Tryhards&lt;/a&gt; who are doing amazing things for cPDH and maintain a tierlist!&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Hopefully this article and accompanying podcast have given you some inspriation to try out something new with your playgroup too! If you have any fun ideas or try one of these and want to tell us how it went - hit us up in the comments below!&lt;/p&gt;</content><author><name>chev</name></author><category term="Podcast" /><category term="Commander" /><category term="PDH" /><summary type="html">Episode 45 of the Hexdrinkers Podcast dives into some of the myriad of ways we’ve tried to add a little more spice to our Commander nights, highlighting everything from interesting variants of the format to more specific and indvidualized customizations. While we go into greater detail on the pod, we thought it might be helpful to provide a spruced up “link-list” for some of the resources and tools we mention during the episode. Commander Variants Even a 100-card singleton format can use a little bit of variety now and again, so here are our three favorite variations: Two-Headed Giant Two-Headed Giant might be the format we mention that you’re most familiar with, but maybe not in the context of commander - there are a couple different rules worth repeating: Each team starts with 60 life Commander Damage is unchanged (21) Starting team doesn’t draw Planechase While not seeing a new product since 2012, Planechase is perhaps the most universally beloved Commander variant among the Hexdrinkers. As Oakley describes it, “It’s like adding a 5th player who loves group hug but occasionally dives into stax.” For an official format breakdown, check out this. We also mention the fan initiative “Planechase 2019” on the show, an absolutely delightful custom set of Plane cards set everywhere MTG has gone from 2012 - 2019. You can find the original Reddit post that introduces the expansion here (and a huge shout-out to u/ExPointReddit and team who helped make this possible). If this all seems interesting and you’d like to try out planechase classic, 2019, or both with your friends and playgroup - we gotchu! Head on over to planeswalk-app.com where we’ve put together a custom Planechase companion app to make the process absolutely seamless. Commander Dungeons and Dragons While a little rough around the edges, “Commander DnD” as we’ve been calling it is a Hexdrinkers original! Born as a fun Hexdrinkers’ Olympics event (You can find a link to that episode here), we’ve been doing some work to build the format out and make it more enjoyable with more impactful effects. The basic premise is like Planechase: you’re given access to a die that can trigger events from outside the game. Only in this case, it’s a d20 with effects based off of the You come across… cycle from AFR. Our official format page is just a Google spreadsheet right now but check it out! Recently we’ve been playing with adding classes (Eric had a ton of fun running the Bard Class with his mono-green legends deck)…but let us know what you think! Point Systems Again referencing the Hexdrinkers Olympics episode, having other goals besides victory in your game can lead to some very interesting (and fun!) plays. I believe Commander Vs shows off this idea best. Commander Restrictions Sometimes the best way to get out of a deckbuilding rut is to force yourself to explore cards outside of your traditional picks. Here are the ways we’ve limited ourselves from the Cyclonic Rifts and Avengers of Zendikar of the world: Budget Commander One of the easiest ways to limit a deck from going off the rails is imposing a budget. We’ve all been building for a while and have amassed sizable collections, but every once in a while it’s good to see what is the best you can do with $50, $30, or $20 - and with current reprint policies you’d be surprised! Check out some of our more recent Group Brew episodes where we usually have someone taking a budget approach. Planar Commander/Themed Decks While we call out Planar Commanders on the pod, we’ve had a lot of success with our “Commander Precons” Podcast episodes exploring theme limits on deck building. Most recently, this has taken the form of DnD Campaign-themed decks but I have a feeling something new is coming out soon too… Pauper Commander We’ve been doing a LOT of PDH recently and it’s been an absolute blast. Limiting yourself to 99 commons with any uncommon creature in the command zone forces some really interesting design decisions…and makes some approaches a lot more viable. While we provide a lot of base format information (and will continue to do so) when it comes to top cards from recent sets or some deck techs, the format home page is at pdhhomebase.com. If you’d like to dig into the budding competitive scene we recommend checking out The Tryhards who are doing amazing things for cPDH and maintain a tierlist! Conclusion Hopefully this article and accompanying podcast have given you some inspriation to try out something new with your playgroup too! If you have any fun ideas or try one of these and want to tell us how it went - hit us up in the comments below!</summary></entry><entry><title type="html">Mono Blue Aggro with Tetsuko Umezawa</title><link href="hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko.html" rel="alternate" type="text/html" title="Mono Blue Aggro with Tetsuko Umezawa" /><published>2021-10-15T00:00:00-07:00</published><updated>2021-10-15T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/10/15/pdh_tetsuko.html">&lt;p&gt;What’s up everybody, considering it’s one of the rare weeks where spoilers/a set/etc has not been released we’re doing a good old fashioned deck tech! This one is a real blast from the past featuring one of my favorite underloved commanders of the last five years.&lt;/p&gt;
 
 &lt;div&gt;
     
@@ -3302,338 +3470,4 @@ While we can’t get another &lt;a class=&quot;accented-link external-card-link&
 	Feign Death
 &lt;/a&gt; effect or two.&lt;/p&gt;
 
-&lt;p&gt;So that’s our list! See any cards you’re thinking of trying out? Did we miss some hidden tech? Let us know in the comments below!&lt;/p&gt;</content><author><name>chev</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><category term="Top10" /><summary type="html">Welcome back! Another set means another stupendous influx of commons for our favorite PDH brews and Adventures in the Forgotten Realms certainly does not disappoint. Here are the Hexdrinkers’ Top Ten commons for PDH in AFR! Priest of Ancient Lore Rejoice! White is back in the card draw game! Okay it’s not a lot, but it’s a start. Recently, White has gotten a lot of heat specifically due to its inability to deliver in 100-card formats. While WOTC have hinted this might be only the beginning in exploring creature-oriented card draw outside of green, for now…you’ll have to be content with flickering this Ancient Priest in a Soulherder build or paired with an Ephemerate or Ghostly Flicker . Hoarding Ogre One of the other main areas of annoyance for PDH players is Red mana generation. And for that, I seriously love Hoarding Ogre. While a 3/3 for 4 isn’t the best stat-wise, having a slightly greater than 50% chance of creating TWO treasures on every attack is insane in terms of value, and just the one treasure ain’t a bad participation trophy. Look to make a slot for this ogre in a Dargo, the Shipwrecker or Fathom Fleet Swordjack , or really any aggressive deck that could use a little mana boost. Pixie Guide While there’s not a lot of dice rolling support at common yet, I’m sure one of you crazy kids will try to make it happen and when you do, you want this pixie. With Farideh, Devil’s Chosen in the command zone, a Hoarding Ogre , an Arcane Investigator , and - okay really you’ll want every dice roll card there is. Can’t be picky. (Also, if your playgroup is up for some Rule 0 shenanigans, check out some of the ORIGINAL dice-themed sets: Unstable and Unglued. Since Pixie Guide is gracefully worded for dice rolls in general, you can still trigger it with Chicken Egg . Also, for dice-rolling redundancy - you’ll want Wall of Fortune ) Deadly Dispute Costly Plunder is great. We had a good few years, but unfortunately it’s time to say goodbye. With the simple act of creating a treasure Deadly Dispute rises above its predecessor in leaps and bounds, turning it into essentially a more versatile Village Rites . While I’m sure most decks already running Costly Plunder and Village Rites will be more than happy to absorb another stellar card draw effect, if you’re tight on spaces definitely consider a swap. Minimus Containment The poor man’s Song of the Dryads is still a Song of the Dryads. Outside of Black, there are very few ways an opponent is going to be getting their creature back when it goes to the yard so the drawback of being able to sacrifice the enchanted creature is somewhat mitigated. Look to see this wherever white is played. You Find a Cursed Idol Versatility. We love it. While I’d put it one step below Return to Nature , I think we’re very close to starting to see these souped-up Naturalize s consistently with whatever the set’s mechanic is as mode number three. That being said, this is still an incredibly powerful card to draw and if you’re leaning into dungeon synergies - it’s an absolute must. Zombie Ogre There aren’t a lot of good ways to venture into the dungeon at common, but Zombie Ogre is easily one of the best. Imagine Whisper, Blood Liturgist in the zone and repeatedly venturing into Tomb of Annihilation . Nasty. I could also see this ogre (second ogre in our list too, that’s got to be a first) in the 99 of Shirei, Shizo’s Caretaker capitalizing on all the death triggers you’ll be accumulating. As the owner of a Shirei deck, consider me incredibly interested… Celestial Unicorn White is getting all KINDS of goodies this time around! Honestly, I’m happy. This is the first time we’ve seen the classic Ajani’s Pridemate ability at common. In any lifegain shell this is going to get super dangerous super fast - especially when backed up with the likes of Soul Warden or Suture Priest . Pairs nicely with a Regal Bloodlord or a Vizkopa Guildmage in the command zone. Clever Conjurer Not exactly a Kiora’s Follower but it doesn’t need to be. Being able to untap ANY permanent besides itself is an absolutely beautiful piece of utility with the bounce lands or giving a creature pseudo-vigilance. Also, infinite green mana with a Freed from the Real on your Conjurer and a Simic Growth Chamber ? Sign me up. Vampire Spawn While we can’t get another Gray Merchant of Asphodel , Gary’s little brother is doing his best impression and still dealing six damage around the table per death. An easy reanimation target, be careful for turns involving this aggressive vampire and a Feign Death effect or two. So that’s our list! See any cards you’re thinking of trying out? Did we miss some hidden tech? Let us know in the comments below!</summary></entry><entry><title type="html">Top 10 EDH Parallels</title><link href="hexdrinkers.com/pauper%20commander/2021/07/02/pdh_parallels.html" rel="alternate" type="text/html" title="Top 10 EDH Parallels" /><published>2021-07-02T00:00:00-07:00</published><updated>2021-07-02T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2021/07/02/pdh_parallels</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2021/07/02/pdh_parallels.html">&lt;p&gt;Welcome back! Today marks one month of PDH content here at Hexdrinkers, and we haven’t even run out of ideas yet! Today I’m happily joined by Julian, as we name some of our favorite PDH commanders that have close counterparts in the big leagues. Looking to port one of your favorite strategies into a new exciting format? Simply want to get a taste of a deck too powerful or out of price range for your meta? Then this article is for you! Partially inspired by our recent work with Satyr Enchanter last week, we thought we’d dive deep into the meta and expose some of the more closely tied strategies between the two formats. LEGGO!&lt;/p&gt;
-
-&lt;h3 id=&quot;imoti-celebrant-of-bounty---maelstrom-wanderergolos-tireless-pilgrim&quot;&gt;Imoti, Celebrant of Bounty -&amp;gt; Maelstrom Wanderer/Golos, Tireless Pilgrim&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/a/8afceb13-877a-4256-9ba6-851b6924ffd9.jpg?1608911148&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/8/98aeab2a-69b5-4b4f-9de4-5401d01c26e2.jpg?1562923340&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1592517637&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-If you want to be casting big, dumb, cheaty things in PDH, your best bet is to use cascade (kinda like in EDH, funny how that works). Imoti has the capability to really bring the heat when combined with your larger threats. Fill this list with things like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/8/ulamogs-crusher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.jpg?1547515341' width=100% height=100%&amp;gt;&quot;&gt;
-Ulamog’s Crusher
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/322/maelstrom-colossus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/322491d2-d082-4d38-8d81-8588c011e725.jpg?1608911533' width=100% height=100%&amp;gt;&quot;&gt;
-Maelstrom Colossus
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/133/treasure-cruise?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90bb3d28-30a4-4344-8a41-fe8b9ebf6ce3.jpg?1617910624' width=100% height=100%&amp;gt;&quot;&gt;
-Treasure Cruise
-&lt;/a&gt;, or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/iko/157/greater-sandwurm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/9/d90c5650-7eb2-480a-856e-a04406096830.jpg?1591227678' width=100% height=100%&amp;gt;&quot;&gt;
-Greater Sandwurm
-&lt;/a&gt; and you’re going to be up to no good in no time. Oh and don’t forget, cascade also allows you to hit those cast triggers so it’s totally possible to drop a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/roe/5/hand-of-emrakul?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/4/84d602f4-5876-416a-95e5-821a285358bf.jpg?1562705822' width=100% height=100%&amp;gt;&quot;&gt;
-Hand of Emrakul
-&lt;/a&gt; into &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bfz/12/ruin-processor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/9/d997088b-f8f9-4e4c-ba64-aa7f43cc7505.jpg?1562946835' width=100% height=100%&amp;gt;&quot;&gt;
-Ruin Processor
-&lt;/a&gt; for that extra value. For maximum fun you should also check out &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/245/natural-reclamation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3e98fb7c-6962-4b57-b7b7-c71899564002.jpg?1608910823' width=100% height=100%&amp;gt;&quot;&gt;
-Natural Reclamation
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/69/forceful-denial?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27c75157-2670-4804-8853-a6867c83c40a.jpg?1608909212' width=100% height=100%&amp;gt;&quot;&gt;
-Forceful Denial
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/216/annoyed-altisaur?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/7536d618-0c98-45bb-913b-b8117b4acf87.jpg?1608910542' width=100% height=100%&amp;gt;&quot;&gt;
-Annoyed Altisaur
-&lt;/a&gt; for all your pauper cascade needs.&lt;/p&gt;
-
-&lt;h3 id=&quot;ravenous-squirrel---korvold-fae-cursed-king&quot;&gt;Ravenous Squirrel -&amp;gt; Korvold, Fae-Cursed King&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/f/9f44a15c-1bb4-4fb8-88a0-e4d3f2dee1b4.jpg?1621878696&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1571197150&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-While there are a lot of options that synergize with sacrifice for a PDH commander, few options contain as much power as this 1-drop squirrel. Trading an attack trigger for mana and a more restrictive sacrifice clause does little to stymie this value engine that continues to draw you cards and grow as a threat while you sacrifice your board away. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/154/bloodbriar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/a/3a9281d7-9c11-4dc8-9035-902fa3a69ebf.jpg?1599706919' width=100% height=100%&amp;gt;&quot;&gt;
-Bloodbriar
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/158/viscera-seer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025' width=100% height=100%&amp;gt;&quot;&gt;
-Viscera Seer
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/78/mortician-beetle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/978f2a31-1c89-43cb-92f2-195026c9311a.jpg?1593813338' width=100% height=100%&amp;gt;&quot;&gt;
-Mortician Beetle
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/437/sporemound?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/092bfc5f-8002-43da-8e70-c19fccfe54ac.jpg?1611797251' width=100% height=100%&amp;gt;&quot;&gt;
-Sporemound
-&lt;/a&gt; are all good calls here. I’d suggest leaning into a token subtheme for sacrifice fodder and this squirrel will be swinging for lethal in no time.&lt;/p&gt;
-
-&lt;h3 id=&quot;mistmeadow-witchsoulherder---roon-of-the-hidden-realm&quot;&gt;Mistmeadow Witch/Soulherder -&amp;gt; Roon of the HIdden Realm&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/570afcb8-8cf0-4946-863a-be19c0a5e110.jpg?1620571960&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/5/0/50bc0f5b-7421-45b9-af85-86dd9821b7d8.jpg?1620530859&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/f/8/f8ff4b08-fa1a-4564-b427-ea89e54a0e7b.jpg?1592673448&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-While I like Soulherder more for the free blink trigger, it is specific to &lt;em&gt;your&lt;/em&gt; creatures, so you can’t start blinking your opponents’ creatures in and out of combat like a crazy person. That doesn’t mean you’ll be without great targets: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/42/mulldrifter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/345fd005-5052-4500-a260-3649500e21f4.jpg?1620529648' width=100% height=100%&amp;gt;&quot;&gt;
-mulldrifter
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/45/archaeomancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cc258713-6ce3-44e0-9b4b-8fa7d1d093a1.jpg?1547516110' width=100% height=100%&amp;gt;&quot;&gt;
-archaeomancer
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/128/peregrine-drake?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fbe5d85f-bfd3-49e1-a943-ed1ade6bb2a2.jpg?1562945824' width=100% height=100%&amp;gt;&quot;&gt;
-Peregrine Drake
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/28/kor-cartographer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/6226b346-ca4c-45ea-871c-1a8fb7f9be0d.jpg?1620529283' width=100% height=100%&amp;gt;&quot;&gt;
-Kor Cartographer
-&lt;/a&gt; and more are all fantastic options for a blink. Growing Soulherder, accruing insane value, and making the little control player deep, deep in your heart a little happier. If you want something a little less timing restrictive, Mistmeadow Witch is the more “on point” solution, giving you the added flexibility of triggering a blink at any time on any creature. That of course comes at a steep cost of four mana though, so construct your deck accordingly.&lt;/p&gt;
-
-&lt;h3 id=&quot;wayfaring-temple---trostani-selesnyas-voice&quot;&gt;Wayfaring Temple -&amp;gt; Trostani, Selesnya’s Voice&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/77d4920f-94f7-4780-9c5f-f0df6f6d3d6e.jpg?1568004866&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/3/4/34ea44f2-cb2f-4b86-83fc-fe507f05bb9d.jpg?1568004834&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-It’s not often you get a repeatable trigger on an uncommon creature, but maybe that’s because Wayfaring temple was originally printed at Rare… Anyway, having a BIG beater if you end up going wide (and you should) means a lil trample and you’ll be populating just as frequently as you would with Trostani. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/137/slime-molding?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0daf6a74-57f7-4c44-9413-a28002f3de4c.jpg?1593813923' width=100% height=100%&amp;gt;&quot;&gt;
-Slime Molding
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nph/114/maul-splicer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2d2c6a6d-5b59-47d7-b290-df3640d9555f.jpg?1562876329' width=100% height=100%&amp;gt;&quot;&gt;
-Maul Splicer
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/173/miming-slime?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/0/80d816cd-9ca6-4118-893e-5c6b167d9d81.jpg?1547517667' width=100% height=100%&amp;gt;&quot;&gt;
-Miming Slime
-&lt;/a&gt; are all great here since you tend to want slightly larger tokens with populate, but allstars like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/437/sporemound?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/092bfc5f-8002-43da-8e70-c19fccfe54ac.jpg?1611797251' width=100% height=100%&amp;gt;&quot;&gt;
-Sporemound
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/420/presence-of-gond?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bba661af-c4a8-4230-830e-a9ee22b25d6b.jpg?1601079928' width=100% height=100%&amp;gt;&quot;&gt;
-Presence of Gond
-&lt;/a&gt; will help round out a successful token strategy&lt;/p&gt;
-
-&lt;h3 id=&quot;araumi-of-the-dead-tide---muldrotha-the-gravetide&quot;&gt;Araumi of the Dead Tide -&amp;gt; Muldrotha, the Gravetide&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/48b597dd-f6eb-45da-977d-453e8c1433cc.jpg?1608911023&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/c/6/c654737d-34ac-42ff-ae27-3a3bbb930fc1.jpg?1591204580&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-There aren’t a lot of non-restrictive recursion-based commanders at uncommon. Who’da thunk. Outside of ETB recursion like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/425/eternal-witness?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/7/d74e7ded-d063-4d90-a9ff-91c44a8098d7.jpg?1608917430' width=100% height=100%&amp;gt;&quot;&gt;
-Eternal Witness
-&lt;/a&gt; or &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/189/skullwinder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/6133735c-37ea-4c91-a848-59bc47dcb0b7.jpg?1591321021' width=100% height=100%&amp;gt;&quot;&gt;
-Skullwinder
-&lt;/a&gt;, your best bet if you want to keep the dead from staying dead is &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/267/araumi-of-the-dead-tide?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48b597dd-f6eb-45da-977d-453e8c1433cc.jpg?1608911023' width=100% height=100%&amp;gt;&quot;&gt;
-Araumi of the Dead Tide
-&lt;/a&gt;. There are a surprising amount of quality discard outlets in pauper, a la &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/tsr/64/dreamscape-artist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f244985e-7487-44db-bd69-47c781753f2e.jpg?1619394086' width=100% height=100%&amp;gt;&quot;&gt;
-Dreamscape Artist
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/74/thirst-for-meaning?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/2422973d-36ee-4b8c-9a47-fcd160aa9f63.jpg?1581479595' width=100% height=100%&amp;gt;&quot;&gt;
-Thirst for Meaning
-&lt;/a&gt;, with plenty of big dumb creatures to put in the yard for later. Julian actually piloted an Araumi PDH deck to great effect in one of our early games, filling it with terrible things like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
-Gray Merchant of Asphodel
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/128/fleshbag-marauder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4002b3a4-e00e-44ed-8989-d553e5d7d6c8.jpg?1608909755' width=100% height=100%&amp;gt;&quot;&gt;
-Fleshbag Marauder
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/pca/34/lilianas-specter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/549089f4-1359-49c3-9560-6fe49d1598d0.jpg?1562910526' width=100% height=100%&amp;gt;&quot;&gt;
-Liliana’s Specter
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;rhys-the-redeemed---thalisse-reverent-medium&quot;&gt;Rhys the Redeemed -&amp;gt; Thalisse, Reverent Medium&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/b/9/b91dadcb-31e9-43b0-b425-c9311af3e9d7.jpg?1599708272&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/7/474d6363-ebe1-4a1a-b4e6-7bd53d878527.jpg?1608911242&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-Speaking of PDH decks I’ve piloted to… some degree of success, here comes &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/291/thalisse-reverent-medium?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/7/474d6363-ebe1-4a1a-b4e6-7bd53d878527.jpg?1608911242' width=100% height=100%&amp;gt;&quot;&gt;
-Thalisse, Reverent Medium
-&lt;/a&gt;! She slots in nicely as a pauper parallel to the (infamous?) &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/213/rhys-the-redeemed?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/9/b91dadcb-31e9-43b0-b425-c9311af3e9d7.jpg?1599708272' width=100% height=100%&amp;gt;&quot;&gt;
-Rhys the Redeemed
-&lt;/a&gt;. Both of these are premier token commanders, namely because they DOUBLE the amount of tokens you have. And at the tradeoff of an additional four mana to cast and a more conditional doubling, you get black in your color identity! Sarcasm aside, black adds a lot of excellent ways to make tokens, personal favorites being &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/roe/110/essence-feed?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/9/b9cf2116-7ae5-4b6a-830a-919a55235690.jpg?1562707903' width=100% height=100%&amp;gt;&quot;&gt;
-Essence Feed
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/48/eyeblight-cullers?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/89b47813-9b6c-4e8f-9212-fe37fb50e405.jpg?1620529797' width=100% height=100%&amp;gt;&quot;&gt;
-Eyeblight Cullers
-&lt;/a&gt;, as well all the benefits of having many disposable bodies around: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cma/45/altars-reap?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1db55625-25a5-46eb-9d9c-9b3ed219359f.jpg?1592672573' width=100% height=100%&amp;gt;&quot;&gt;
-Altar’s Reap
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/213/bone-splinters?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc676672-1aeb-420a-b909-5a3215cc2ca6.jpg?1600699718' width=100% height=100%&amp;gt;&quot;&gt;
-Bone Splinters
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/rna/171/final-payment?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49a21a8f-9c7b-4ae8-8635-f2ee2151c8de.jpg?1584831505' width=100% height=100%&amp;gt;&quot;&gt;
-Final Payment
-&lt;/a&gt; just hit different in this shell. Plus, black gets you some solid removal and card draw to supplement white token staples like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/5/eyes-in-the-skies?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e1a1d9ad-a434-43de-bcb3-143d07dbd775.jpg?1593812791' width=100% height=100%&amp;gt;&quot;&gt;
-Eyes in the Skies
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/41/raise-the-alarm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/c/6c7c8527-55f6-494d-b4f7-c427a5735053.jpg?1608908958' width=100% height=100%&amp;gt;&quot;&gt;
-Raise the Alarm
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;uril-the-miststalker---champion-of-the-flamegraceblade-artisan&quot;&gt;Uril, the Miststalker -&amp;gt; Champion of the Flame/Graceblade Artisan&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/1/11e22185-47d0-465b-8181-afe194af5cac.jpg?1562639753&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/a/2/a248363d-40a0-4dc5-a0bb-a826c3ba4499.jpg?1608910108&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9eedcf6c-5796-4843-b6b8-df78e11e72c2.jpg?1562790664&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-If you’re a fan of the oft forsaken Voltron archetype, or just want to relieve your &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/arb/124/uril-the-miststalker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/11e22185-47d0-465b-8181-afe194af5cac.jpg?1562639753' width=100% height=100%&amp;gt;&quot;&gt;
-Uril, the Miststalker
-&lt;/a&gt; glory days from 2012, then I’ve got two hot picks for you! &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/167/champion-of-the-flame?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a248363d-40a0-4dc5-a0bb-a826c3ba4499.jpg?1608910108' width=100% height=100%&amp;gt;&quot;&gt;
-Champion of the Flame
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dtk/20/graceblade-artisan?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9eedcf6c-5796-4843-b6b8-df78e11e72c2.jpg?1562790664' width=100% height=100%&amp;gt;&quot;&gt;
-Graceblade Artisan
-&lt;/a&gt; both get significant pumps by suiting them up with all sorts of designer fashion. If you’re a purist, you’ll stick with Graceblade, as it loves auras and auras only, but the Champ is arguably the better pick pound for pound being a whole mana cheaper, buffing for filthy equipment too, AND HAVING TRAMPLE. That being said, white contains the better auras by far, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/7/angelic-gift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db0775f2-3fd9-42aa-80e3-edac67764fa2.jpg?1612228525' width=100% height=100%&amp;gt;&quot;&gt;
-Angelic Gift
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/con/2/ashas-favor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/28b817f7-ae05-4d31-8a2c-29d8082b4132.jpg?1562800106' width=100% height=100%&amp;gt;&quot;&gt;
-Asha’s Favor
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/e01/13/grasp-of-the-hieromancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1df9aa51-dfd7-4e8a-a9f4-113b728b45de.jpg?1592765343' width=100% height=100%&amp;gt;&quot;&gt;
-Grasp of the Hieromancer
-&lt;/a&gt; all being great picks. White also has several powerful auras to hit your opponent’s creatures with if you choose to do a less all-in type build. In red, you can get &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ori/152/infectious-bloodlust?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee44df88-45a4-46ef-a8bd-f7fb7b9542b8.jpg?1562048357' width=100% height=100%&amp;gt;&quot;&gt;
-Infectious Bloodlust
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/99/madcap-skills?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba77b1ff-e73d-4181-9564-d71df348b2fe.jpg?1593813488' width=100% height=100%&amp;gt;&quot;&gt;
-Madcap Skills
-&lt;/a&gt;, among others, but you’ll likely want to include equipment like &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/458/bonesplitter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/690972a8-72df-4050-a353-16e45589167c.jpg?1608917758' width=100% height=100%&amp;gt;&quot;&gt;
-Bonesplitter
-&lt;/a&gt; and the new &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/140/dueling-rapier?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.jpg?1624998217' width=100% height=100%&amp;gt;&quot;&gt;
-Dueling Rapier
-&lt;/a&gt; to boost your punching power.&lt;/p&gt;
-
-&lt;h3 id=&quot;any-zombie-commander---narfi-betrayer-king&quot;&gt;Any Zombie Commander -&amp;gt; Narfi, Betrayer King&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2e2c85d8-0bef-40d0-abaf-4555462c29c5.jpg?1576384983&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/2/421376e4-a4ad-427c-bc9c-d315308dcf68.jpg?1615603192&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-This is less a direct parallel and more a hype up of &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/224/narfi-betrayer-king?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/421376e4-a4ad-427c-bc9c-d315308dcf68.jpg?1615603192' width=100% height=100%&amp;gt;&quot;&gt;
-Narfi, Betrayer King
-&lt;/a&gt;. If you like any combination of zombies, tribal decks, snow, and PDH, you need to check out this cool dude (see what I did there?). Having a lord in the command zone is underrated, and having one who can continually subvert paying his mana cost (not to mention commander tax) is absolutely nuts. Combine this with one of the most powerful and fleshed out (haha more puns) tribes in magic, even at the common rarity, AND arguably the two best colors in pauper and you’ll hit the ground running. Obviously, play good zombies and blue or black staples in this deck, but in case you need some help getting started, here’s a few recommendations: &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/104/priest-of-the-haunted-edge?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c.jpg?1621304321' width=100% height=100%&amp;gt;&quot;&gt;
-Priest of the Haunted Edge
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
-Gray Merchant of Asphodel
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/e01/35/nightscape-familiar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6ada4055-279d-411d-9316-5ecf0b8668c5.jpg?1592765568' width=100% height=100%&amp;gt;&quot;&gt;
-Nightscape Familiar
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;oloro-ageless-ascetic---agent-of-masks&quot;&gt;Oloro, Ageless Ascetic -&amp;gt; Agent of Masks&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/a/b/abf8df47-405c-42d8-be9e-0f0d0a49589b.jpg?1562931285&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7d6ace1f-c056-494d-a41f-75efa54312a5.jpg?1598135337&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Ahhh yes, the original boogeyman of the format and for a long time, the most popular commander on EDHREC. It’s hard to replicate the most annoying giant in the multiverse with his myriad of abilities which were quite revolutionary for the time (proto-_eminence_, anyone?) but &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/149/agent-of-masks?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d6ace1f-c056-494d-a41f-75efa54312a5.jpg?1598135337' width=100% height=100%&amp;gt;&quot;&gt;
-Agent of Masks
-&lt;/a&gt; does a great job. That instantly recognizable lurking, immovable drain every turn where your life flourishes and your opponents tick one step closer to death is on full display here and equally annoying (to your opponents). Unfortunately, the most powerful ways to weaponize life drain found in many Oloro decks are rarity heavy, but &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/112/marauding-blight-priest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/730ddbcd-0814-4e22-85e9-78b0878324b6.jpg?1604195999' width=100% height=100%&amp;gt;&quot;&gt;
-Marauding Blight-Priest
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/143/epicure-of-blood?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/ac79386b-91eb-4813-8f3c-3b74b45be188.jpg?1618251456' width=100% height=100%&amp;gt;&quot;&gt;
-Epicure of Blood
-&lt;/a&gt; are the direction you want to head. Add in black card draw to utilize the extra life, put in some more draining stax pieces, and you’ll be pillow forting like the old days in no time.&lt;/p&gt;
-
-&lt;h3 id=&quot;atraxa-praetors-voice---evolution-sage&quot;&gt;Atraxa, Praetors’ Voice -&amp;gt; Evolution Sage&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1599707796&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/6/969bf351-c7df-4eb0-8065-9b8d5233f8f3.jpg?1604193936&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-And to finish off this list, perhaps my either most visionary or most controversial pick. The absolute queen of EDH, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/190/atraxa-praetors-voice?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d0d33d52-3d28-4635-b985-51e126289259.jpg?1599707796' width=100% height=100%&amp;gt;&quot;&gt;
-Atraxa Praetors’ Voice
-&lt;/a&gt; is most deadly due to her consistent ability to proliferate. Whether it’s +1/+1, -1/-1, loyalty, or infect counters, she does it all. Enter &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/65/evolution-sage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/969bf351-c7df-4eb0-8065-9b8d5233f8f3.jpg?1604193936' width=100% height=100%&amp;gt;&quot;&gt;
-Evolution Sage
-&lt;/a&gt;. She also proliferates (if you’re hitting your land drops) EVERY TURN. Sometimes, given green’s ability to ramp, this can even outpace an Atraxa on the proliferation front. While you won’t be doing any pauper super friends anytime soon (well, I guess we’ll see what WotC has to say about that…), there are a million green creatures that have +1/+1 counters and love to get bigger. &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/226/fertilid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/11d56da0-6f37-4bd5-8982-940e80bd4282.jpg?1608910635' width=100% height=100%&amp;gt;&quot;&gt;
-Fertilid
-&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/185/gnarlid-colony?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7327289d-eed8-44b1-8495-7172e2b49d5f.jpg?1604198764' width=100% height=100%&amp;gt;&quot;&gt;
-Gnarlid Colony
-&lt;/a&gt;, and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/236/ivy-lane-denizen?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/78bea375-8af3-4425-a418-bb5503e2dfb7.jpg?1608910737' width=100% height=100%&amp;gt;&quot;&gt;
-Ivy Lane Denizen
-&lt;/a&gt; are must includes in this deck. Spice things up with an &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/306/opal-palace?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c803776b-91d2-412c-8e1f-e10fb86665c6.jpg?1618252857' width=100% height=100%&amp;gt;&quot;&gt;
-Opal Palace
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eld/170/outmuscle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/40d0ddcc-e6df-4fe1-9ac9-f895885ccc84.jpg?1572490634' width=100% height=100%&amp;gt;&quot;&gt;
-Outmuscle
-&lt;/a&gt;. Finally, choose how many of the ten creatures with infect available to you to maintain that Atraxa venom. Season to taste.&lt;/p&gt;
-
-&lt;p&gt;Well, that about wraps things up for our ten favorite PDH parallels. We hope these encourage you to brew around the bomb picks we’ve promoted or consider your own PDH conversions. Let us know which commanders or gameplans you want to see adapted next, or let us know which new brews you’re working on by checking out our email or social media!&lt;/p&gt;</content><author><name>[&quot;chev&quot;, &quot;julian&quot;]</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><summary type="html">Welcome back! Today marks one month of PDH content here at Hexdrinkers, and we haven’t even run out of ideas yet! Today I’m happily joined by Julian, as we name some of our favorite PDH commanders that have close counterparts in the big leagues. Looking to port one of your favorite strategies into a new exciting format? Simply want to get a taste of a deck too powerful or out of price range for your meta? Then this article is for you! Partially inspired by our recent work with Satyr Enchanter last week, we thought we’d dive deep into the meta and expose some of the more closely tied strategies between the two formats. LEGGO! Imoti, Celebrant of Bounty -&amp;gt; Maelstrom Wanderer/Golos, Tireless Pilgrim If you want to be casting big, dumb, cheaty things in PDH, your best bet is to use cascade (kinda like in EDH, funny how that works). Imoti has the capability to really bring the heat when combined with your larger threats. Fill this list with things like Ulamog’s Crusher , Maelstrom Colossus , Treasure Cruise , or Greater Sandwurm and you’re going to be up to no good in no time. Oh and don’t forget, cascade also allows you to hit those cast triggers so it’s totally possible to drop a Hand of Emrakul into Ruin Processor for that extra value. For maximum fun you should also check out Natural Reclamation , Forceful Denial , and Annoyed Altisaur for all your pauper cascade needs. Ravenous Squirrel -&amp;gt; Korvold, Fae-Cursed King While there are a lot of options that synergize with sacrifice for a PDH commander, few options contain as much power as this 1-drop squirrel. Trading an attack trigger for mana and a more restrictive sacrifice clause does little to stymie this value engine that continues to draw you cards and grow as a threat while you sacrifice your board away. Bloodbriar , Viscera Seer , Mortician Beetle , Sporemound are all good calls here. I’d suggest leaning into a token subtheme for sacrifice fodder and this squirrel will be swinging for lethal in no time. Mistmeadow Witch/Soulherder -&amp;gt; Roon of the HIdden Realm While I like Soulherder more for the free blink trigger, it is specific to your creatures, so you can’t start blinking your opponents’ creatures in and out of combat like a crazy person. That doesn’t mean you’ll be without great targets: mulldrifter , archaeomancer , Peregrine Drake , Kor Cartographer and more are all fantastic options for a blink. Growing Soulherder, accruing insane value, and making the little control player deep, deep in your heart a little happier. If you want something a little less timing restrictive, Mistmeadow Witch is the more “on point” solution, giving you the added flexibility of triggering a blink at any time on any creature. That of course comes at a steep cost of four mana though, so construct your deck accordingly. Wayfaring Temple -&amp;gt; Trostani, Selesnya’s Voice It’s not often you get a repeatable trigger on an uncommon creature, but maybe that’s because Wayfaring temple was originally printed at Rare… Anyway, having a BIG beater if you end up going wide (and you should) means a lil trample and you’ll be populating just as frequently as you would with Trostani. Slime Molding , Maul Splicer , and Miming Slime are all great here since you tend to want slightly larger tokens with populate, but allstars like Sporemound and Presence of Gond will help round out a successful token strategy Araumi of the Dead Tide -&amp;gt; Muldrotha, the Gravetide There aren’t a lot of non-restrictive recursion-based commanders at uncommon. Who’da thunk. Outside of ETB recursion like Eternal Witness or Skullwinder , your best bet if you want to keep the dead from staying dead is Araumi of the Dead Tide . There are a surprising amount of quality discard outlets in pauper, a la Dreamscape Artist and Thirst for Meaning , with plenty of big dumb creatures to put in the yard for later. Julian actually piloted an Araumi PDH deck to great effect in one of our early games, filling it with terrible things like Gray Merchant of Asphodel , Fleshbag Marauder , and Liliana’s Specter . Rhys the Redeemed -&amp;gt; Thalisse, Reverent Medium Speaking of PDH decks I’ve piloted to… some degree of success, here comes Thalisse, Reverent Medium ! She slots in nicely as a pauper parallel to the (infamous?) Rhys the Redeemed . Both of these are premier token commanders, namely because they DOUBLE the amount of tokens you have. And at the tradeoff of an additional four mana to cast and a more conditional doubling, you get black in your color identity! Sarcasm aside, black adds a lot of excellent ways to make tokens, personal favorites being Essence Feed and Eyeblight Cullers , as well all the benefits of having many disposable bodies around: Altar’s Reap , Bone Splinters , and Final Payment just hit different in this shell. Plus, black gets you some solid removal and card draw to supplement white token staples like Eyes in the Skies and Raise the Alarm . Uril, the Miststalker -&amp;gt; Champion of the Flame/Graceblade Artisan If you’re a fan of the oft forsaken Voltron archetype, or just want to relieve your Uril, the Miststalker glory days from 2012, then I’ve got two hot picks for you! Champion of the Flame and Graceblade Artisan both get significant pumps by suiting them up with all sorts of designer fashion. If you’re a purist, you’ll stick with Graceblade, as it loves auras and auras only, but the Champ is arguably the better pick pound for pound being a whole mana cheaper, buffing for filthy equipment too, AND HAVING TRAMPLE. That being said, white contains the better auras by far, Angelic Gift , Asha’s Favor , and Grasp of the Hieromancer all being great picks. White also has several powerful auras to hit your opponent’s creatures with if you choose to do a less all-in type build. In red, you can get Infectious Bloodlust and Madcap Skills , among others, but you’ll likely want to include equipment like Bonesplitter and the new Dueling Rapier to boost your punching power. Any Zombie Commander -&amp;gt; Narfi, Betrayer King This is less a direct parallel and more a hype up of Narfi, Betrayer King . If you like any combination of zombies, tribal decks, snow, and PDH, you need to check out this cool dude (see what I did there?). Having a lord in the command zone is underrated, and having one who can continually subvert paying his mana cost (not to mention commander tax) is absolutely nuts. Combine this with one of the most powerful and fleshed out (haha more puns) tribes in magic, even at the common rarity, AND arguably the two best colors in pauper and you’ll hit the ground running. Obviously, play good zombies and blue or black staples in this deck, but in case you need some help getting started, here’s a few recommendations: Priest of the Haunted Edge , Gray Merchant of Asphodel , Nightscape Familiar . Oloro, Ageless Ascetic -&amp;gt; Agent of Masks Ahhh yes, the original boogeyman of the format and for a long time, the most popular commander on EDHREC. It’s hard to replicate the most annoying giant in the multiverse with his myriad of abilities which were quite revolutionary for the time (proto-_eminence_, anyone?) but Agent of Masks does a great job. That instantly recognizable lurking, immovable drain every turn where your life flourishes and your opponents tick one step closer to death is on full display here and equally annoying (to your opponents). Unfortunately, the most powerful ways to weaponize life drain found in many Oloro decks are rarity heavy, but Marauding Blight-Priest and Epicure of Blood are the direction you want to head. Add in black card draw to utilize the extra life, put in some more draining stax pieces, and you’ll be pillow forting like the old days in no time. Atraxa, Praetors’ Voice -&amp;gt; Evolution Sage And to finish off this list, perhaps my either most visionary or most controversial pick. The absolute queen of EDH, Atraxa Praetors’ Voice is most deadly due to her consistent ability to proliferate. Whether it’s +1/+1, -1/-1, loyalty, or infect counters, she does it all. Enter Evolution Sage . She also proliferates (if you’re hitting your land drops) EVERY TURN. Sometimes, given green’s ability to ramp, this can even outpace an Atraxa on the proliferation front. While you won’t be doing any pauper super friends anytime soon (well, I guess we’ll see what WotC has to say about that…), there are a million green creatures that have +1/+1 counters and love to get bigger. Fertilid , Gnarlid Colony , and Ivy Lane Denizen are must includes in this deck. Spice things up with an Opal Palace and Outmuscle . Finally, choose how many of the ten creatures with infect available to you to maintain that Atraxa venom. Season to taste. Well, that about wraps things up for our ten favorite PDH parallels. We hope these encourage you to brew around the bomb picks we’ve promoted or consider your own PDH conversions. Let us know which commanders or gameplans you want to see adapted next, or let us know which new brews you’re working on by checking out our email or social media!</summary></entry></feed>
+&lt;p&gt;So that’s our list! See any cards you’re thinking of trying out? Did we miss some hidden tech? Let us know in the comments below!&lt;/p&gt;</content><author><name>chev</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><category term="Top10" /><summary type="html">Welcome back! Another set means another stupendous influx of commons for our favorite PDH brews and Adventures in the Forgotten Realms certainly does not disappoint. Here are the Hexdrinkers’ Top Ten commons for PDH in AFR! Priest of Ancient Lore Rejoice! White is back in the card draw game! Okay it’s not a lot, but it’s a start. Recently, White has gotten a lot of heat specifically due to its inability to deliver in 100-card formats. While WOTC have hinted this might be only the beginning in exploring creature-oriented card draw outside of green, for now…you’ll have to be content with flickering this Ancient Priest in a Soulherder build or paired with an Ephemerate or Ghostly Flicker . Hoarding Ogre One of the other main areas of annoyance for PDH players is Red mana generation. And for that, I seriously love Hoarding Ogre. While a 3/3 for 4 isn’t the best stat-wise, having a slightly greater than 50% chance of creating TWO treasures on every attack is insane in terms of value, and just the one treasure ain’t a bad participation trophy. Look to make a slot for this ogre in a Dargo, the Shipwrecker or Fathom Fleet Swordjack , or really any aggressive deck that could use a little mana boost. Pixie Guide While there’s not a lot of dice rolling support at common yet, I’m sure one of you crazy kids will try to make it happen and when you do, you want this pixie. With Farideh, Devil’s Chosen in the command zone, a Hoarding Ogre , an Arcane Investigator , and - okay really you’ll want every dice roll card there is. Can’t be picky. (Also, if your playgroup is up for some Rule 0 shenanigans, check out some of the ORIGINAL dice-themed sets: Unstable and Unglued. Since Pixie Guide is gracefully worded for dice rolls in general, you can still trigger it with Chicken Egg . Also, for dice-rolling redundancy - you’ll want Wall of Fortune ) Deadly Dispute Costly Plunder is great. We had a good few years, but unfortunately it’s time to say goodbye. With the simple act of creating a treasure Deadly Dispute rises above its predecessor in leaps and bounds, turning it into essentially a more versatile Village Rites . While I’m sure most decks already running Costly Plunder and Village Rites will be more than happy to absorb another stellar card draw effect, if you’re tight on spaces definitely consider a swap. Minimus Containment The poor man’s Song of the Dryads is still a Song of the Dryads. Outside of Black, there are very few ways an opponent is going to be getting their creature back when it goes to the yard so the drawback of being able to sacrifice the enchanted creature is somewhat mitigated. Look to see this wherever white is played. You Find a Cursed Idol Versatility. We love it. While I’d put it one step below Return to Nature , I think we’re very close to starting to see these souped-up Naturalize s consistently with whatever the set’s mechanic is as mode number three. That being said, this is still an incredibly powerful card to draw and if you’re leaning into dungeon synergies - it’s an absolute must. Zombie Ogre There aren’t a lot of good ways to venture into the dungeon at common, but Zombie Ogre is easily one of the best. Imagine Whisper, Blood Liturgist in the zone and repeatedly venturing into Tomb of Annihilation . Nasty. I could also see this ogre (second ogre in our list too, that’s got to be a first) in the 99 of Shirei, Shizo’s Caretaker capitalizing on all the death triggers you’ll be accumulating. As the owner of a Shirei deck, consider me incredibly interested… Celestial Unicorn White is getting all KINDS of goodies this time around! Honestly, I’m happy. This is the first time we’ve seen the classic Ajani’s Pridemate ability at common. In any lifegain shell this is going to get super dangerous super fast - especially when backed up with the likes of Soul Warden or Suture Priest . Pairs nicely with a Regal Bloodlord or a Vizkopa Guildmage in the command zone. Clever Conjurer Not exactly a Kiora’s Follower but it doesn’t need to be. Being able to untap ANY permanent besides itself is an absolutely beautiful piece of utility with the bounce lands or giving a creature pseudo-vigilance. Also, infinite green mana with a Freed from the Real on your Conjurer and a Simic Growth Chamber ? Sign me up. Vampire Spawn While we can’t get another Gray Merchant of Asphodel , Gary’s little brother is doing his best impression and still dealing six damage around the table per death. An easy reanimation target, be careful for turns involving this aggressive vampire and a Feign Death effect or two. So that’s our list! See any cards you’re thinking of trying out? Did we miss some hidden tech? Let us know in the comments below!</summary></entry></feed>
