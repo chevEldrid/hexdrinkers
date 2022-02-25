@@ -1,4 +1,713 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-02-17T08:01:59-08:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Top 10 Neon Dynasty Cards for PDH</title><link href="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html" rel="alternate" type="text/html" title="Top 10 Neon Dynasty Cards for PDH" /><published>2022-02-10T00:00:00-08:00</published><updated>2022-02-10T00:00:00-08:00</updated><id>hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html">&lt;p&gt;Whaaaat’s up everyone, it’s Chev and Jules - We’re back. We’re locked. We’re loaded. We’re here for our Kamigawa: Neon Dynasty top PDH picks!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-02-24T22:29:51-08:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">PDH Naomi, Pillar of Order</title><link href="hexdrinkers.com/pauper%20commander/2022/02/24/pdh_naomi_pillar_of_order.html" rel="alternate" type="text/html" title="PDH Naomi, Pillar of Order" /><published>2022-02-24T00:00:00-08:00</published><updated>2022-02-24T00:00:00-08:00</updated><id>hexdrinkers.com/pauper%20commander/2022/02/24/pdh_naomi_pillar_of_order</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/02/24/pdh_naomi_pillar_of_order.html">&lt;p&gt;Ah yes, the Hexdrinkers PDH poll, truly a time-honored tradition! And with this being our &lt;em&gt;ahem&lt;/em&gt; second installment, it’s now my (Julian’s) turn to bow to the collective consciousness and brew. Annnnnnnnd y’all have chosen
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/229/naomi-pillar-of-order?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1643493057' width=100% height=100%&amp;gt;&quot;&gt;
+Naomi, Pillar of Order
+&lt;/a&gt;! (~ish, technically there was a tie. AKA y’all couldn’t make up your mind. Jeez, the whole point of a poll is so we have to do less work. C’mon, get with the program…)&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1643493057&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Naomi is an interesting commander, because on her face, she’s simple: achieve condition (have two ancillary card types), get minor value (make a token). However, there’s definitely a few interesting ways to build her if you look a little deeper. And, given orzhov decks are generally underrepresented in the PDH sphere, she’s a worthy inclusion into any meta you find yourself in! Okay, let’s go.&lt;/p&gt;
+
+&lt;h3 id=&quot;pillars-of-the-deck&quot;&gt;Pillars of the Deck&lt;/h3&gt;
+
+&lt;p&gt;The way I chose to construct this build for Naomi (I’ll discuss other possible builds at the end) was as a midrange deck. We want to clog up the board with as many &lt;em&gt;artifact and enchantment&lt;/em&gt; creatures as possible, enabling Naomi to create more samurai, and overwhelming our opponents with a massive board presence. Mixed into this is a selection of other artifacts and enchantments to further enable and support our combat efforts. Since Naomi does cost 5 mana, I’ve included several ways to get a bunch of reps out of her ETB without paying 7, 9, &lt;em&gt;shudder&lt;/em&gt; 11 mana… namely in the form of blink and self bounce cards. And finally, as icing on the cake, we’ve got ways to utilize all the extra bodies we’re making, turning them into resources that do more than damage on the board.&lt;/p&gt;
+
+&lt;p&gt;Shall we start by highlighting some new cards? Not sure why I’m asking, because y’all can’t answer in real time and I’ve already decided that’s what we’re doing.&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0adf3293-c1e0-447c-8231-26fa9476a262.jpg?1643926996&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10d2cf44-cc20-4a37-81ae-930f8c6d0896.jpg?1562276966&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c.jpg?1576382187&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/112/mukotai-ambusher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0adf3293-c1e0-447c-8231-26fa9476a262.jpg?1643926996' width=100% height=100%&amp;gt;&quot;&gt;
+Mukotai Ambusher
+&lt;/a&gt; is a simple ninja, but we love him all the same. Not only is he an artifact creature to help trigger Naomi, but he can also ninjitsu her back to our hand. Did anyone ask for another ETB? Other great cards that function similarly are
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/458/ancestral-statue?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d4113be-6dd9-4c15-9f57-a146bc520df8.jpg?1601080559' width=100% height=100%&amp;gt;&quot;&gt;
+Ancestral Statue
+&lt;/a&gt; (play this guy during your post-combat main phase) and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/aer/141/aegis-automaton?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c.jpg?1576382187' width=100% height=100%&amp;gt;&quot;&gt;
+Aegis Automaton
+&lt;/a&gt; for activating on the end step after holding up removal for a turn cycle.&lt;/p&gt;
+
+&lt;p&gt;Another new(er) card highlights the sort of value we want to abuse by creating several tokens with Naomi. Enter
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/114/morkrut-behemoth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.jpg?1634350061' width=100% height=100%&amp;gt;&quot;&gt;
+Morkrut Behemoth
+&lt;/a&gt;. Yes he’s a simple 7/6 with menace, but that’s probably going to be the biggest thing on the board, and if you sacrifice that samurai you just made last turn, he only costs 5 mana. Naomi on turn 4 into Behemoth on turn 5 already makes your board a force to be reckoned with.&lt;/p&gt;
+
+&lt;p&gt;Similar to the behemoth, we have a bunch of ways to sacrifice our samurai or other creatures for value. Most notably, making sure Naomi can stay on the battlefield. Remember, Naomi costs 7 gosh darn mana the second time we cast her, which is a lot. Instead, if someone is trying to tear down our Pillar of order, sacrifice that samurai you just made to a
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vis/56/dark-privilege?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10d2cf44-cc20-4a37-81ae-930f8c6d0896.jpg?1562276966' width=100% height=100%&amp;gt;&quot;&gt;
+Dark Privilege
+&lt;/a&gt; or
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nem/8/fanatical-devotion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be0ed1fb-d380-4e3e-a43f-c39660a996e9.jpg?1562631775' width=100% height=100%&amp;gt;&quot;&gt;
+Fanatical Devotion
+&lt;/a&gt;. This also allows Naomi to attack and block much more freely, especially if that attack means we’re instantly recouping our loss.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/117/village-rites?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1631048783' width=100% height=100%&amp;gt;&quot;&gt;
+Village Rites
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/94/deadly-dispute?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1627704524' width=100% height=100%&amp;gt;&quot;&gt;
+Deadly Dispute
+&lt;/a&gt; have already become staples in several formats and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/115/soulreaper-of-mogis?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505' width=100% height=100%&amp;gt;&quot;&gt;
+Soulreaper of Mogis
+&lt;/a&gt; is an underrated way to up this draw redundancy while also being an enchantment creature for Naomi. But speaking of enchantment creatures…&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/8/5/853a89c6-63f9-4b12-8a5b-2c382e22b226.jpg?1562820831&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;…we’re running a bunch of the OGs from Theros as well!
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ths/78/baleful-eidolon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/5/853a89c6-63f9-4b12-8a5b-2c382e22b226.jpg?1562820831' width=100% height=100%&amp;gt;&quot;&gt;
+Baleful Eidolon
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ths/19/hopeful-eidolon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4c69995b-ef31-4635-8d5a-b31f73993364.jpg?1562817802' width=100% height=100%&amp;gt;&quot;&gt;
+Hopeful Eidolon
+&lt;/a&gt; are both cheap enchantment creatures to start chipping in with. Later in the game they can also be used to suit up Naomi making her even harder to deal with in combat, similar to a new NEO pick,
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1645325692' width=100% height=100%&amp;gt;&quot;&gt;
+Befriending the Moths
+&lt;/a&gt;, which becomes an enchantment creature when it flips! We round out our enchantment creatures package with
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/73/grim-guardian?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/732b5444-0410-430b-87ca-cf2d9f165bd7.jpg?1593095749' width=100% height=100%&amp;gt;&quot;&gt;
+Grim Guardian
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/103/lampad-of-deaths-vigil?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856' width=100% height=100%&amp;gt;&quot;&gt;
+Lampad of Death’s Vigil
+&lt;/a&gt; to give us more chip damage. Ah yes, sweet midrange how we love you.&lt;/p&gt;
+
+&lt;p&gt;Finally, we’ve got classics like
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/7/ephemerate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg?1562201088' width=100% height=100%&amp;gt;&quot;&gt;
+Ephemerate
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/kld/1/acrobatic-maneuver?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/74f92174-f38f-4623-a5f7-f5be7f7dcc9d.jpg?1576380687' width=100% height=100%&amp;gt;&quot;&gt;
+Acrobatic Maneuver
+&lt;/a&gt; to not only protect Naomi, but also trigger her ETB. And don’t sleep on
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/16/flicker-of-fate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067' width=100% height=100%&amp;gt;&quot;&gt;
+Flicker of Fate
+&lt;/a&gt;’s ability to blink an aura, swapping a
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmd/17/journey-to-nowhere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799' width=100% height=100%&amp;gt;&quot;&gt;
+Journey to Nowhere
+&lt;/a&gt; to a newer bigger threat. And by utilizing
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/94/kayas-ghostform?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1557576491' width=100% height=100%&amp;gt;&quot;&gt;
+Kaya’s Ghostform
+&lt;/a&gt; on Naomi so you can sacrifice her for value as well as your samurai, there are layers upon layers in this deck.&lt;/p&gt;
+
+&lt;h3 id=&quot;maintaining-order&quot;&gt;Maintaining Order&lt;/h3&gt;
+
+&lt;p&gt;Now of course, we can’t get too cute with everything. We have to play generically good cards to make sure that this deck can function in a pod. However, mixed in with these generically good cards there is some wiggle room for that sweet synergy. Let’s take a look:&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1631048783&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Two favorites highlighted in our &lt;a href=&quot;/pauper%20commander/2022/02/10/pdh_neo10.html&quot;&gt;Top 10 for NEO article&lt;/a&gt;,
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/259/shrine-steward?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080' width=100% height=100%&amp;gt;&quot;&gt;
+Shrine Steward
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/38/spirited-companion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375' width=100% height=100%&amp;gt;&quot;&gt;
+Spirited Companion
+&lt;/a&gt; really shine in this deck. The Steward acts as an essential 2-for-1 with Naomi, being an artifact creature itself and tutoring for an aura. Oftentimes, these auras will be used to remove a blocker which allows Naomi to attack freely, making us more samurai.&lt;/p&gt;
+
+&lt;p&gt;Spirited Companion is of course the best boy, drawing us a card and being an enchantment to trigger Naomi. Also, it feels horrible to say this, but Companion is great for sacrificing to a
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/117/village-rites?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1631048783' width=100% height=100%&amp;gt;&quot;&gt;
+Village Rites
+&lt;/a&gt; before damage on a chump block (Editor’s note: Yikes Jules, I’m a cat person, but even this seems too much…)&lt;/p&gt;
+
+&lt;p&gt;PDH and cPDH all-stars alike, such as
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/100/oubliette?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817' width=100% height=100%&amp;gt;&quot;&gt;
+Oubliette
+&lt;/a&gt;,
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/5/bound-in-gold?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/7/074d526a-1eef-4045-bd38-f6d68c4bc4b9.jpg?1631045534' width=100% height=100%&amp;gt;&quot;&gt;
+Bound in Gold
+&lt;/a&gt;, and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/9/arrest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9fc0be19-e041-4347-a51c-7e93a3d9e712.jpg?1562265669' width=100% height=100%&amp;gt;&quot;&gt;
+Arrest
+&lt;/a&gt;, are all good cards we would want to play anyway, but they do double duty in this deck. Not only are we removing problematic permanents and shutting off abilities, but we’re removing blockers as I said above, and of course, helping to ensure that whenever Naomi ETBs or attacks, we’re making a samurai. And, since enchantment removal and self sacrifice is much less common in PDH than EDH, these cards will often sit on the battlefield for turns on end, guaranteeing multiple samurai and allowing you to utilize your other enchantments or enchantment creatures more liberally.&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/d/dd03651e-ada0-41dc-8722-0eba476943e3.jpg?1643589142&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9fc0be19-e041-4347-a51c-7e93a3d9e712.jpg?1562265669&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been mostly talking about enchantments so far, because artifacts are much easier to account for a la mana rocks. Yes we’re running
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/phed/62/arcane-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd061dd3-3cf1-4102-a9a2-dd89500171a7.jpg?1645329307' width=100% height=100%&amp;gt;&quot;&gt;
+Arcane Signet
+&lt;/a&gt;,
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/254/orzhov-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8bb7d748-c95f-4028-a86e-cf42494be362.jpg?1625978987' width=100% height=100%&amp;gt;&quot;&gt;
+Orzhov Signet
+&lt;/a&gt;, and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/67/bonders-ornament?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5afe425c-50a7-4d29-ac14-0edb094fc770.jpg?1642716757' width=100% height=100%&amp;gt;&quot;&gt;
+Bonders Ornament
+&lt;/a&gt;, but we’ve also got utility mainstays
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/95/blood-fountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/d/dd03651e-ada0-41dc-8722-0eba476943e3.jpg?1643589142' width=100% height=100%&amp;gt;&quot;&gt;
+Blood Fountain
+&lt;/a&gt; and
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/254/ceremonial-knife?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7.jpg?1643594637' width=100% height=100%&amp;gt;&quot;&gt;
+Ceremonial Knife
+&lt;/a&gt;, both of which we praised in our &lt;a href=&quot;/pauper%20commander/2021/11/12/pdh_vow10.html&quot;&gt;Top 10 for VOW article&lt;/a&gt;. Also, Artifact Lands are a thing, so remember that when you’re checking your Naomi triggers.&lt;/p&gt;
+
+&lt;h3 id=&quot;choose-your-neon-destiny&quot;&gt;Choose Your (Neon) Destiny&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(EDITOR’S NOTE: He knows it’s “Dynasty” just, let him have this one)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s basically the deck! A lot of these cards are excellent inclusions in any Naomi deck, but I did want to take a moment to mention a couple other routes I considered when brewing.&lt;/p&gt;
+
+&lt;p&gt;First off, you could go the heavy voltron route. Load Naomi up with equipment and auras and attack with impunity. The samurai you generate can block the crackback or can be sacrificed for value like in my midrange version. In addition, you can play several
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/125/pacifism?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0da7c6dc-9325-4866-8c09-78c7021f8f17.jpg?1600713540' width=100% height=100%&amp;gt;&quot;&gt;
+Pacifism
+&lt;/a&gt; effects to get Naomi through for damage.&lt;/p&gt;
+
+&lt;p&gt;Another option is a heavy control build. Black and white are chock full of ways to remove creatures, draw cards and lock down the board. Give your opponents a death by 1,000 cuts via Naomi and her samurai pinging in over and over. It doesn’t matter how long it takes if your opponents creatures are stuck under
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/9/arrest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9fc0be19-e041-4347-a51c-7e93a3d9e712.jpg?1562265669' width=100% height=100%&amp;gt;&quot;&gt;
+Arrest
+&lt;/a&gt; or were
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gvl/53/snuff-out&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75bbe89f-09af-494e-b58e-271f64bde4b5.jpg?1562922833' width=100% height=100%&amp;gt;&quot;&gt;
+Snuffed Out
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4&quot;&gt;&lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://media3.giphy.com/media/3oKIPoM9rCTxj5VCDe/giphy.gif&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+No matter which way you choose to build Naomi, don’t sleep on this advisor! Restore order to your playgroup with force and show off that pauper isn’t just a Dimir format.&lt;/p&gt;
+
+&lt;p&gt;Check out the decklist below or on our &lt;a href=&quot;https://www.moxfield.com/decks/Ye5RKn_zn0qGZj424wABug&quot;&gt;Moxfield&lt;/a&gt;! Hit us up on Twitter and let us know how you built Naomi as well as tell us which commander you want us to cover next!&lt;/p&gt;
+
+&lt;div class=&quot;text-center&quot;&gt;
+&lt;h3&gt;Giving Orders and Maintaining Order&lt;/h3&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-2&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;col-md-8&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-6&quot;&gt;&lt;b&gt;Commander&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/229/naomi-pillar-of-order?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1643493057' width=100% height=100%&amp;gt;&quot;&gt;
+	Naomi, Pillar of Order
+&lt;/a&gt;
+&lt;/p&gt;
+	&lt;b&gt;Instants&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/kld/1/acrobatic-maneuver?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/74f92174-f38f-4623-a5f7-f5be7f7dcc9d.jpg?1576380687' width=100% height=100%&amp;gt;&quot;&gt;
+	Acrobatic Maneuver
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/88/blood-pact?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/607b1066-1ca0-45e1-a55c-30aed77cc8dc.jpg?1634349552' width=100% height=100%&amp;gt;&quot;&gt;
+	Blood Pact
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/97/cloudshift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8bc7fdf0-3e1e-487c-833d-7c74aa02c0c1.jpg?1600716960' width=100% height=100%&amp;gt;&quot;&gt;
+	Cloudshift
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/94/deadly-dispute?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1627704524' width=100% height=100%&amp;gt;&quot;&gt;
+	Deadly Dispute
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/7/ephemerate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg?1562201088' width=100% height=100%&amp;gt;&quot;&gt;
+	Ephemerate
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/16/flicker-of-fate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59e19bac-176c-4e37-bfc8-27c00de7c37f.jpg?1581479067' width=100% height=100%&amp;gt;&quot;&gt;
+	Flicker of Fate
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/soi/123/merciless-resolve?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/356af156-a059-416c-b78b-d9058b742818.jpg?1576384515' width=100% height=100%&amp;gt;&quot;&gt;
+	Merciless Resolve
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/101/ob-nixiliss-cruelty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/4/94db72a8-57f7-4f17-9f09-cae90ef50304.jpg?1557576532' width=100% height=100%&amp;gt;&quot;&gt;
+	Ob Nixilis's Cruelty
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c19/74/rootborn-defenses?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ecfcf55c-44d8-4585-9722-e91993e41888.jpg?1568003909' width=100% height=100%&amp;gt;&quot;&gt;
+	Rootborn Defenses
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gvl/53/snuff-out?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75bbe89f-09af-494e-b58e-271f64bde4b5.jpg?1562922833' width=100% height=100%&amp;gt;&quot;&gt;
+	Snuff Out
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/emn/107/succumb-to-temptation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/2974e18b-be17-4059-9f29-7afe1d1a51eb.jpg?1576384434' width=100% height=100%&amp;gt;&quot;&gt;
+	Succumb to Temptation
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ddq/67/victim-of-night?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c128272d-4611-477c-84b9-081bddcc7188.jpg?1592763354' width=100% height=100%&amp;gt;&quot;&gt;
+	Victim of Night
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/117/village-rites?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1631048783' width=100% height=100%&amp;gt;&quot;&gt;
+	Village Rites
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Artifacts&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/276/ancient-den?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0a508907-a127-45cd-898a-e936bc08391f.jpg?1625979692' width=100% height=100%&amp;gt;&quot;&gt;
+	Ancient Den
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/phed/62/arcane-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd061dd3-3cf1-4102-a9a2-dd89500171a7.jpg?1645329307' width=100% height=100%&amp;gt;&quot;&gt;
+	Arcane Signet
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/95/blood-fountain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/d/dd03651e-ada0-41dc-8722-0eba476943e3.jpg?1643589142' width=100% height=100%&amp;gt;&quot;&gt;
+	Blood Fountain
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c20/67/bonders-ornament?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5afe425c-50a7-4d29-ac14-0edb094fc770.jpg?1642716757' width=100% height=100%&amp;gt;&quot;&gt;
+	Bonder's Ornament
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/254/ceremonial-knife?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7.jpg?1643594637' width=100% height=100%&amp;gt;&quot;&gt;
+	Ceremonial Knife
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/voc/163/commanders-sphere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55ac2ca9-b6cf-453a-9d8b-8b7be5695f1e.jpg?1641603730' width=100% height=100%&amp;gt;&quot;&gt;
+	Commander's Sphere
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/285/darksteel-citadel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1625979955' width=100% height=100%&amp;gt;&quot;&gt;
+	Darksteel Citadel
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/247/goldmire-bridge?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/dbe2a1fa-196f-497f-a15f-0b3b04da9cbb.jpg?1626099641' width=100% height=100%&amp;gt;&quot;&gt;
+	Goldmire Bridge
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/phed/18/mind-stone?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/a/3aed2452-915a-4a84-8408-6722425201f8.jpg?1645327938' width=100% height=100%&amp;gt;&quot;&gt;
+	Mind Stone
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c15/261/orzhov-cluestone?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/338ee065-a4a6-4120-b0bd-3e940f458294.jpg?1562702922' width=100% height=100%&amp;gt;&quot;&gt;
+	Orzhov Cluestone
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/254/orzhov-signet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8bb7d748-c95f-4028-a86e-cf42494be362.jpg?1625978987' width=100% height=100%&amp;gt;&quot;&gt;
+	Orzhov Signet
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/hop/141/vault-of-whispers?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69e50871-bde7-4109-8811-a1c1bf70d3ae.jpg?1562842176' width=100% height=100%&amp;gt;&quot;&gt;
+	Vault of Whispers
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/222/wayfarers-bauble?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32a52319-e4a5-42a9-b9c5-35df42b46fd9.jpg?1631589322' width=100% height=100%&amp;gt;&quot;&gt;
+	Wayfarer's Bauble
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Enchantments&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/9/arrest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9fc0be19-e041-4347-a51c-7e93a3d9e712.jpg?1562265669' width=100% height=100%&amp;gt;&quot;&gt;
+	Arrest
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/5/bound-in-gold?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/7/074d526a-1eef-4045-bd38-f6d68c4bc4b9.jpg?1631045534' width=100% height=100%&amp;gt;&quot;&gt;
+	Bound in Gold
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vis/56/dark-privilege?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10d2cf44-cc20-4a37-81ae-930f8c6d0896.jpg?1562276966' width=100% height=100%&amp;gt;&quot;&gt;
+	Dark Privilege
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/11/dreadful-apathy?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e20c2369-db77-465e-9f0e-bb009225345a.jpg?1581479013' width=100% height=100%&amp;gt;&quot;&gt;
+	Dreadful Apathy
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nem/8/fanatical-devotion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be0ed1fb-d380-4e3e-a43f-c39660a996e9.jpg?1562631775' width=100% height=100%&amp;gt;&quot;&gt;
+	Fanatical Devotion
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/71/font-of-return?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/1/c13eacff-0fd1-4e2e-8213-5bf5fff973c8.jpg?1593095724' width=100% height=100%&amp;gt;&quot;&gt;
+	Font of Return
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmd/17/journey-to-nowhere?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799' width=100% height=100%&amp;gt;&quot;&gt;
+	Journey to Nowhere
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/94/kayas-ghostform?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98f3be88-24e2-433f-9138-f0cb59d09a0f.jpg?1557576491' width=100% height=100%&amp;gt;&quot;&gt;
+	Kaya's Ghostform
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/29/oblivion-ring?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff31eba-8ab3-403e-8d82-37a18b279bec.jpg?1562266919' width=100% height=100%&amp;gt;&quot;&gt;
+	Oblivion Ring
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/100/oubliette?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817' width=100% height=100%&amp;gt;&quot;&gt;
+	Oubliette
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/23/reprobation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b1349c3d-39ad-40ba-897e-59e5b76de853.jpg?1562201189' width=100% height=100%&amp;gt;&quot;&gt;
+	Reprobation
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Sorceries&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh2/76/bone-shards?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1ee98955-4c47-4d45-9377-608dfa755337.jpg?1626095299' width=100% height=100%&amp;gt;&quot;&gt;
+	Bone Shards
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/voc/129/feed-the-swarm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5f782dca-4e1b-4b02-81c7-9df633053e78.jpg?1641602619' width=100% height=100%&amp;gt;&quot;&gt;
+	Feed the Swarm
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/voc/133/nights-whisper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58a47e66-b979-47cd-9a31-3fa3b4b059ac.jpg?1641602745' width=100% height=100%&amp;gt;&quot;&gt;
+	Night's Whisper
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c17/122/read-the-bones?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ece1852d-8b7f-4fe6-b9fe-0584a94087ab.jpg?1562627961' width=100% height=100%&amp;gt;&quot;&gt;
+	Read the Bones
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/27/settle-beyond-reality?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72ed8e57-61bb-4e89-9484-ff2be800a449.jpg?1562201215' width=100% height=100%&amp;gt;&quot;&gt;
+	Settle Beyond Reality
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cm2/80/syphon-mind?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b57f954e-cd73-453f-890c-750c0e5b292a.jpg?1562275560' width=100% height=100%&amp;gt;&quot;&gt;
+	Syphon Mind
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;col-6&quot;&gt;&lt;b&gt;Creatures&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/aer/141/aegis-automaton?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e5f9fa2d-4bf4-4fcb-9b76-fd4a9ff5a58c.jpg?1576382187' width=100% height=100%&amp;gt;&quot;&gt;
+	Aegis Automaton
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/458/ancestral-statue?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d4113be-6dd9-4c15-9f57-a146bc520df8.jpg?1601080559' width=100% height=100%&amp;gt;&quot;&gt;
+	Ancestral Statue
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/3/anointer-priest?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/f/4f922231-bf41-47d3-8fa3-13b9baf4a0f3.jpg?1543674572' width=100% height=100%&amp;gt;&quot;&gt;
+	Anointer Priest
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/eve/167/antler-skulkin?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca66c361-3cea-4f9c-836d-3513f05d6b22.jpg?1562937757' width=100% height=100%&amp;gt;&quot;&gt;
+	Antler Skulkin
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ths/78/baleful-eidolon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/5/853a89c6-63f9-4b12-8a5b-2c382e22b226.jpg?1562820831' width=100% height=100%&amp;gt;&quot;&gt;
+	Baleful Eidolon
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/8/basris-acolyte?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08d1dd97-2675-4953-ab95-d47d23abfe05.jpg?1594734783' width=100% height=100%&amp;gt;&quot;&gt;
+	Basri's Acolyte
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/back/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.jpg?1645325692' width=100% height=100%&amp;gt;&quot;&gt;
+	Befriending the Moths / Imperial Moth
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm2/202/blinding-souleater?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a0dfbd3-4b19-4f56-b6c2-7107a3cba4ec.jpg?1562263851' width=100% height=100%&amp;gt;&quot;&gt;
+	Blinding Souleater
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/10/cathar-commando?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/98cbc1c2-b76e-4da3-aa43-00e10b2ce532.jpg?1634346664' width=100% height=100%&amp;gt;&quot;&gt;
+	Cathar Commando
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c15/122/dreadbringer-lampads?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fd0c7359-355b-4808-8959-7155d96c4e86.jpg?1562711887' width=100% height=100%&amp;gt;&quot;&gt;
+	Dreadbringer Lampads
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jou/73/grim-guardian?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/732b5444-0410-430b-87ca-cf2d9f165bd7.jpg?1593095749' width=100% height=100%&amp;gt;&quot;&gt;
+	Grim Guardian
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/20/heliods-pilgrim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102' width=100% height=100%&amp;gt;&quot;&gt;
+	Heliod's Pilgrim
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ths/19/hopeful-eidolon?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4c69995b-ef31-4635-8d5a-b31f73993364.jpg?1562817802' width=100% height=100%&amp;gt;&quot;&gt;
+	Hopeful Eidolon
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/103/lampad-of-deaths-vigil?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f.jpg?1581479856' width=100% height=100%&amp;gt;&quot;&gt;
+	Lampad of Death's Vigil
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/322/maelstrom-colossus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/322491d2-d082-4d38-8d81-8588c011e725.jpg?1608911533' width=100% height=100%&amp;gt;&quot;&gt;
+	Maelstrom Colossus
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/114/morkrut-behemoth?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/318fe8a2-a68a-4c7e-9581-ae6800826164.jpg?1634350061' width=100% height=100%&amp;gt;&quot;&gt;
+	Morkrut Behemoth
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/112/mukotai-ambusher?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0adf3293-c1e0-447c-8231-26fa9476a262.jpg?1643926996' width=100% height=100%&amp;gt;&quot;&gt;
+	Mukotai Ambusher
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/35/priest-of-ancient-lore?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b10caff0-701a-48d8-a943-f947482e795a.jpg?1627702440' width=100% height=100%&amp;gt;&quot;&gt;
+	Priest of Ancient Lore
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/129/rot-tide-gargantua?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1eafefd0-3a9e-400e-8c75-0825aeb2ded1.jpg?1643590284' width=100% height=100%&amp;gt;&quot;&gt;
+	Rot-Tide Gargantua
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/32/search-party-captain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.jpg?1634348412' width=100% height=100%&amp;gt;&quot;&gt;
+	Search Party Captain
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/258/searchlight-companion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b79b30e-e7aa-490e-b130-de7533e6e13b.jpg?1644000962' width=100% height=100%&amp;gt;&quot;&gt;
+	Searchlight Companion
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/259/shrine-steward?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080' width=100% height=100%&amp;gt;&quot;&gt;
+	Shrine Steward
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/115/soulreaper-of-mogis?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55e2f383-d2a0-4424-bf7a-79e82d6f691f.jpg?1616399505' width=100% height=100%&amp;gt;&quot;&gt;
+	Soulreaper of Mogis
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/38/spirited-companion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375' width=100% height=100%&amp;gt;&quot;&gt;
+	Spirited Companion
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/32/starnheim-courser?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c5373dd-4aec-4e93-97fb-a639aa096764.jpg?1631046327' width=100% height=100%&amp;gt;&quot;&gt;
+	Starnheim Courser
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/154/thorn-of-the-black-rose?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988' width=100% height=100%&amp;gt;&quot;&gt;
+	Thorn of the Black Rose
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/126/undercity-scrounger?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1644003426' width=100% height=100%&amp;gt;&quot;&gt;
+	Undercity Scrounger
+&lt;/a&gt;&lt;/p&gt;
+&lt;b&gt;Lands&lt;/b&gt;
+&lt;p class=&quot;mb-0&quot;&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/277/barren-moor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b38d7666-0791-44b4-877e-8fd33ce008aa.jpg?1625979730' width=100% height=100%&amp;gt;&quot;&gt;
+	Barren Moor
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/phed/71/command-tower?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/5/6576ee65-45e4-4291-a10a-8631366f0e8f.jpg?1645329488' width=100% height=100%&amp;gt;&quot;&gt;
+	Command Tower
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/263/evolving-wilds?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e80fe230-745d-42ae-a1f5-a8cc950783d0.jpg?1643594919' width=100% height=100%&amp;gt;&quot;&gt;
+	Evolving Wilds
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c18/58/forge-of-heroes?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/2/826ff8c2-8a1d-45f5-a7e2-d8bf826fcadc.jpg?1592710371' width=100% height=100%&amp;gt;&quot;&gt;
+	Forge of Heroes
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nec/172/opal-palace?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3e639915-9c9c-482f-ad9b-b8158f2971e1.jpg?1644345578' width=100% height=100%&amp;gt;&quot;&gt;
+	Opal Palace
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/253/orzhov-basilica?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc063704-f0d3-46b5-9340-f80d431ce5dc.jpg?1631590027' width=100% height=100%&amp;gt;&quot;&gt;
+	Orzhov Basilica
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/phed/27/path-of-ancestry?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/6/a674d18a-a710-434a-a833-50ee9b95a23d.jpg?1645328172' width=100% height=100%&amp;gt;&quot;&gt;
+	Path of Ancestry
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/274/scoured-barrens?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/00538414-90f3-41da-b67e-d81cfa643de3.jpg?1644002382' width=100% height=100%&amp;gt;&quot;&gt;
+	Scoured Barrens
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/315/secluded-steppe?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69b876f8-4f4e-4eaa-904c-fa99f543e319.jpg?1625980946' width=100% height=100%&amp;gt;&quot;&gt;
+	Secluded Steppe
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/273/silverquill-campus?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/42583850-ba5c-4a71-8717-406b5c6d048f.jpg?1624741093' width=100% height=100%&amp;gt;&quot;&gt;
+	Silverquill Campus
+&lt;/a&gt;
+&lt;br /&gt;
+5x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/276/snow-covered-plains?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/afd2730f-878e-47ee-ad2a-73f8fa4e0794.jpg?1631053316' width=100% height=100%&amp;gt;&quot;&gt;
+	Snow-Covered Plains
+&lt;/a&gt;
+&lt;br /&gt;
+9x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/280/snow-covered-swamp?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.jpg?1631053431' width=100% height=100%&amp;gt;&quot;&gt;
+	Snow-Covered Swamp
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/269/snowfield-sinkhole?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/6611dc5e-6acc-48df-b8c4-4b327314578b.jpg?1631053122' width=100% height=100%&amp;gt;&quot;&gt;
+	Snowfield Sinkhole
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/80/study-hall?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a3de9859-98b6-4efe-847a-43bac5b1ef9f.jpg?1625192761' width=100% height=100%&amp;gt;&quot;&gt;
+	Study Hall
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/267/terramorphic-expanse?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08ac4e43-4e16-46a2-96f5-58d5550984c4.jpg?1631590427' width=100% height=100%&amp;gt;&quot;&gt;
+	Terramorphic Expanse
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/269/thriving-heath?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/6/5677c5a9-e63f-4d13-91dc-beeb6875f675.jpg?1631590484' width=100% height=100%&amp;gt;&quot;&gt;
+	Thriving Heath
+&lt;/a&gt;
+&lt;br /&gt;
+1x 
+&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/271/thriving-moor?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7faa30a1-ca8c-4462-90ea-8e935cad0a53.jpg?1631590546' width=100% height=100%&amp;gt;&quot;&gt;
+	Thriving Moor
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="Pauper Commander" /><category term="PDH" /><summary type="html">Ah yes, the Hexdrinkers PDH poll, truly a time-honored tradition! And with this being our ahem second installment, it’s now my (Julian’s) turn to bow to the collective consciousness and brew. Annnnnnnnd y’all have chosen Naomi, Pillar of Order ! (~ish, technically there was a tie. AKA y’all couldn’t make up your mind. Jeez, the whole point of a poll is so we have to do less work. C’mon, get with the program…) Naomi is an interesting commander, because on her face, she’s simple: achieve condition (have two ancillary card types), get minor value (make a token). However, there’s definitely a few interesting ways to build her if you look a little deeper. And, given orzhov decks are generally underrepresented in the PDH sphere, she’s a worthy inclusion into any meta you find yourself in! Okay, let’s go. Pillars of the Deck The way I chose to construct this build for Naomi (I’ll discuss other possible builds at the end) was as a midrange deck. We want to clog up the board with as many artifact and enchantment creatures as possible, enabling Naomi to create more samurai, and overwhelming our opponents with a massive board presence. Mixed into this is a selection of other artifacts and enchantments to further enable and support our combat efforts. Since Naomi does cost 5 mana, I’ve included several ways to get a bunch of reps out of her ETB without paying 7, 9, shudder 11 mana… namely in the form of blink and self bounce cards. And finally, as icing on the cake, we’ve got ways to utilize all the extra bodies we’re making, turning them into resources that do more than damage on the board. Shall we start by highlighting some new cards? Not sure why I’m asking, because y’all can’t answer in real time and I’ve already decided that’s what we’re doing. Mukotai Ambusher is a simple ninja, but we love him all the same. Not only is he an artifact creature to help trigger Naomi, but he can also ninjitsu her back to our hand. Did anyone ask for another ETB? Other great cards that function similarly are Ancestral Statue (play this guy during your post-combat main phase) and Aegis Automaton for activating on the end step after holding up removal for a turn cycle. Another new(er) card highlights the sort of value we want to abuse by creating several tokens with Naomi. Enter Morkrut Behemoth . Yes he’s a simple 7/6 with menace, but that’s probably going to be the biggest thing on the board, and if you sacrifice that samurai you just made last turn, he only costs 5 mana. Naomi on turn 4 into Behemoth on turn 5 already makes your board a force to be reckoned with. Similar to the behemoth, we have a bunch of ways to sacrifice our samurai or other creatures for value. Most notably, making sure Naomi can stay on the battlefield. Remember, Naomi costs 7 gosh darn mana the second time we cast her, which is a lot. Instead, if someone is trying to tear down our Pillar of order, sacrifice that samurai you just made to a Dark Privilege or Fanatical Devotion . This also allows Naomi to attack and block much more freely, especially if that attack means we’re instantly recouping our loss. Village Rites and Deadly Dispute have already become staples in several formats and Soulreaper of Mogis is an underrated way to up this draw redundancy while also being an enchantment creature for Naomi. But speaking of enchantment creatures… …we’re running a bunch of the OGs from Theros as well! Baleful Eidolon and Hopeful Eidolon are both cheap enchantment creatures to start chipping in with. Later in the game they can also be used to suit up Naomi making her even harder to deal with in combat, similar to a new NEO pick, Befriending the Moths , which becomes an enchantment creature when it flips! We round out our enchantment creatures package with Grim Guardian and Lampad of Death’s Vigil to give us more chip damage. Ah yes, sweet midrange how we love you. Finally, we’ve got classics like Ephemerate and Acrobatic Maneuver to not only protect Naomi, but also trigger her ETB. And don’t sleep on Flicker of Fate ’s ability to blink an aura, swapping a Journey to Nowhere to a newer bigger threat. And by utilizing Kaya’s Ghostform on Naomi so you can sacrifice her for value as well as your samurai, there are layers upon layers in this deck. Maintaining Order Now of course, we can’t get too cute with everything. We have to play generically good cards to make sure that this deck can function in a pod. However, mixed in with these generically good cards there is some wiggle room for that sweet synergy. Let’s take a look: Two favorites highlighted in our Top 10 for NEO article, Shrine Steward and Spirited Companion really shine in this deck. The Steward acts as an essential 2-for-1 with Naomi, being an artifact creature itself and tutoring for an aura. Oftentimes, these auras will be used to remove a blocker which allows Naomi to attack freely, making us more samurai. Spirited Companion is of course the best boy, drawing us a card and being an enchantment to trigger Naomi. Also, it feels horrible to say this, but Companion is great for sacrificing to a Village Rites before damage on a chump block (Editor’s note: Yikes Jules, I’m a cat person, but even this seems too much…) PDH and cPDH all-stars alike, such as Oubliette , Bound in Gold , and Arrest , are all good cards we would want to play anyway, but they do double duty in this deck. Not only are we removing problematic permanents and shutting off abilities, but we’re removing blockers as I said above, and of course, helping to ensure that whenever Naomi ETBs or attacks, we’re making a samurai. And, since enchantment removal and self sacrifice is much less common in PDH than EDH, these cards will often sit on the battlefield for turns on end, guaranteeing multiple samurai and allowing you to utilize your other enchantments or enchantment creatures more liberally. I’ve been mostly talking about enchantments so far, because artifacts are much easier to account for a la mana rocks. Yes we’re running Arcane Signet , Orzhov Signet , and Bonders Ornament , but we’ve also got utility mainstays Blood Fountain and Ceremonial Knife , both of which we praised in our Top 10 for VOW article. Also, Artifact Lands are a thing, so remember that when you’re checking your Naomi triggers. Choose Your (Neon) Destiny (EDITOR’S NOTE: He knows it’s “Dynasty” just, let him have this one) And that’s basically the deck! A lot of these cards are excellent inclusions in any Naomi deck, but I did want to take a moment to mention a couple other routes I considered when brewing. First off, you could go the heavy voltron route. Load Naomi up with equipment and auras and attack with impunity. The samurai you generate can block the crackback or can be sacrificed for value like in my midrange version. In addition, you can play several Pacifism effects to get Naomi through for damage. Another option is a heavy control build. Black and white are chock full of ways to remove creatures, draw cards and lock down the board. Give your opponents a death by 1,000 cuts via Naomi and her samurai pinging in over and over. It doesn’t matter how long it takes if your opponents creatures are stuck under Arrest or were Snuffed Out No matter which way you choose to build Naomi, don’t sleep on this advisor! Restore order to your playgroup with force and show off that pauper isn’t just a Dimir format. Check out the decklist below or on our Moxfield! Hit us up on Twitter and let us know how you built Naomi as well as tell us which commander you want us to cover next! Giving Orders and Maintaining Order Commander 1x Naomi, Pillar of Order Instants 1x Acrobatic Maneuver 1x Blood Pact 1x Cloudshift 1x Deadly Dispute 1x Ephemerate 1x Flicker of Fate 1x Merciless Resolve 1x Ob Nixilis's Cruelty 1x Rootborn Defenses 1x Snuff Out 1x Succumb to Temptation 1x Victim of Night 1x Village Rites Artifacts 1x Ancient Den 1x Arcane Signet 1x Blood Fountain 1x Bonder's Ornament 1x Ceremonial Knife 1x Commander's Sphere 1x Darksteel Citadel 1x Goldmire Bridge 1x Mind Stone 1x Orzhov Cluestone 1x Orzhov Signet 1x Vault of Whispers 1x Wayfarer's Bauble Enchantments 1x Arrest 1x Bound in Gold 1x Dark Privilege 1x Dreadful Apathy 1x Fanatical Devotion 1x Font of Return 1x Journey to Nowhere 1x Kaya's Ghostform 1x Oblivion Ring 1x Oubliette 1x Reprobation Sorceries 1x Bone Shards 1x Feed the Swarm 1x Night's Whisper 1x Read the Bones 1x Settle Beyond Reality 1x Syphon Mind Creatures 1x Aegis Automaton 1x Ancestral Statue 1x Anointer Priest 1x Antler Skulkin 1x Baleful Eidolon 1x Basri's Acolyte 1x Befriending the Moths / Imperial Moth 1x Blinding Souleater 1x Cathar Commando 1x Dreadbringer Lampads 1x Grim Guardian 1x Heliod's Pilgrim 1x Hopeful Eidolon 1x Lampad of Death's Vigil 1x Maelstrom Colossus 1x Morkrut Behemoth 1x Mukotai Ambusher 1x Priest of Ancient Lore 1x Rot-Tide Gargantua 1x Search Party Captain 1x Searchlight Companion 1x Shrine Steward 1x Soulreaper of Mogis 1x Spirited Companion 1x Starnheim Courser 1x Thorn of the Black Rose 1x Undercity Scrounger Lands 1x Barren Moor 1x Command Tower 1x Evolving Wilds 1x Forge of Heroes 1x Opal Palace 1x Orzhov Basilica 1x Path of Ancestry 1x Scoured Barrens 1x Secluded Steppe 1x Silverquill Campus 5x Snow-Covered Plains 9x Snow-Covered Swamp 1x Snowfield Sinkhole 1x Study Hall 1x Terramorphic Expanse 1x Thriving Heath 1x Thriving Moor</summary></entry><entry><title type="html">Top 10 Neon Dynasty Cards for PDH</title><link href="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html" rel="alternate" type="text/html" title="Top 10 Neon Dynasty Cards for PDH" /><published>2022-02-10T00:00:00-08:00</published><updated>2022-02-10T00:00:00-08:00</updated><id>hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html">&lt;p&gt;Whaaaat’s up everyone, it’s Chev and Jules - We’re back. We’re locked. We’re loaded. We’re here for our Kamigawa: Neon Dynasty top PDH picks!&lt;/p&gt;
 
 &lt;h3 id=&quot;chevs-pick-kami-of-industry&quot;&gt;Chev’s Pick: Kami of Industry&lt;/h3&gt;
 
@@ -3147,172 +3856,4 @@ Tunneling Geopede
 Tireless Provisioner
 &lt;/a&gt; it’s more dirty value. No matter what deck you’re playing, the scope is here to help you see further and be more prepared.&lt;/p&gt;
 
-&lt;p&gt;And that’s that! 5 equipment that should certainly be seeing more play than they are AND a few deck ideas to utilize them in. Let us know if you play any of these cards, have a home for them, and which equipment is your favorite in PDH!&lt;/p&gt;</content><author><name>[&quot;chev&quot;, &quot;julian&quot;]</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><category term="Top10" /><summary type="html">Equipment is a polarizing card type. Either it’s much maligned for the very broken constructed powerhouses like Skull Clamp and Batterskull , or there’s a bored groan when every set has yet another cumbersome and unplayable version of Bonesplitter . This is even more prominent while playing PDH because you don’t have access to the busted mythic rare powerhouses and you usually have to settle for things that give a paltry stat boost. However, despite a few known quantities in Pauper Dragon Highlander, common equipment is generally slept on and that’s a damn shame. So here are our picks for 5 underplayed equipment that should definitely be seeing more action in your PDH 99. Horned Helm: Chev The instant-speed attachment cycle from Fifth dawn contains TWO already known absolute all-stars with Cranial Plating and Neurok Stealthsuit , but I’m here to petition that there is a third: Horned Helm. While not as flashy as shroud or a ridiculous power buff, Horned Helm elevates your ability to make impactful attacks in a color that can really take advantage of instant-speed trample. Being able to switch which attacking beast has trample based on targeted removal or chump blockers can have a drastic impact in a format so dominated by combat. While I don’t think there is enough support for a Proud Wildbonder or Hornbash Mentor PDH “trample tribal” deck, I would still love to see one. And in the meantime, consider slotting this in any deck that tries to get through with big creatures. 6cmc tribal is a notable standout commanded by Brinelin, the Moon Kraken and Gilanra, Caller of Wirewood , and if you’re REALLY feeling dangerous - something like Fynn, the Fangbearer would be incredibly spicy. Remember, only one one point of damage needs to target a creature to be considered lethal with deathtouch… Boots of Speed: Chev Okay, before we dig into the merits of a repeatable 2-mana haste enabler….y’all need to check your decklists and tell me why Crystal Slipper is seen in twice as many decks as our Boots here. These objectively better shoes are made for pounding the pavement and turning your Savage Ventmaw into something truly terrifying. In fact, the only argument I’ll take for Crystal Slippers over the Boots is the incredibly entertaining notion of a Dargo, the Shipwrecker running full speed in heels. Those people get a pass, but they’re on thin ice. Seriously though, haste is an incredibly powerful ability that I routinely undervalue in ALL forms of EDH. At their best, Boots of Speed lets a commander who cares about combat like Ventmaw or Reyav, Master Smith get their strategy running a turn early. At their worst, Boots of Speed help you recover from a wrath faster than any opponent. Either way, they’re going to leave a mark. Thieves’ Tools: Chev We can’t all be Whispersilk Cloak , but this underappreciated gem from AFR really does take a stab at it. A lot of very powerful “attack” or “deal combat damage” triggers exist on creatures power 3 or less, and being able to rely on those abilities turn after turn can be super valuable. Whether you’re trying to lose friends using creatures like Scourge Servant , Corpse Cur , or Priests of Norn for an infect victory or just amassing resources with the likes of Moonblade Shinobi or Hoard Robber , Thieves’ Tools has got you covered. Where I really see Thieves’ Tools shining is with three specific commanders: Azra Oddsmaker - being able to consistently draw two cards per combat and filling your graveyard for flashback-esque effects is incredible value. As we’ve talked about ad nauseum (not the card, that’s a rare), PDH very quickly comes down to access to card draw and there are few synergies as powerful as this. Krydle of Baldur’s Gate - Krydle himself gives you access to one unblockable creature, but being able to sneak in an extra creature is fantastic in UB, the two colors that care about attack triggers most. With an army of Library Larcenist and Okiba-Gang Shinobi -esque effects, you’ll really be able to emphasize a card advantage. Blizzard Specter - A flying, aggressive threat that with the right tools can bounce an opponent’s creature every turn. Blizzard Specter continues to prove the power of aggressive Dimir builds. Now if only WOTC would print a common equipment with double strike…. Goldvein Pick/Prying Blade: Julian This pick is a two-for-one special because these cards are very similar. While Goldvein Pick is better due to the lower equip cost and extra toughness buff, both it and Prying Blade are incredible thanks to their ability to generate treasure whenever your creature connects. In fact, use those aforementioned Thieves’ Tools and guarantee that you’re ramping and fixing every turn, even outside of green. The mana advantage is already excellent, but this doesn’t even consider strategies that care about tokens or artifacts. Where I really see these equipment shining are in a deck like Malcolm, Keen-Eyed Navigator / Dargo, the Shipwrecker which utilize treasure to power out an early Dargo to beat face. Other hot picks are things like a Fathom Fleet Swordjack deck where you can continually ramp up damage as you attack each turn, or a Whirler Rogue build so you continually have artifacts to tap to get in for damage, perpetuating the cycle. I’m sure there’s other nasty combo territory you can get into, but even just in a simple country midrange deck, do not underestimate this pair. The seven dwarves would be proud (Hi Ho Hi Ho, it’s off to combat we go). Explorer’s Scope: Julian That’s right, I’m frickin’ talking about ramp disparity again which is even more prominent in pauper than in regular EDH. And what better way to even the playing field than with a card that ramps you while saving you from blank draws?. Perfect for aggro and midrange decks alike, the Explorer’s Scope is perfect to smooth out draws and keep your deck flowing all while getting into the red zone. Where this card especially shines is in any deck that has a Landfall theme. For something like Grove Rumbler or Canyon Jerboa it’s a massive combat trick making blocks even harder. For Tunneling Geopede it’s a drastically increased clock and for Tireless Provisioner it’s more dirty value. No matter what deck you’re playing, the scope is here to help you see further and be more prepared. And that’s that! 5 equipment that should certainly be seeing more play than they are AND a few deck ideas to utilize them in. Let us know if you play any of these cards, have a home for them, and which equipment is your favorite in PDH!</summary></entry><entry><title type="html">Top ways to spice up Game Night</title><link href="hexdrinkers.com/podcast/2021/10/18/pod45.html" rel="alternate" type="text/html" title="Top ways to spice up Game Night" /><published>2021-10-18T00:00:00-07:00</published><updated>2021-10-18T00:00:00-07:00</updated><id>hexdrinkers.com/podcast/2021/10/18/pod45</id><content type="html" xml:base="hexdrinkers.com/podcast/2021/10/18/pod45.html">&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/episode/41xSSEWMbwlZ6boGUtbKHB?si=Tp65j1W1QM-D57nimCgJLQ&quot;&gt;Episode 45&lt;/a&gt; of the Hexdrinkers Podcast dives into some of the myriad of ways we’ve tried to add a little more spice to our Commander nights, highlighting everything from interesting variants of the format to more specific and indvidualized customizations. While we go into greater detail on the pod, we thought it might be helpful to provide a spruced up “link-list” for some of the resources and tools we mention during the episode.&lt;/p&gt;
-
-&lt;h2 id=&quot;commander-variants&quot;&gt;Commander Variants&lt;/h2&gt;
-
-&lt;p&gt;Even a 100-card singleton format can use a little bit of variety now and again, so here are our three favorite variations:&lt;/p&gt;
-
-&lt;h4 id=&quot;two-headed-giant&quot;&gt;Two-Headed Giant&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/c/8c21da73-0dad-4b2b-8cc6-61861bed9410.jpg?1562923296&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b457672-902b-42c0-9d53-a3c21be2f500.jpg?1562923137&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/4/5/45bc8745-9aaf-4b3c-922f-5a577324bb1f.jpg?1601079454&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-Two-Headed Giant might be the format we mention that you’re most familiar with, but maybe not in the context of commander - there are a couple different rules worth repeating:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Each team starts with 60 life&lt;/li&gt;
-  &lt;li&gt;Commander Damage is unchanged (21)&lt;/li&gt;
-  &lt;li&gt;Starting team doesn’t draw&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;planechase&quot;&gt;Planechase&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/9/8/98aeab2a-69b5-4b4f-9de4-5401d01c26e2.jpg?1562923340&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3b276615-24e2-4c8d-a2b4-b5ff777c5086.jpg?1562905891&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/e/8e23b9df-2419-4906-8b21-29af6f65a2c3.jpg?1575572167&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-While not seeing a new product since 2012, Planechase is perhaps the most universally beloved Commander variant among the Hexdrinkers. As Oakley describes it, “It’s like adding a 5th player who loves group hug but occasionally dives into stax.” For an official format breakdown, check out &lt;a href=&quot;https://mtg.fandom.com/wiki/Planechase_(format)&quot;&gt;this&lt;/a&gt;. We also mention the fan initiative “Planechase 2019” on the show, an absolutely delightful custom set of Plane cards set everywhere MTG has gone from 2012 - 2019. You can find the original Reddit post that introduces the expansion &lt;a href=&quot;https://www.reddit.com/r/magicTCG/comments/9127qi/after_over_a_year_of_work_we_give_you_what/&quot;&gt;here&lt;/a&gt; (and a huge shout-out to u/ExPointReddit and team who helped make this possible).&lt;/p&gt;
-
-&lt;p&gt;If this all seems interesting and you’d like to try out planechase classic, 2019, or both with your friends and playgroup - we gotchu! Head on over to &lt;a href=&quot;http://planeswalk-app.com/&quot;&gt;planeswalk-app.com&lt;/a&gt; where we’ve put together a custom Planechase companion app to make the process absolutely seamless.&lt;/p&gt;
-
-&lt;h4 id=&quot;commander-dungeons-and-dragons&quot;&gt;Commander Dungeons and Dragons&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e893613-423e-409b-9334-292bd252405b.jpg?1627706980&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.jpg?1627708684&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.jpg?1627704159&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-While a little rough around the edges, “Commander DnD” as we’ve been calling it is a Hexdrinkers original! Born as a fun Hexdrinkers’ Olympics event (You can find a link to that episode &lt;a href=&quot;https://open.spotify.com/episode/5TFw6PmWDGMFxHSo7ipgLG?si=e8fca64e4a884dc8&quot;&gt;here&lt;/a&gt;), we’ve been doing some work to build the format out and make it more enjoyable with more impactful effects. The basic premise is like Planechase: you’re given access to a die that can trigger events from outside the game. Only in this case, it’s a d20 with effects based off of the &lt;a href=&quot;https://scryfall.com/search?q=set%3Aafr+you&amp;amp;as=grid&amp;amp;order=set&quot;&gt;You come across…&lt;/a&gt; cycle from AFR. Our official format page is just a Google spreadsheet right now but check it out! Recently we’ve been playing with adding classes (Eric had a ton of fun running the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/217/bard-class?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.jpg?1627708744' width=100% height=100%&amp;gt;&quot;&gt;
-Bard Class
-&lt;/a&gt; with his mono-green legends deck)…but let us know what you think!&lt;/p&gt;
-
-&lt;h4 id=&quot;point-systems&quot;&gt;Point Systems&lt;/h4&gt;
-
-&lt;p&gt;Again referencing the Hexdrinkers Olympics episode, having other goals besides victory in your game can lead to some very interesting (and fun!) plays. I believe &lt;a href=&quot;https://www.youtube.com/watch?v=XGFKpx02Jvg&amp;amp;list=PL5d1KNNFArSNNRrpJjhf1WrwwuZqUcg0K&quot;&gt;Commander Vs&lt;/a&gt; shows off this idea best.&lt;/p&gt;
-
-&lt;h2 id=&quot;commander-restrictions&quot;&gt;Commander Restrictions&lt;/h2&gt;
-
-&lt;p&gt;Sometimes the best way to get out of a deckbuilding rut is to force yourself to explore cards outside of your traditional picks. Here are the ways we’ve limited ourselves from the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/47/cyclonic-rift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff08e5ed-f47b-4d8e-8b8b-41675dccef8b.jpg?1598303834' width=100% height=100%&amp;gt;&quot;&gt;
-Cyclonic Rifts
-&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/422/avenger-of-zendikar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/03dea775-bbb3-4e9c-8514-0605b5ad2e8b.jpg?1632467938' width=100% height=100%&amp;gt;&quot;&gt;
-Avengers of Zendikar
-&lt;/a&gt; of the world:&lt;/p&gt;
-
-&lt;h4 id=&quot;budget-commander&quot;&gt;Budget Commander&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/0/80665af6-fd66-4684-94ec-1f04eb898c2a.jpg?1631585654&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/0/b/0babfe00-9bad-48fc-b3b1-df8280242fd2.jpg?1626098785&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/6/7/673cd775-d417-4652-a91d-825ad5c89e8a.jpg?1631301068&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-One of the easiest ways to limit a deck from going off the rails is imposing a budget. We’ve all been building for a while and have amassed sizable collections, but every once in a while it’s good to see what is the best you can do with $50, $30, or $20 - and with current reprint policies you’d be surprised! Check out some of our more recent &lt;a href=&quot;https://open.spotify.com/episode/3xJIyU2cSVlfbN72OgK6rF?si=8d642218d0844d9c&quot;&gt;Group Brew&lt;/a&gt; episodes where we usually have someone taking a budget approach.&lt;/p&gt;
-
-&lt;h4 id=&quot;planar-commanderthemed-decks&quot;&gt;Planar Commander/Themed Decks&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/7207c416-dc16-40ab-94a0-836ee0710e24.jpg?1562405248&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/81bd293b-07b9-4d7c-826a-948d5b01ab5e.jpg?1608911156&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/5/9/594cb7dc-ea88-4909-ab40-1d40fecc9817.jpg?1592517535&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-While we call out Planar Commanders on the pod, we’ve had a lot of success with our “Commander Precons” Podcast episodes exploring theme limits on deck building. Most recently, this has taken the form of &lt;a href=&quot;https://open.spotify.com/episode/1UZ8dk7R3GcCaxrf2zwC0f?si=9844a7545dce4a2f&quot;&gt;DnD Campaign-themed decks&lt;/a&gt; but I have a feeling something new is coming out soon too…&lt;/p&gt;
-
-&lt;h4 id=&quot;pauper-commander&quot;&gt;Pauper Commander&lt;/h4&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;row&quot;&gt;
-            
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/1/6/16185c50-f7b8-4cea-a129-dfad8e9df781.jpg?1591605108&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;col-4 inline-card&quot;&gt;
-                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/large/front/2/5/253f9e43-5bc6-4f26-a8e9-773cd0ca3d02.jpg?1562732810&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;image sourced from scryfall.com&quot; /&gt;
-                &lt;/div&gt;
-            
-        &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-We’ve been doing a LOT of &lt;a href=&quot;https://hexdrinkers.com/archives/pdh&quot;&gt;PDH&lt;/a&gt; recently and it’s been an absolute blast. Limiting yourself to 99 commons with any uncommon creature in the command zone forces some really interesting design decisions…and makes some approaches a lot more viable. While we provide a lot of base format information (and will continue to do so) when it comes to top cards from recent sets or some deck techs, the format home page is at &lt;a href=&quot;https://www.pdhhomebase.com/&quot;&gt;pdhhomebase.com&lt;/a&gt;. If you’d like to dig into the budding competitive scene we recommend checking out &lt;a href=&quot;https://www.youtube.com/c/TheTryhards&quot;&gt;The Tryhards&lt;/a&gt; who are doing amazing things for cPDH and maintain a tierlist!&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Hopefully this article and accompanying podcast have given you some inspriation to try out something new with your playgroup too! If you have any fun ideas or try one of these and want to tell us how it went - hit us up in the comments below!&lt;/p&gt;</content><author><name>chev</name></author><category term="Podcast" /><category term="Commander" /><category term="PDH" /><summary type="html">Episode 45 of the Hexdrinkers Podcast dives into some of the myriad of ways we’ve tried to add a little more spice to our Commander nights, highlighting everything from interesting variants of the format to more specific and indvidualized customizations. While we go into greater detail on the pod, we thought it might be helpful to provide a spruced up “link-list” for some of the resources and tools we mention during the episode. Commander Variants Even a 100-card singleton format can use a little bit of variety now and again, so here are our three favorite variations: Two-Headed Giant Two-Headed Giant might be the format we mention that you’re most familiar with, but maybe not in the context of commander - there are a couple different rules worth repeating: Each team starts with 60 life Commander Damage is unchanged (21) Starting team doesn’t draw Planechase While not seeing a new product since 2012, Planechase is perhaps the most universally beloved Commander variant among the Hexdrinkers. As Oakley describes it, “It’s like adding a 5th player who loves group hug but occasionally dives into stax.” For an official format breakdown, check out this. We also mention the fan initiative “Planechase 2019” on the show, an absolutely delightful custom set of Plane cards set everywhere MTG has gone from 2012 - 2019. You can find the original Reddit post that introduces the expansion here (and a huge shout-out to u/ExPointReddit and team who helped make this possible). If this all seems interesting and you’d like to try out planechase classic, 2019, or both with your friends and playgroup - we gotchu! Head on over to planeswalk-app.com where we’ve put together a custom Planechase companion app to make the process absolutely seamless. Commander Dungeons and Dragons While a little rough around the edges, “Commander DnD” as we’ve been calling it is a Hexdrinkers original! Born as a fun Hexdrinkers’ Olympics event (You can find a link to that episode here), we’ve been doing some work to build the format out and make it more enjoyable with more impactful effects. The basic premise is like Planechase: you’re given access to a die that can trigger events from outside the game. Only in this case, it’s a d20 with effects based off of the You come across… cycle from AFR. Our official format page is just a Google spreadsheet right now but check it out! Recently we’ve been playing with adding classes (Eric had a ton of fun running the Bard Class with his mono-green legends deck)…but let us know what you think! Point Systems Again referencing the Hexdrinkers Olympics episode, having other goals besides victory in your game can lead to some very interesting (and fun!) plays. I believe Commander Vs shows off this idea best. Commander Restrictions Sometimes the best way to get out of a deckbuilding rut is to force yourself to explore cards outside of your traditional picks. Here are the ways we’ve limited ourselves from the Cyclonic Rifts and Avengers of Zendikar of the world: Budget Commander One of the easiest ways to limit a deck from going off the rails is imposing a budget. We’ve all been building for a while and have amassed sizable collections, but every once in a while it’s good to see what is the best you can do with $50, $30, or $20 - and with current reprint policies you’d be surprised! Check out some of our more recent Group Brew episodes where we usually have someone taking a budget approach. Planar Commander/Themed Decks While we call out Planar Commanders on the pod, we’ve had a lot of success with our “Commander Precons” Podcast episodes exploring theme limits on deck building. Most recently, this has taken the form of DnD Campaign-themed decks but I have a feeling something new is coming out soon too… Pauper Commander We’ve been doing a LOT of PDH recently and it’s been an absolute blast. Limiting yourself to 99 commons with any uncommon creature in the command zone forces some really interesting design decisions…and makes some approaches a lot more viable. While we provide a lot of base format information (and will continue to do so) when it comes to top cards from recent sets or some deck techs, the format home page is at pdhhomebase.com. If you’d like to dig into the budding competitive scene we recommend checking out The Tryhards who are doing amazing things for cPDH and maintain a tierlist! Conclusion Hopefully this article and accompanying podcast have given you some inspriation to try out something new with your playgroup too! If you have any fun ideas or try one of these and want to tell us how it went - hit us up in the comments below!</summary></entry></feed>
+&lt;p&gt;And that’s that! 5 equipment that should certainly be seeing more play than they are AND a few deck ideas to utilize them in. Let us know if you play any of these cards, have a home for them, and which equipment is your favorite in PDH!&lt;/p&gt;</content><author><name>[&quot;chev&quot;, &quot;julian&quot;]</name></author><category term="Pauper Commander" /><category term="Commander" /><category term="PDH" /><category term="Top10" /><summary type="html">Equipment is a polarizing card type. Either it’s much maligned for the very broken constructed powerhouses like Skull Clamp and Batterskull , or there’s a bored groan when every set has yet another cumbersome and unplayable version of Bonesplitter . This is even more prominent while playing PDH because you don’t have access to the busted mythic rare powerhouses and you usually have to settle for things that give a paltry stat boost. However, despite a few known quantities in Pauper Dragon Highlander, common equipment is generally slept on and that’s a damn shame. So here are our picks for 5 underplayed equipment that should definitely be seeing more action in your PDH 99. Horned Helm: Chev The instant-speed attachment cycle from Fifth dawn contains TWO already known absolute all-stars with Cranial Plating and Neurok Stealthsuit , but I’m here to petition that there is a third: Horned Helm. While not as flashy as shroud or a ridiculous power buff, Horned Helm elevates your ability to make impactful attacks in a color that can really take advantage of instant-speed trample. Being able to switch which attacking beast has trample based on targeted removal or chump blockers can have a drastic impact in a format so dominated by combat. While I don’t think there is enough support for a Proud Wildbonder or Hornbash Mentor PDH “trample tribal” deck, I would still love to see one. And in the meantime, consider slotting this in any deck that tries to get through with big creatures. 6cmc tribal is a notable standout commanded by Brinelin, the Moon Kraken and Gilanra, Caller of Wirewood , and if you’re REALLY feeling dangerous - something like Fynn, the Fangbearer would be incredibly spicy. Remember, only one one point of damage needs to target a creature to be considered lethal with deathtouch… Boots of Speed: Chev Okay, before we dig into the merits of a repeatable 2-mana haste enabler….y’all need to check your decklists and tell me why Crystal Slipper is seen in twice as many decks as our Boots here. These objectively better shoes are made for pounding the pavement and turning your Savage Ventmaw into something truly terrifying. In fact, the only argument I’ll take for Crystal Slippers over the Boots is the incredibly entertaining notion of a Dargo, the Shipwrecker running full speed in heels. Those people get a pass, but they’re on thin ice. Seriously though, haste is an incredibly powerful ability that I routinely undervalue in ALL forms of EDH. At their best, Boots of Speed lets a commander who cares about combat like Ventmaw or Reyav, Master Smith get their strategy running a turn early. At their worst, Boots of Speed help you recover from a wrath faster than any opponent. Either way, they’re going to leave a mark. Thieves’ Tools: Chev We can’t all be Whispersilk Cloak , but this underappreciated gem from AFR really does take a stab at it. A lot of very powerful “attack” or “deal combat damage” triggers exist on creatures power 3 or less, and being able to rely on those abilities turn after turn can be super valuable. Whether you’re trying to lose friends using creatures like Scourge Servant , Corpse Cur , or Priests of Norn for an infect victory or just amassing resources with the likes of Moonblade Shinobi or Hoard Robber , Thieves’ Tools has got you covered. Where I really see Thieves’ Tools shining is with three specific commanders: Azra Oddsmaker - being able to consistently draw two cards per combat and filling your graveyard for flashback-esque effects is incredible value. As we’ve talked about ad nauseum (not the card, that’s a rare), PDH very quickly comes down to access to card draw and there are few synergies as powerful as this. Krydle of Baldur’s Gate - Krydle himself gives you access to one unblockable creature, but being able to sneak in an extra creature is fantastic in UB, the two colors that care about attack triggers most. With an army of Library Larcenist and Okiba-Gang Shinobi -esque effects, you’ll really be able to emphasize a card advantage. Blizzard Specter - A flying, aggressive threat that with the right tools can bounce an opponent’s creature every turn. Blizzard Specter continues to prove the power of aggressive Dimir builds. Now if only WOTC would print a common equipment with double strike…. Goldvein Pick/Prying Blade: Julian This pick is a two-for-one special because these cards are very similar. While Goldvein Pick is better due to the lower equip cost and extra toughness buff, both it and Prying Blade are incredible thanks to their ability to generate treasure whenever your creature connects. In fact, use those aforementioned Thieves’ Tools and guarantee that you’re ramping and fixing every turn, even outside of green. The mana advantage is already excellent, but this doesn’t even consider strategies that care about tokens or artifacts. Where I really see these equipment shining are in a deck like Malcolm, Keen-Eyed Navigator / Dargo, the Shipwrecker which utilize treasure to power out an early Dargo to beat face. Other hot picks are things like a Fathom Fleet Swordjack deck where you can continually ramp up damage as you attack each turn, or a Whirler Rogue build so you continually have artifacts to tap to get in for damage, perpetuating the cycle. I’m sure there’s other nasty combo territory you can get into, but even just in a simple country midrange deck, do not underestimate this pair. The seven dwarves would be proud (Hi Ho Hi Ho, it’s off to combat we go). Explorer’s Scope: Julian That’s right, I’m frickin’ talking about ramp disparity again which is even more prominent in pauper than in regular EDH. And what better way to even the playing field than with a card that ramps you while saving you from blank draws?. Perfect for aggro and midrange decks alike, the Explorer’s Scope is perfect to smooth out draws and keep your deck flowing all while getting into the red zone. Where this card especially shines is in any deck that has a Landfall theme. For something like Grove Rumbler or Canyon Jerboa it’s a massive combat trick making blocks even harder. For Tunneling Geopede it’s a drastically increased clock and for Tireless Provisioner it’s more dirty value. No matter what deck you’re playing, the scope is here to help you see further and be more prepared. And that’s that! 5 equipment that should certainly be seeing more play than they are AND a few deck ideas to utilize them in. Let us know if you play any of these cards, have a home for them, and which equipment is your favorite in PDH!</summary></entry></feed>
