@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-07-08T07:49:26-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Lotleth Troll</title><link href="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html" rel="alternate" type="text/html" title="Lotleth Troll" /><published>2022-07-08T00:00:00-07:00</published><updated>2022-07-08T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html">&lt;p&gt;As you might have heard on our recent crossover with the &lt;a href=&quot;https://open.spotify.com/episode/3kefhkQzpRuWlb7HkLO31e?si=c8dd541fc3934bc2&quot;&gt;PDH Pod&lt;/a&gt;, Double Masters 2022 gives us 7 new commanders to play with. That’s right we got some dowwwwnshifts baby! While there’s a whole lot of new tech available for us pauper people (
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-07-17T15:52:51-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Lotleth Troll</title><link href="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html" rel="alternate" type="text/html" title="Lotleth Troll" /><published>2022-07-08T00:00:00-07:00</published><updated>2022-07-08T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html">&lt;p&gt;As you might have heard on our recent crossover with the &lt;a href=&quot;https://open.spotify.com/episode/3kefhkQzpRuWlb7HkLO31e?si=c8dd541fc3934bc2&quot;&gt;PDH Pod&lt;/a&gt;, Double Masters 2022 gives us 7 new commanders to play with. That’s right we got some dowwwwnshifts baby! While there’s a whole lot of new tech available for us pauper people (
 &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/17/mentor-of-the-meek?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10c78b83-49d4-48c6-8aef-497541431c77.jpg?1656008300' width=100% height=100%&amp;gt;&quot;&gt;
 Mentor of the Meek
 &lt;/a&gt;,
@@ -9,7 +9,7 @@ Graveblade Marauder
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cc138550-a797-4a57-91b3-626aac1b1edd.jpg?1656115056&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cc138550-a797-4a57-91b3-626aac1b1edd.jpg?1656115056&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -267,7 +267,7 @@ Honored Heirloom
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1634349655&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/ed6c8942-d43e-4456-ac98-3220cb954c65.jpg?1634349655&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -677,7 +677,7 @@ Dusk Legion Zealot
 &lt;br /&gt;&lt;/p&gt;</content><author><name>chev</name></author><category term="Pauper Commander" /><category term="PDH" /><summary type="html">As you might have heard on our recent crossover with the PDH Pod, Double Masters 2022 gives us 7 new commanders to play with. That’s right we got some dowwwwnshifts baby! While there’s a whole lot of new tech available for us pauper people ( Mentor of the Meek , Graveblade Marauder ) none stood out quite so immediately to me and the good people of twitter as much as this hungry boi: He can come down early, has built in protection, a built in buff ability, AND trample? What more could you want?! Lotleth is a tank, and since apparently all I can write about recently are PDH Golgari Voltron builds (read: Wilson) - let’s dive in. The Strategy Most decks that feature our favorite troll (outside of Thrun, the Last Troll , gotta pay love to the OG) are going to be heavy voltron builds - and while I’m not tuning the deck I build here to cPDH standards…it’s important to recognize even with regenerate, Lotty (It’s just easier to say) will be a major target. We probably don’t want to drop the guy until we have at least one open mana for protection and a few creatures around to avoid edicts. That being said, once Lotty sticks the game changes completely. We’re running all the important equipment and auras to buff to high heaven and hopefully swing for lethal commander damage ASAP. We’re also running a few more creatures than a normal Voltron deck because of Lotty’s stipulation on what types of cards we can discard for that counters ability. Then the rest of the 99 is protection, murder , and draw spells! Easy enough. Big Troll A Voltron deck is really only as good as its auras and equipment, and that’s why we’re running over 20 of them. We’ve got all the PDH classics: Game Object Squad - Prying Blade , Goldvein Pick , Ceremonial Knife , Giant’s Skewer Dodge, Duck, Dip, Dive, Dodge - Whispersilk Cloak , Cliffhaven Kitesail , Snake Umbra Go Big or Go Home - Cranial Plating , Predatory Hunger , Armory of Iroas , Ancestral Mask …so let’s talk about some new tech now, yeah? Careful Cultivation - Lotleth has trample and regenerate, but it would be SUPER cool if he had more keywords. Careful Cultivation goes a long way to help all the +1/+0 effects we have by buffing the butt and also giving us the ability to fend off Crackling Drake and Malcolm, Keen-Eyed Navigator -esque builds that focus on aerial assaults. What really sets Cultivation over the edge for me though is being able to channel and create a 1/1 monk at instant speed. Imagine a Cruel Edict on the stack, it’s the bottom of the 9th with runners on all the bases and…anyway I don’t know baseball but I’ll gladly throw a random human to the wolves over my beautiful, beautiful Lotty. Favor of Jukai - funny that the set that brought us modified has good modifications. Whodda thunk. Anyway, Favor gets attention for again, flying protection, and being an overall great buff. Being able to channel for a Giant Growth effect as required adds enough utility to pull us out of any Crypt Rats - type situations that might occur. Juke ‘em out with Jukai. Warbriar Blessing - Might finally be able to stop mentioning this one but it’s still not quite as ubiquitous as it should be. A fight spell for a voltron creature is essentially a green murder that will also set off our Ancestral Mask and enchantress abilities. Long Live Lotleth After all the effort we’ve put in building the beast - we don’t want to lose it all to a rogue Snuff Out or Murder do we? Yes, Lotleth Troll has regeneration but three cases in which that’s worth bug all are: Exile Effects, Edict Effects, and “Everyone Has One card In Hand They Can’t Possibly All Be Kill Spells…So I’m Going To Use All My Mana” Effects. You’ll have to be on the lookout for all of these. Luckily, we come prepared. Snakeskin Veil - Recently Tamiyo’s Safekeeping has gotten all the attention with indestructible but when we have the regenerate and a little mana…that’s not always going to be required. Instead, I’ll gladly put a counter on Lotleth without needing to discard something tasty. Return to Action - When Wizards essentially “sunset” Regenerate, we started to see this sort of instant in incredible numbers. I think Return to Action is my favorite for decks like this because of the hidden modality. Don’t be afraid to use this for the instant lifelink once Lotleth starts getting up there in power. Nested Shambler - calls out a whole category of cards: Doomed Dissenter , Myr Sire , Khalni Garden - all produce edict fodder. Nested Shambler just does it best in a deck where he could be strapped up to a Cranial Plating at instant speed and be sacced into a truly staggering amount of…Squirrels. There’s not much to call out for “I ran out of mana! Help!” besides a proactive Snake Umbra or Whispersilk Cloak , so uhh try not to do that too frequently. The Troll with all the Counters Okay so now we have the more boring parts of our build out of the way, let’s hit on what makes Lotleth unique from the lovable bear I covered last time. Namely, a built-in ability to grow in size. Sure, we have to discard some creatures to do it but this ability is incredibly useful to avoid many of the wraths in PDH AND…maybe sneak in a Phyresis kill. You know you want to. First-Sphere Gargantua - Sadly, there’s not a lot of great Unearth tech at common…yet. (Just waiting for MH3 baby.) In case you couldn’t tell, the name of the game for most of these Lotleth-specific picks is “How can we capitalize from creatures going to the yard outside of just Lotleth?” So First-Sphere giving us a 3-mana 5/4 that draws a card seems pretty freaking good at any point in the game. Horror of the Broken Lands - While the buff isn’t permanent, the fact it’s twice as effective as Lotty’s can make Horror have some truly bonkers turns in combination with the Zombie Troll himself. Throw a couple cycling lands into the mana base too if you’re feeling spicy. No one expects the game-winning Barren Moor ! Grave Scrabbler - What I WISH we could highlight more in this deck, is madness. Unfortunately since Lotleth only cares about discarding creatures a lot of the synergies you might feel with an Azra Oddsmaker deck don’t really work - but there are some very solid madness creature standouts that are still worth including. Gorgon Recluse , Hell Mongrel , and Kitchen Imp all fit into this category. Deepwood Denizen - Everyone knows in PDH ya need some cards. While you’re probably going to be paying full price for this elf more often than not, on the off chance you’ve got a fully pumped troll on the field this is going to be an incredibly exciting piece of tech to keep your hand full of fodder. Sanitarium Skeleton - Can you say c-c-c-combo? Not infinite, we’re not heathens (Editor’s note: Chev is saying this while actively working on an article about a combo cEDH deck with Eric). But a way to consistently buff Lotleth once you have it on the field. Undergrowth Scavenger - Needless to say this deck will be filling the yard fast, so having effects like this and Rhizome Lurcher will be a surprise reserve that can take advantage of all those discarded resources. I didn’t want to rely too heavily on this effect for this deck though since a Bojuka Bog or Honored Heirloom could spell doom. Alright, we’re nearing the end of how long you can look at a site dedicated to MTG content during the work day so I’ll call out one last card before wrapping up here: It’s by no means an optimized card, but a graveyard recursion piece with flashback would almost be enough on its own…and then you add the incidental counter gain for Lotleth who does tick the zombie box. (Or even Nested Shambler if it’s out). This is the kind of tech I know y’all are here for and I want to provide. Conclusion Card good. It’s a heater in the zone that will draw a lot of attention but luckily has the body to back it up. Try to get Lotleth out early, and with a 2 mana casting cost, get him out often. Don’t lean too heavy on using up all your creatures - but don’t be afraid to rip a Dusk Legion Zealot if you need that extra 1 or 2 damage. Alright, that’s enough free coaching. I’ve attached my full decklist and link to Moxfield below but let me know what tech you’ve found for our Glorious Golgari God! Lotleth is Love Commanders 1x Lotleth Troll Enchantments 1x Ancestral Mask 1x Careful Cultivation 1x Eternal Thirst 1x Favor of Jukai 1x Lignify 1x Master Chef 1x Oubliette 1x Parasitic Impetus 1x Phyresis 1x Predatory Hunger 1x Rancor 1x Snake Umbra 1x Tortured Existence 1x Utopia Sprawl 1x Warbriar Blessing Artifacts 1x Arcane Signet 1x Armory of Iroas 1x Blood Fountain 1x Bonesplitter 1x Ceremonial Knife 1x Cliffhaven Kitesail 1x Cranial Plating 1x Giant's Skewer 1x Goldvein Pick 1x Prying Blade 1x Whispersilk Cloak Lands 1x Bojuka Bog 12x Forest 1x Golgari Rot Farm 1x Khalni Garden 1x Opal Palace 1x Path of Ancestry 17x Swamp 1x Witherbloom Campus 1x Woodland Chasm Sorceries 1x Bone Shards 1x Call to the Netherworld 1x Crawl from the Cellar 1x Cultivate 1x Feed the Swarm 1x Kodama's Reach 1x Sign in Blood 1x Syphon Mind Creatures 1x Deepwood Denizen 1x Doomed Dissenter 1x Dusk Legion Zealot 1x Faerie Macabre 1x First-Sphere Gargantua 1x Gangrenous Zombies 1x Gorgon Recluse 1x Grave Scrabbler 1x Hagra Constrictor 1x Hell Mongrel 1x Horror of the Broken Lands 1x Kitchen Imp 1x Masked Vandal 1x Myr Sire 1x Nested Shambler 1x Sanitarium Skeleton 1x Skirge Familiar 1x Springbloom Druid 1x Twins of Maurer Estate 1x Undergrowth Scavenger 1x Wood Elves Instants 1x Murder 1x Naturalize 1x Return to Action 1x Return to Nature 1x Snakeskin Veil 1x Snuff Out 1x Tamiyo's Safekeeping 1x Vines of Vastwood</summary></entry><entry><title type="html">$60 Yedora Combo</title><link href="hexdrinkers.com/commander/2022/06/23/edh_budget_yedora_combo.html" rel="alternate" type="text/html" title="$60 Yedora Combo" /><published>2022-06-23T00:00:00-07:00</published><updated>2022-06-23T00:00:00-07:00</updated><id>hexdrinkers.com/commander/2022/06/23/edh_budget_yedora_combo</id><content type="html" xml:base="hexdrinkers.com/commander/2022/06/23/edh_budget_yedora_combo.html">&lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/320b9678-5bbc-40dd-a508-90a647e95a71.jpg?1635861230&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/320b9678-5bbc-40dd-a508-90a647e95a71.jpg?1635861230&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -1493,7 +1493,7 @@ Satoru Umezawa
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53f287c1-bd17-43fd-b0e3-b52472b0aa70.jpg?1654714147&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53f287c1-bd17-43fd-b0e3-b52472b0aa70.jpg?1654714147&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -2161,7 +2161,7 @@ Passionate Archaeologist
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dfe0daf8-43da-484b-baa1-76f8313c5a0c.jpg?1652894282&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dfe0daf8-43da-484b-baa1-76f8313c5a0c.jpg?1652894282&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -2179,7 +2179,7 @@ Passionate Archaeologist
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f50448e9-afe4-4d4e-b027-bbb855f17aeb.jpg?1653354108&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f50448e9-afe4-4d4e-b027-bbb855f17aeb.jpg?1653354108&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -3172,7 +3172,7 @@ Chishiro, the Shattered Blade
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -3982,7 +3982,7 @@ Naomi, Pillar of Order
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1643493057&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4400fd66-1a24-47fb-bc94-37e0aae0e610.jpg?1643493057&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4690,7 +4690,7 @@ No matter which way you choose to build Naomi, don’t sleep on this advisor! Re
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1643916576&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1643916576&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4722,7 +4722,7 @@ Kami of Industry
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4753,7 +4753,7 @@ Treasure Cruise
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6338942d-d650-4571-8ec6-4d658792c53e.jpg?1643997417&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6338942d-d650-4571-8ec6-4d658792c53e.jpg?1643997417&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4784,7 +4784,7 @@ Duskmantle Guildmage
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1643493580&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1643493580&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4812,7 +4812,7 @@ Grumgully the Generous
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4844,7 +4844,7 @@ Frogify
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4907,7 +4907,7 @@ Shrine Steward
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1644003426&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1644003426&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4936,7 +4936,7 @@ Gray Merchant of Asphodel
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1644000678&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1644000678&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -4976,7 +4976,7 @@ Azra Oddsmaker
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1643997655&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1643997655&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
@@ -5001,7 +5001,7 @@ Shirei, Shizo’s Caretaker
 &lt;div&gt;
     
         &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881&quot; style=&quot;max-width: 33%;&quot; class=&quot;img-fluid&quot; /&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
         &lt;/div&gt;
         
     
