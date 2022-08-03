@@ -1,4 +1,337 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-07-17T15:52:51-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">Lotleth Troll</title><link href="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html" rel="alternate" type="text/html" title="Lotleth Troll" /><published>2022-07-08T00:00:00-07:00</published><updated>2022-07-08T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html">&lt;p&gt;As you might have heard on our recent crossover with the &lt;a href=&quot;https://open.spotify.com/episode/3kefhkQzpRuWlb7HkLO31e?si=c8dd541fc3934bc2&quot;&gt;PDH Pod&lt;/a&gt;, Double Masters 2022 gives us 7 new commanders to play with. That’s right we got some dowwwwnshifts baby! While there’s a whole lot of new tech available for us pauper people (
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="hexdrinkers.com/feed.xml" rel="self" type="application/atom+xml" /><link href="hexdrinkers.com/" rel="alternate" type="text/html" /><updated>2022-08-02T17:36:29-07:00</updated><id>hexdrinkers.com/feed.xml</id><title type="html">The Hexdrinkers</title><subtitle>Magic the Gathering and Magic Arena decks, strategy, and commentary</subtitle><entry><title type="html">$50 Mavinda, Students’ Advocate</title><link href="hexdrinkers.com/budget%20edh/2022/08/01/edh_budget_mavinda.html" rel="alternate" type="text/html" title="$50 Mavinda, Students’ Advocate" /><published>2022-08-01T00:00:00-07:00</published><updated>2022-08-01T00:00:00-07:00</updated><id>hexdrinkers.com/budget%20edh/2022/08/01/edh_budget_mavinda</id><content type="html" xml:base="hexdrinkers.com/budget%20edh/2022/08/01/edh_budget_mavinda.html">&lt;p&gt;Ever since &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/21/mavinda-students-advocate?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549' width=100% height=100%&amp;gt;&quot;&gt;
+Mavinda, Students’ Advocate
+&lt;/a&gt; was spoiled, I knew I wanted to do something interesting with them. Fresh off of a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bok/89/toshiro-umezawa?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e767e07-febd-4025-bf03-d4d816bc1d3d.jpg?1562875477' width=100% height=100%&amp;gt;&quot;&gt;
+Toshiro Umezawa
+&lt;/a&gt; build in early 2021, the whole “whip spells from the graveyard” idea was fresh in my mind and as the almost direct opposite of Kamigawa’s favorite thief… I knew it would be a fun challenge.&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, I sat on this bird for over a year but when my recipient for Secret Santa had a mono white deck at the top of their request list, I knew it was time for Mavinda to take flight. Get it? Cause they’re a b-… anyway. Let’s dive into why you shouldn’t always ignore your guidance counselors.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-bird-is-the-word&quot;&gt;The Bird is the Word&lt;/h3&gt;
+
+&lt;p&gt;Before we get into the cool strategies Mavinda lets us accomplish, let’s take a look at Mavinda as a card. Once per turn (and not just our own!) we may cast an instant or sorcery from our graveyard. However, if it doesn’t target a creature we control we have to pay a steep tax of an additional 8 generic mana. Largely, we’ll be casting spells that target - removal, combat tricks, blink shenanigans. But don’t forget they don’t &lt;em&gt;have&lt;/em&gt; to target. In the late game, a 13 mana &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/109/tragic-arrogance?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/215f75ff-bcbb-45db-8393-9bce650998c2.jpg?1625975805' width=100% height=100%&amp;gt;&quot;&gt;
+Tragic Arrogance
+&lt;/a&gt; is still a Tragic Arrogance!&lt;/p&gt;
+
+&lt;h4 id=&quot;bird-vs-angel&quot;&gt;Bird Vs Angel&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-2&quot;&gt;&lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b3d521f-31cd-4bd2-b6b6-771c79252789.jpg?1624589549&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Mavinda, Students’ Advocate&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4a2d2c6-8eaa-4760-b620-921b807baa2e.jpg?1557577142&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Feather, the Redeemed&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This also brings us to what I think separates Mavinda from the more popular target-your-own-creatures Commander, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/war/197/feather-the-redeemed?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4a2d2c6-8eaa-4760-b620-921b807baa2e.jpg?1557577142' width=100% height=100%&amp;gt;&quot;&gt;
+Feather, the Redeemed
+&lt;/a&gt;. What Feather provides in consistent value, it loses in the flexibility to also be casting instants and sorceries that don’t target AND casting a spell twice in a single turn. That’s not to say these two cases will happen all that frequently, but having that added utility is great in preventing catastrophic situations like a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/39/wrath-of-god?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/664e6656-36a3-4635-9f33-9f8901afd397.jpg?1598303688' width=100% height=100%&amp;gt;&quot;&gt;
+Wrath of God
+&lt;/a&gt; or an &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ncc/280/avenger-of-zendikar?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/9685faa0-46cc-4098-9ad7-cffece741baa.jpg?1650418747' width=100% height=100%&amp;gt;&quot;&gt;
+Avenger of Zendikar
+&lt;/a&gt; across the table.&lt;/p&gt;
+
+&lt;p&gt;To those ends, Mavinda will play out much more politically and control-minded than the Boros-aligned angel. Our main plan is to coast into the late game with blink and protection subthemes before winning with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/4/approach-of-the-second-sun?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579' width=100% height=100%&amp;gt;&quot;&gt;
+Approach of the Second Sun
+&lt;/a&gt; or an avalanche of incidental value. Something something slow and steady. Alright, ready to rumble?&lt;/p&gt;
+
+&lt;h3 id=&quot;the-coolest-stuff&quot;&gt;The Coolest Stuff&lt;/h3&gt;
+
+&lt;p&gt;Instead of starting with the bread and butter mechanics, I’m going to first focus on the cool Mavinda-specific payoffs and more recent cards people might have missed. A lot of readers might be familiar with classic blink synergies and value engines, so I’ll save that stuff for the end of the article. Skip if you’re seasoned in that style of play or give it a look if you need a primer or refresher. Anyway, the sweet tech:&lt;/p&gt;
+
+&lt;h4 id=&quot;us-and&quot;&gt;Us And&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32ffc8eb-9518-455c-ada5-8b7596896dcf.jpg?1625190989&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Excavation Technique&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72d1ad18-607f-4fe4-ba72-26ed1da4cd3d.jpg?1650407911&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Fell the Mighty&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca74453c-278e-4a6c-aa37-e5654e16b08b.jpg?1655394157&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Settle Beyond Reality&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;While we need to target a creature we control to take full advantage of Mavinda, that doesn’t mean we can’t &lt;em&gt;also&lt;/em&gt; target something else…
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/30/settle-beyond-reality?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca74453c-278e-4a6c-aa37-e5654e16b08b.jpg?1655394157' width=100% height=100%&amp;gt;&quot;&gt;
+Settle Beyond Reality
+&lt;/a&gt;&lt;/strong&gt; - is probably the easiest to explain of the bunch as a five mana removal spell that gives us a cute little flicker.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ncc/200/fell-the-mighty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72d1ad18-607f-4fe4-ba72-26ed1da4cd3d.jpg?1650407911' width=100% height=100%&amp;gt;&quot;&gt;
+Fell the Mighty
+&lt;/a&gt;&lt;/strong&gt; - targets as part of a boardwipe, so as long as we choose one of our own creatures we’ll have an extra board wipe at our disposal.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/16/excavation-technique?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32ffc8eb-9518-455c-ada5-8b7596896dcf.jpg?1625190989' width=100% height=100%&amp;gt;&quot;&gt;
+Excavation Technique
+&lt;/a&gt;&lt;/strong&gt; - a bit of an odd one but hey, that’s what y’all are here for. From the yard, target one of your creatures and choose to demonstrate - giving you an additional copy to cast for free. Not the cleanest removal spell but hey, it’s good in a pinch.&lt;/p&gt;
+
+&lt;h4 id=&quot;mavinda-goes-hard&quot;&gt;Mavinda goes HARD&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d958ec3-1ddc-4622-9089-cbe5b3b47c90.jpg?1653347555&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Pegasus Guardian&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d38ad178-35a5-44ad-b80a-d746f3e6a45c.jpg?1562304402&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Ajani’s Influence&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Approach of the Second Sun&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/36/pegasus-guardian-rescue-the-foal?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d958ec3-1ddc-4622-9089-cbe5b3b47c90.jpg?1653347555' width=100% height=100%&amp;gt;&quot;&gt;
+Pegasus Guardian
+&lt;/a&gt;&lt;/strong&gt; - Something I learned from my recent Sedris adventures is that when faced with two different exile triggers you control, you get to pick which one gets applied! This is incredible with Adventure, making Pegasus Guardian both a solid blink payoff and an endlessly repeatable blink trigger (if the guardian dies).
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m19/282/ajanis-influence?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d38ad178-35a5-44ad-b80a-d746f3e6a45c.jpg?1562304402' width=100% height=100%&amp;gt;&quot;&gt;
+Ajani’s Influence
+&lt;/a&gt;&lt;/strong&gt; - Targeting almost as an afterthought to the main effect (my favorite cards), Ajani’s influence gives you some very solid card filtering for mono white.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/akh/4/approach-of-the-second-sun?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579' width=100% height=100%&amp;gt;&quot;&gt;
+Approach of the Second Sun
+&lt;/a&gt;&lt;/strong&gt; - One of our main wincons, we’re hoping to tear through our deck with consistent draw and ramp making this a very viable option. And remember, if you end up late into the night with 15 mana lying around… Mavinda can get you that Approach out of the yard, where that annoying Blue player countered it, and back into your deck.&lt;/p&gt;
+
+&lt;h4 id=&quot;token-town&quot;&gt;Token Town&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c00731eb-69fe-42f3-9919-66a4cdec00f7.jpg?1643585934&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Cemetery Protector&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/4531482d-9238-40de-957e-61beb5700330.jpg?1568003396&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Thalia’s Geistcaller&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff80029e-650e-469d-8393-0edf7d9cd695.jpg?1632261678&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Blessed Sanctuary&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccc00c82-7c2a-4699-8058-e57f690ece96.jpg?1631233984&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+…And if Approach doesn’t work - well we’ll just have to flood the board and hope for a few &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/27/phalanx-leader?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/96d22985-4354-4015-bd74-0ddf4f0cdf17.jpg?1547515719' width=100% height=100%&amp;gt;&quot;&gt;
+Phalanx Leader
+&lt;/a&gt; Triggers.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/6/cemetery-protector?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c00731eb-69fe-42f3-9919-66a4cdec00f7.jpg?1643585934' width=100% height=100%&amp;gt;&quot;&gt;
+Cemetery Protector
+&lt;/a&gt;&lt;/strong&gt; - Good graveyard hate (especially when blinked), but also gives us essentially a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/131/young-pyromancer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/219577e6-758a-4135-9a8d-f95df964137a.jpg?1656006716' width=100% height=100%&amp;gt;&quot;&gt;
+Young Pyromancer
+&lt;/a&gt; in white. Bazinga.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c19/7/thalias-geistcaller?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/4531482d-9238-40de-957e-61beb5700330.jpg?1568003396' width=100% height=100%&amp;gt;&quot;&gt;
+Thalia’s Geistcaller
+&lt;/a&gt;&lt;/strong&gt; - We’re going to be doing some serious graveyard casting, and creating 1/1 fliers at instant speed is certainly nothing to shake a stick at.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/1/blessed-sanctuary?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff80029e-650e-469d-8393-0edf7d9cd695.jpg?1632261678' width=100% height=100%&amp;gt;&quot;&gt;
+Blessed Sanctuary
+&lt;/a&gt;&lt;/strong&gt; - Netting an extra creature with every flicker gives &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/27/semesters-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/ef4743f7-28db-4d72-bfce-09cfbe413514.jpg?1624589715' width=100% height=100%&amp;gt;&quot;&gt;
+Semester’s End
+&lt;/a&gt; and the like the ability to double your &lt;em&gt;entire&lt;/em&gt; board.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/23/evangel-of-heliod?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccc00c82-7c2a-4699-8058-e57f690ece96.jpg?1631233984' width=100% height=100%&amp;gt;&quot;&gt;
+Evangel of Heliod
+&lt;/a&gt;&lt;/strong&gt; - Perhaps the most fun blink target, with a lot of small creatures we should hopefully have a pretty high devotion when the game gets going.&lt;/p&gt;
+
+&lt;h4 id=&quot;hot-off-the-press&quot;&gt;Hot off the Press&lt;/h4&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cabc3688-2362-4757-a5be-087e577c4691.jpg?1653159953&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Far Traveler&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a7782044-616e-4d4f-b38f-93320ba19797.jpg?1654115005&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Rumor Gatherer&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52ba20d9-9423-4114-8734-1dac307483c8.jpg?1649935385&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Illuminator Virtuoso&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/17/far-traveler?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cabc3688-2362-4757-a5be-087e577c4691.jpg?1653159953' width=100% height=100%&amp;gt;&quot;&gt;
+Far Traveler
+&lt;/a&gt;&lt;/strong&gt; - It’s important to remember that backgrounds don’t always have to live in the command zone. Some can do serious work in the 99. There’s a few more hoops to jump through to get Far Traveler running as opposed to &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/39/teleportation-circle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1627702592' width=100% height=100%&amp;gt;&quot;&gt;
+Teleportation Circle
+&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/243/conjurers-closet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3435fd09-a7a2-475e-a690-3c2011b70024.jpg?1599708903' width=100% height=100%&amp;gt;&quot;&gt;
+Conjurer’s Closet
+&lt;/a&gt;, buuut it’s amazing for the monetary cost and great backup as the third copy of the effect in this deck.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/705/rumor-gatherer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a7782044-616e-4d4f-b38f-93320ba19797.jpg?1654115005' width=100% height=100%&amp;gt;&quot;&gt;
+Rumor Gatherer
+&lt;/a&gt;&lt;/strong&gt; - With the Cabaretti focusing on “Creature-fall” (&lt;em&gt;Alliance&lt;/em&gt;), there’s plenty of great effects for creature ETBs in Naya. Less so in Mono-white, but Rumor Gatherer can give us a lot of scry and hopefully a bit of draw - the kind of card advantage we need in spades to keep up with a mono-white deck.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/snc/17/illuminator-virtuoso?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52ba20d9-9423-4114-8734-1dac307483c8.jpg?1649935385' width=100% height=100%&amp;gt;&quot;&gt;
+Illuminator Virtuoso
+&lt;/a&gt;&lt;/strong&gt; - Illuminator Virtuoso, hailing from the Obscura, focuses more on just crazy amounts of card filtering. Which is much appreciated given we can use Mavinda to get a lot of that back.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Mavinda, fresh off a &lt;a href=&quot;https://edhrec.com/articles/the-600-a-review-of-strixhaven-and-c21-commanders/&quot;&gt;under 600 defeat&lt;/a&gt;, is still a commander worth your time to explore, and given recent reprints, Mavinda can be an absolute banger at sub $50. Really, with a bigger budget you’d mostly just be upgrading the creature package, with blink and protection almost at their apex.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoyed this deep dive into Strixhaven’s best owl and one of mono white’s more interesting commanders! And if you’re still around, check out the more in-depth description of the protection and blink packages below!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Check out the full decklist on &lt;a href=&quot;https://www.moxfield.com/decks/pn-MN8h9tkOx15AFDlhfjw&quot;&gt;Moxfield&lt;/a&gt;&lt;/em&gt;
+If Mono Red is more your thing, I did a &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/150/purphoros-bronze-blooded?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/af3af5c4-0960-44a2-976e-abdf7803c436.jpg?1582178876' width=100% height=100%&amp;gt;&quot;&gt;
+Purphoros, Bronze-Blooded
+&lt;/a&gt; budget deck for last year’s Deck Exchange - check out the write up over on &lt;a href=&quot;https://www.reddit.com/r/BudgetBrews/comments/ran5th/here_comes_the_boom_40_purphoros_bronzeblooded/&quot;&gt;reddit&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-blinked&quot;&gt;The Blinked&lt;/h3&gt;
+
+&lt;p&gt;Card Draw - &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/33/wall-of-omens?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/5/6504e634-d8cd-41bc-978d-769431bd896d.jpg?1655959427' width=100% height=100%&amp;gt;&quot;&gt;
+Wall of Omens
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/38/spirited-companion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1654566520' width=100% height=100%&amp;gt;&quot;&gt;
+Spirited Companion
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/704/priest-of-ancient-lore?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b6f7b89-1648-4c2b-8d68-88ad43267c6f.jpg?1654114987' width=100% height=100%&amp;gt;&quot;&gt;
+Priest of Ancient Lore
+&lt;/a&gt;
+&lt;br /&gt;
+Lands/Ramp - &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/28/kor-cartographer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/6226b346-ca4c-45ea-871c-1a8fb7f9be0d.jpg?1631234089' width=100% height=100%&amp;gt;&quot;&gt;
+Kor Cartographer
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/872/solemn-simulacrum?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5fec09ec-a300-4d3c-8054-0250bb70b93b.jpg?1654118855' width=100% height=100%&amp;gt;&quot;&gt;
+Solemn Simulacrum
+&lt;/a&gt; , &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/98/oreskos-explorer?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/086f34b4-291b-4758-b9ab-6699aad20b8a.jpg?1625193212' width=100% height=100%&amp;gt;&quot;&gt;
+Oreskos Explorer
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/voc/92/knight-of-the-white-orchid?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/2096c0f1-9a61-4c2a-ac1a-a2fb4e73d121.jpg?1641601441' width=100% height=100%&amp;gt;&quot;&gt;
+Knight of the White Orchid
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/23/loyal-warhound?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.jpg?1627701994' width=100% height=100%&amp;gt;&quot;&gt;
+Loyal Warhound
+&lt;/a&gt;
+&lt;br /&gt;
+Interaction - &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znr/39/skyclave-apparition?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b83cfbaa-7890-4f6f-878b-4edb45677371.jpg?1604193295' width=100% height=100%&amp;gt;&quot;&gt;
+Skyclave Apparition
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/323/meteor-golem?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14e17f8c-c705-43ab-ae1a-cde48aceca0a.jpg?1653417265' width=100% height=100%&amp;gt;&quot;&gt;
+Meteor Golem
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m20/10/cavalier-of-dawn?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7b1919e-c0c1-4ac7-9061-a337b6fe7273.jpg?1592515990' width=100% height=100%&amp;gt;&quot;&gt;
+Cavalier of Dawn
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/17/fiend-hunter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f02e3c30-e540-4d7b-a17b-3eece63743cb.jpg?1547515516' width=100% height=100%&amp;gt;&quot;&gt;
+Fiend Hunter
+&lt;/a&gt;
+&lt;br /&gt;
+Misc Value - &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khc/23/evangel-of-heliod?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccc00c82-7c2a-4699-8058-e57f690ece96.jpg?1631233984' width=100% height=100%&amp;gt;&quot;&gt;
+Evangel of Heliod
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/voc/90/karmic-guide?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f550f0dd-9e20-4faf-a374-9d1c5830a52f.jpg?1641601382' width=100% height=100%&amp;gt;&quot;&gt;
+Karmic Guide
+&lt;/a&gt;, &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/clb/695/glorious-protector?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3e63385a-e32f-4abc-aff6-bb022b2f56f7.jpg?1654114832' width=100% height=100%&amp;gt;&quot;&gt;
+Glorious Protector
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Did they take the bait? Excellent. This is honestly where the real heart and soul of the deck is - Mavinda is great, but they alone will not win you the game. Consider this package the blue collar workers of the deck.&lt;/p&gt;
+
+&lt;p&gt;If there’s one thing White is really good at - it’s incremental value. ETBs are the name of the game here since most of our value will come from flickering these guys in and out of existence like some great cosmic joke. Nothing really too interesting in this category - besides calling out just how many cards we now have that can tutor lands on a budget. And, it’s imperative we draw attention to the numbers we have should any effect need its percentage tweaked.&lt;/p&gt;
+
+&lt;p&gt;For those of you who don’t know the &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/17/fiend-hunter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f02e3c30-e540-4d7b-a17b-3eece63743cb.jpg?1547515516' width=100% height=100%&amp;gt;&quot;&gt;
+Fiend Hunter
+&lt;/a&gt; madness - since the two abilities are separate (enters the battlefield exile a creature, leave the battlefield return that creature) if you blink Fiend Hunter with the first ability on the stack, his &lt;em&gt;second&lt;/em&gt; ability will hit the stack first (along with a second ETB) so you can exile &lt;em&gt;two&lt;/em&gt; permanents with Fiend Hunter. And one of them will be exiled permanently since it’ll be from the first ETB ability and triggered after the first LTB has already resolved. It’s fun. Your friends will love it.&lt;/p&gt;
+
+&lt;h3 id=&quot;blinkers&quot;&gt;Blinkers&lt;/h3&gt;
+
+&lt;p&gt;We’re running all the classics from &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/97/cloudshift?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8bc7fdf0-3e1e-487c-833d-7c74aa02c0c1.jpg?1600716960' width=100% height=100%&amp;gt;&quot;&gt;
+Cloudshift
+&lt;/a&gt; to &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/stx/27/semesters-end?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/ef4743f7-28db-4d72-bfce-09cfbe413514.jpg?1624589715' width=100% height=100%&amp;gt;&quot;&gt;
+Semester’s End
+&lt;/a&gt; (and we even had room for &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/39/teleportation-circle?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.jpg?1627702592' width=100% height=100%&amp;gt;&quot;&gt;
+Teleportation Circle
+&lt;/a&gt; and &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/243/conjurers-closet?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3435fd09-a7a2-475e-a690-3c2011b70024.jpg?1599708903' width=100% height=100%&amp;gt;&quot;&gt;
+Conjurer’s Closet
+&lt;/a&gt; in the budget!), but I do want to draw attention to just how much fun Mavinda can be with &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/30/settle-beyond-reality?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca74453c-278e-4a6c-aa37-e5654e16b08b.jpg?1655394157' width=100% height=100%&amp;gt;&quot;&gt;
+Settle Beyond Reality
+&lt;/a&gt;. Our stipulation with Mavinda is the spell must target one of our creatures…but doesn’t say it can’t ALSO target an opponent’s! Similar vibes from &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ncc/200/fell-the-mighty?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72d1ad18-607f-4fe4-ba72-26ed1da4cd3d.jpg?1650407911' width=100% height=100%&amp;gt;&quot;&gt;
+Fell the Mighty
+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;protection&quot;&gt;Protection&lt;/h3&gt;
+
+&lt;div&gt;
+    
+        &lt;div class=&quot;row&quot;&gt;
+            
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot;Shelter&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/dad31171-ad46-4654-91f0-8027e00dedfc.jpg?1593812814&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Graceful Reprieve&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-4 inline-card&quot;&gt;
+                    &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824&quot; class=&quot;img-fluid&quot; loading=&quot;lazy&quot; alt=&quot; Dawn Charm&quot; /&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have a ton of “protection effects” of every different variety.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mh1/28/shelter?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221' width=100% height=100%&amp;gt;&quot;&gt;
+Shelter
+&lt;/a&gt;&lt;/strong&gt; - is a classic for a reason, and gets us a little card draw to boot. Not as prevalent as Red’s cantrips, but white can hold its own and protect a key piece along the way.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/8/graceful-reprieve?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/dad31171-ad46-4654-91f0-8027e00dedfc.jpg?1593812814' width=100% height=100%&amp;gt;&quot;&gt;
+Graceful Reprieve
+&lt;/a&gt;&lt;/strong&gt; - honestly one of my favorites in the deck. Protection and hexproof are great, but in the face of a board wipe they can’t do diddly. Especially with Mavinda, this spell in hand can save two of your best creatures from the jaws of death.
+&lt;br /&gt;
+&lt;strong&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/371/dawn-charm?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/c/fc47e26a-2ba6-4b7a-bb03-43f7ecb9012e.jpg?1623147824' width=100% height=100%&amp;gt;&quot;&gt;
+Dawn Charm
+&lt;/a&gt;&lt;/strong&gt; - A fog, a counterspell (protect against some graveyard hate mayhaps?), and a creature saver. Sure you’ll have to re-learn &lt;em&gt;regenerate&lt;/em&gt;, but it’s better than a dead titan!&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion-part-deux&quot;&gt;Conclusion Part Deux&lt;/h3&gt;
+
+&lt;p&gt;Thanks so much for sticking around! Mavinda was a ton of fun to develop and I’d love to see what other people come up with so if you’ve got your own list or a couple ideas, leave ‘em in the comments below!&lt;/p&gt;</content><author><name>chev</name></author><category term="Budget EDH" /><category term="Commander" /><category term="EDH" /><category term="Budget" /><summary type="html">Ever since Mavinda, Students’ Advocate was spoiled, I knew I wanted to do something interesting with them. Fresh off of a Toshiro Umezawa build in early 2021, the whole “whip spells from the graveyard” idea was fresh in my mind and as the almost direct opposite of Kamigawa’s favorite thief… I knew it would be a fun challenge. Well, I sat on this bird for over a year but when my recipient for Secret Santa had a mono white deck at the top of their request list, I knew it was time for Mavinda to take flight. Get it? Cause they’re a b-… anyway. Let’s dive into why you shouldn’t always ignore your guidance counselors. The Bird is the Word Before we get into the cool strategies Mavinda lets us accomplish, let’s take a look at Mavinda as a card. Once per turn (and not just our own!) we may cast an instant or sorcery from our graveyard. However, if it doesn’t target a creature we control we have to pay a steep tax of an additional 8 generic mana. Largely, we’ll be casting spells that target - removal, combat tricks, blink shenanigans. But don’t forget they don’t have to target. In the late game, a 13 mana Tragic Arrogance is still a Tragic Arrogance! Bird Vs Angel This also brings us to what I think separates Mavinda from the more popular target-your-own-creatures Commander, Feather, the Redeemed . What Feather provides in consistent value, it loses in the flexibility to also be casting instants and sorceries that don’t target AND casting a spell twice in a single turn. That’s not to say these two cases will happen all that frequently, but having that added utility is great in preventing catastrophic situations like a Wrath of God or an Avenger of Zendikar across the table. To those ends, Mavinda will play out much more politically and control-minded than the Boros-aligned angel. Our main plan is to coast into the late game with blink and protection subthemes before winning with Approach of the Second Sun or an avalanche of incidental value. Something something slow and steady. Alright, ready to rumble? The Coolest Stuff Instead of starting with the bread and butter mechanics, I’m going to first focus on the cool Mavinda-specific payoffs and more recent cards people might have missed. A lot of readers might be familiar with classic blink synergies and value engines, so I’ll save that stuff for the end of the article. Skip if you’re seasoned in that style of play or give it a look if you need a primer or refresher. Anyway, the sweet tech: Us And While we need to target a creature we control to take full advantage of Mavinda, that doesn’t mean we can’t also target something else… Settle Beyond Reality - is probably the easiest to explain of the bunch as a five mana removal spell that gives us a cute little flicker. Fell the Mighty - targets as part of a boardwipe, so as long as we choose one of our own creatures we’ll have an extra board wipe at our disposal. Excavation Technique - a bit of an odd one but hey, that’s what y’all are here for. From the yard, target one of your creatures and choose to demonstrate - giving you an additional copy to cast for free. Not the cleanest removal spell but hey, it’s good in a pinch. Mavinda goes HARD Pegasus Guardian - Something I learned from my recent Sedris adventures is that when faced with two different exile triggers you control, you get to pick which one gets applied! This is incredible with Adventure, making Pegasus Guardian both a solid blink payoff and an endlessly repeatable blink trigger (if the guardian dies). Ajani’s Influence - Targeting almost as an afterthought to the main effect (my favorite cards), Ajani’s influence gives you some very solid card filtering for mono white. Approach of the Second Sun - One of our main wincons, we’re hoping to tear through our deck with consistent draw and ramp making this a very viable option. And remember, if you end up late into the night with 15 mana lying around… Mavinda can get you that Approach out of the yard, where that annoying Blue player countered it, and back into your deck. Token Town …And if Approach doesn’t work - well we’ll just have to flood the board and hope for a few Phalanx Leader Triggers. Cemetery Protector - Good graveyard hate (especially when blinked), but also gives us essentially a Young Pyromancer in white. Bazinga. Thalia’s Geistcaller - We’re going to be doing some serious graveyard casting, and creating 1/1 fliers at instant speed is certainly nothing to shake a stick at. Blessed Sanctuary - Netting an extra creature with every flicker gives Semester’s End and the like the ability to double your entire board. Evangel of Heliod - Perhaps the most fun blink target, with a lot of small creatures we should hopefully have a pretty high devotion when the game gets going. Hot off the Press Far Traveler - It’s important to remember that backgrounds don’t always have to live in the command zone. Some can do serious work in the 99. There’s a few more hoops to jump through to get Far Traveler running as opposed to Teleportation Circle and Conjurer’s Closet , buuut it’s amazing for the monetary cost and great backup as the third copy of the effect in this deck. Rumor Gatherer - With the Cabaretti focusing on “Creature-fall” (Alliance), there’s plenty of great effects for creature ETBs in Naya. Less so in Mono-white, but Rumor Gatherer can give us a lot of scry and hopefully a bit of draw - the kind of card advantage we need in spades to keep up with a mono-white deck. Illuminator Virtuoso - Illuminator Virtuoso, hailing from the Obscura, focuses more on just crazy amounts of card filtering. Which is much appreciated given we can use Mavinda to get a lot of that back. Conclusion Mavinda, fresh off a under 600 defeat, is still a commander worth your time to explore, and given recent reprints, Mavinda can be an absolute banger at sub $50. Really, with a bigger budget you’d mostly just be upgrading the creature package, with blink and protection almost at their apex. I hope you enjoyed this deep dive into Strixhaven’s best owl and one of mono white’s more interesting commanders! And if you’re still around, check out the more in-depth description of the protection and blink packages below! Check out the full decklist on Moxfield If Mono Red is more your thing, I did a Purphoros, Bronze-Blooded budget deck for last year’s Deck Exchange - check out the write up over on reddit! The Blinked Card Draw - Wall of Omens , Spirited Companion , Priest of Ancient Lore Lands/Ramp - Kor Cartographer , Solemn Simulacrum , Oreskos Explorer , Knight of the White Orchid , Loyal Warhound Interaction - Skyclave Apparition , Meteor Golem , Cavalier of Dawn , Fiend Hunter Misc Value - Evangel of Heliod , Karmic Guide , Glorious Protector Did they take the bait? Excellent. This is honestly where the real heart and soul of the deck is - Mavinda is great, but they alone will not win you the game. Consider this package the blue collar workers of the deck. If there’s one thing White is really good at - it’s incremental value. ETBs are the name of the game here since most of our value will come from flickering these guys in and out of existence like some great cosmic joke. Nothing really too interesting in this category - besides calling out just how many cards we now have that can tutor lands on a budget. And, it’s imperative we draw attention to the numbers we have should any effect need its percentage tweaked. For those of you who don’t know the Fiend Hunter madness - since the two abilities are separate (enters the battlefield exile a creature, leave the battlefield return that creature) if you blink Fiend Hunter with the first ability on the stack, his second ability will hit the stack first (along with a second ETB) so you can exile two permanents with Fiend Hunter. And one of them will be exiled permanently since it’ll be from the first ETB ability and triggered after the first LTB has already resolved. It’s fun. Your friends will love it. Blinkers We’re running all the classics from Cloudshift to Semester’s End (and we even had room for Teleportation Circle and Conjurer’s Closet in the budget!), but I do want to draw attention to just how much fun Mavinda can be with Settle Beyond Reality . Our stipulation with Mavinda is the spell must target one of our creatures…but doesn’t say it can’t ALSO target an opponent’s! Similar vibes from Fell the Mighty . Protection We have a ton of “protection effects” of every different variety. Shelter - is a classic for a reason, and gets us a little card draw to boot. Not as prevalent as Red’s cantrips, but white can hold its own and protect a key piece along the way. Graceful Reprieve - honestly one of my favorites in the deck. Protection and hexproof are great, but in the face of a board wipe they can’t do diddly. Especially with Mavinda, this spell in hand can save two of your best creatures from the jaws of death. Dawn Charm - A fog, a counterspell (protect against some graveyard hate mayhaps?), and a creature saver. Sure you’ll have to re-learn regenerate, but it’s better than a dead titan! Conclusion Part Deux Thanks so much for sticking around! Mavinda was a ton of fun to develop and I’d love to see what other people come up with so if you’ve got your own list or a couple ideas, leave ‘em in the comments below!</summary></entry><entry><title type="html">Lotleth Troll</title><link href="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html" rel="alternate" type="text/html" title="Lotleth Troll" /><published>2022-07-08T00:00:00-07:00</published><updated>2022-07-08T00:00:00-07:00</updated><id>hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/07/08/pdh_lotleth_troll.html">&lt;p&gt;As you might have heard on our recent crossover with the &lt;a href=&quot;https://open.spotify.com/episode/3kefhkQzpRuWlb7HkLO31e?si=c8dd541fc3934bc2&quot;&gt;PDH Pod&lt;/a&gt;, Double Masters 2022 gives us 7 new commanders to play with. That’s right we got some dowwwwnshifts baby! While there’s a whole lot of new tech available for us pauper people (
 &lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2x2/17/mentor-of-the-meek?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/10c78b83-49d4-48c6-8aef-497541431c77.jpg?1656008300' width=100% height=100%&amp;gt;&quot;&gt;
 Mentor of the Meek
 &lt;/a&gt;,
@@ -4683,348 +5016,4 @@ No matter which way you choose to build Naomi, don’t sleep on this advisor! Re
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="Pauper Commander" /><category term="PDH" /><summary type="html">Ah yes, the Hexdrinkers PDH poll, truly a time-honored tradition! And with this being our ahem second installment, it’s now my (Julian’s) turn to bow to the collective consciousness and brew. Annnnnnnnd y’all have chosen Naomi, Pillar of Order ! (~ish, technically there was a tie. AKA y’all couldn’t make up your mind. Jeez, the whole point of a poll is so we have to do less work. C’mon, get with the program…) Naomi is an interesting commander, because on her face, she’s simple: achieve condition (have two ancillary card types), get minor value (make a token). However, there’s definitely a few interesting ways to build her if you look a little deeper. And, given orzhov decks are generally underrepresented in the PDH sphere, she’s a worthy inclusion into any meta you find yourself in! Okay, let’s go. Pillars of the Deck The way I chose to construct this build for Naomi (I’ll discuss other possible builds at the end) was as a midrange deck. We want to clog up the board with as many artifact and enchantment creatures as possible, enabling Naomi to create more samurai, and overwhelming our opponents with a massive board presence. Mixed into this is a selection of other artifacts and enchantments to further enable and support our combat efforts. Since Naomi does cost 5 mana, I’ve included several ways to get a bunch of reps out of her ETB without paying 7, 9, shudder 11 mana… namely in the form of blink and self bounce cards. And finally, as icing on the cake, we’ve got ways to utilize all the extra bodies we’re making, turning them into resources that do more than damage on the board. Shall we start by highlighting some new cards? Not sure why I’m asking, because y’all can’t answer in real time and I’ve already decided that’s what we’re doing. Mukotai Ambusher is a simple ninja, but we love him all the same. Not only is he an artifact creature to help trigger Naomi, but he can also ninjitsu her back to our hand. Did anyone ask for another ETB? Other great cards that function similarly are Ancestral Statue (play this guy during your post-combat main phase) and Aegis Automaton for activating on the end step after holding up removal for a turn cycle. Another new(er) card highlights the sort of value we want to abuse by creating several tokens with Naomi. Enter Morkrut Behemoth . Yes he’s a simple 7/6 with menace, but that’s probably going to be the biggest thing on the board, and if you sacrifice that samurai you just made last turn, he only costs 5 mana. Naomi on turn 4 into Behemoth on turn 5 already makes your board a force to be reckoned with. Similar to the behemoth, we have a bunch of ways to sacrifice our samurai or other creatures for value. Most notably, making sure Naomi can stay on the battlefield. Remember, Naomi costs 7 gosh darn mana the second time we cast her, which is a lot. Instead, if someone is trying to tear down our Pillar of order, sacrifice that samurai you just made to a Dark Privilege or Fanatical Devotion . This also allows Naomi to attack and block much more freely, especially if that attack means we’re instantly recouping our loss. Village Rites and Deadly Dispute have already become staples in several formats and Soulreaper of Mogis is an underrated way to up this draw redundancy while also being an enchantment creature for Naomi. But speaking of enchantment creatures… …we’re running a bunch of the OGs from Theros as well! Baleful Eidolon and Hopeful Eidolon are both cheap enchantment creatures to start chipping in with. Later in the game they can also be used to suit up Naomi making her even harder to deal with in combat, similar to a new NEO pick, Befriending the Moths , which becomes an enchantment creature when it flips! We round out our enchantment creatures package with Grim Guardian and Lampad of Death’s Vigil to give us more chip damage. Ah yes, sweet midrange how we love you. Finally, we’ve got classics like Ephemerate and Acrobatic Maneuver to not only protect Naomi, but also trigger her ETB. And don’t sleep on Flicker of Fate ’s ability to blink an aura, swapping a Journey to Nowhere to a newer bigger threat. And by utilizing Kaya’s Ghostform on Naomi so you can sacrifice her for value as well as your samurai, there are layers upon layers in this deck. Maintaining Order Now of course, we can’t get too cute with everything. We have to play generically good cards to make sure that this deck can function in a pod. However, mixed in with these generically good cards there is some wiggle room for that sweet synergy. Let’s take a look: Two favorites highlighted in our Top 10 for NEO article, Shrine Steward and Spirited Companion really shine in this deck. The Steward acts as an essential 2-for-1 with Naomi, being an artifact creature itself and tutoring for an aura. Oftentimes, these auras will be used to remove a blocker which allows Naomi to attack freely, making us more samurai. Spirited Companion is of course the best boy, drawing us a card and being an enchantment to trigger Naomi. Also, it feels horrible to say this, but Companion is great for sacrificing to a Village Rites before damage on a chump block (Editor’s note: Yikes Jules, I’m a cat person, but even this seems too much…) PDH and cPDH all-stars alike, such as Oubliette , Bound in Gold , and Arrest , are all good cards we would want to play anyway, but they do double duty in this deck. Not only are we removing problematic permanents and shutting off abilities, but we’re removing blockers as I said above, and of course, helping to ensure that whenever Naomi ETBs or attacks, we’re making a samurai. And, since enchantment removal and self sacrifice is much less common in PDH than EDH, these cards will often sit on the battlefield for turns on end, guaranteeing multiple samurai and allowing you to utilize your other enchantments or enchantment creatures more liberally. I’ve been mostly talking about enchantments so far, because artifacts are much easier to account for a la mana rocks. Yes we’re running Arcane Signet , Orzhov Signet , and Bonders Ornament , but we’ve also got utility mainstays Blood Fountain and Ceremonial Knife , both of which we praised in our Top 10 for VOW article. Also, Artifact Lands are a thing, so remember that when you’re checking your Naomi triggers. Choose Your (Neon) Destiny (EDITOR’S NOTE: He knows it’s “Dynasty” just, let him have this one) And that’s basically the deck! A lot of these cards are excellent inclusions in any Naomi deck, but I did want to take a moment to mention a couple other routes I considered when brewing. First off, you could go the heavy voltron route. Load Naomi up with equipment and auras and attack with impunity. The samurai you generate can block the crackback or can be sacrificed for value like in my midrange version. In addition, you can play several Pacifism effects to get Naomi through for damage. Another option is a heavy control build. Black and white are chock full of ways to remove creatures, draw cards and lock down the board. Give your opponents a death by 1,000 cuts via Naomi and her samurai pinging in over and over. It doesn’t matter how long it takes if your opponents creatures are stuck under Arrest or were Snuffed Out No matter which way you choose to build Naomi, don’t sleep on this advisor! Restore order to your playgroup with force and show off that pauper isn’t just a Dimir format. Check out the decklist below or on our Moxfield! Hit us up on Twitter and let us know how you built Naomi as well as tell us which commander you want us to cover next! Giving Orders and Maintaining Order Commander 1x Naomi, Pillar of Order Instants 1x Acrobatic Maneuver 1x Blood Pact 1x Cloudshift 1x Deadly Dispute 1x Ephemerate 1x Flicker of Fate 1x Merciless Resolve 1x Ob Nixilis's Cruelty 1x Rootborn Defenses 1x Snuff Out 1x Succumb to Temptation 1x Victim of Night 1x Village Rites Artifacts 1x Ancient Den 1x Arcane Signet 1x Blood Fountain 1x Bonder's Ornament 1x Ceremonial Knife 1x Commander's Sphere 1x Darksteel Citadel 1x Goldmire Bridge 1x Mind Stone 1x Orzhov Cluestone 1x Orzhov Signet 1x Vault of Whispers 1x Wayfarer's Bauble Enchantments 1x Arrest 1x Bound in Gold 1x Dark Privilege 1x Dreadful Apathy 1x Fanatical Devotion 1x Font of Return 1x Journey to Nowhere 1x Kaya's Ghostform 1x Oblivion Ring 1x Oubliette 1x Reprobation Sorceries 1x Bone Shards 1x Feed the Swarm 1x Night's Whisper 1x Read the Bones 1x Settle Beyond Reality 1x Syphon Mind Creatures 1x Aegis Automaton 1x Ancestral Statue 1x Anointer Priest 1x Antler Skulkin 1x Baleful Eidolon 1x Basri's Acolyte 1x Befriending the Moths / Imperial Moth 1x Blinding Souleater 1x Cathar Commando 1x Dreadbringer Lampads 1x Grim Guardian 1x Heliod's Pilgrim 1x Hopeful Eidolon 1x Lampad of Death's Vigil 1x Maelstrom Colossus 1x Morkrut Behemoth 1x Mukotai Ambusher 1x Priest of Ancient Lore 1x Rot-Tide Gargantua 1x Search Party Captain 1x Searchlight Companion 1x Shrine Steward 1x Soulreaper of Mogis 1x Spirited Companion 1x Starnheim Courser 1x Thorn of the Black Rose 1x Undercity Scrounger Lands 1x Barren Moor 1x Command Tower 1x Evolving Wilds 1x Forge of Heroes 1x Opal Palace 1x Orzhov Basilica 1x Path of Ancestry 1x Scoured Barrens 1x Secluded Steppe 1x Silverquill Campus 5x Snow-Covered Plains 9x Snow-Covered Swamp 1x Snowfield Sinkhole 1x Study Hall 1x Terramorphic Expanse 1x Thriving Heath 1x Thriving Moor</summary></entry><entry><title type="html">Top 10 Neon Dynasty Cards for PDH</title><link href="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html" rel="alternate" type="text/html" title="Top 10 Neon Dynasty Cards for PDH" /><published>2022-02-10T00:00:00-08:00</published><updated>2022-02-10T00:00:00-08:00</updated><id>hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10</id><content type="html" xml:base="hexdrinkers.com/pauper%20commander/2022/02/10/pdh_neo10.html">&lt;p&gt;Whaaaat’s up everyone, it’s Chev and Jules - We’re back. We’re locked. We’re loaded. We’re here for our Kamigawa: Neon Dynasty top PDH picks!&lt;/p&gt;
-
-&lt;h3 id=&quot;chevs-pick-kami-of-industry&quot;&gt;Chev’s Pick: Kami of Industry&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1643916576&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;With hardly any real card recursion at common, usually when things are dealt with they stay gone. So not only will your opponents be surprised by &lt;strong&gt;the first red “artifact recovery” effect in PDH&lt;/strong&gt;, but also giving you immediate access to artifact “dies” triggers is incredibly powerful. Whether you’re chaining this helpful spirit with a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/277/myr-retriever?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f0149d4-0731-474a-a1c3-28c25e486c14.jpg?1599709634' width=100% height=100%&amp;gt;&quot;&gt;
-Myr Retriever
-&lt;/a&gt; or
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/348/workshop-assistant?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/9/e9387e8f-0e72-4212-81c8-e64050700c52.jpg?1608911774' width=100% height=100%&amp;gt;&quot;&gt;
-Workshop Assistant
-&lt;/a&gt; to bring back something heinous (
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/322/maelstrom-colossus&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/322491d2-d082-4d38-8d81-8588c011e725.jpg?1608911533' width=100% height=100%&amp;gt;&quot;&gt;
-Maelstrom Colossus
-&lt;/a&gt;?), or a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/241/tormods-crypt?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c224bf0-5641-4160-9d5c-46141ea8372a.jpg?1594737584' width=100% height=100%&amp;gt;&quot;&gt;
-Tormod’s Crypt
-&lt;/a&gt; to activate against that sneaky
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/146/cryptic-serpent?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a636f74-3bac-4b88-a24f-32a66a94e340.jpg?1600697735' width=100% height=100%&amp;gt;&quot;&gt;
-Cryptic Serpent
-&lt;/a&gt; player,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/149/kami-of-industry?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3d00e61-3007-43da-960b-823e9ead2acf.jpg?1643916576' width=100% height=100%&amp;gt;&quot;&gt;
-Kami of Industry
-&lt;/a&gt; is the toolbox card we had no idea we wanted, but will immediately find room for in a plethora of builds.&lt;/p&gt;
-
-&lt;h3 id=&quot;juless-pick-spirited-companion&quot;&gt;Jules’s Pick: Spirited Companion&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Before I get too distracted by arguably the cutest Magic card ever printed, let’s talk about this goodest boy. There’s a few key reasons I want to highlight this card, other than the aesthetic. First off, we’re continuing to wrack up reasonable white cards that replace themselves. After
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/35/priest-of-ancient-lore?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/1/b10caff0-701a-48d8-a943-f947482e795a.jpg?1627702440' width=100% height=100%&amp;gt;&quot;&gt;
-Priest of Ancient Lore
-&lt;/a&gt; in AFR and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/32/search-party-captain?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964.jpg?1634348412' width=100% height=100%&amp;gt;&quot;&gt;
-Search Party Captain
-&lt;/a&gt; in MID (which we covered &lt;a href=&quot;/pauper%20commander/2021/07/09/afr_top10.html&quot;&gt;both&lt;/a&gt; &lt;a href=&quot;/pauper%20commander/2021/09/28/mid_top10.html&quot;&gt;of&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/38/spirited-companion?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff.jpg?1643322375' width=100% height=100%&amp;gt;&quot;&gt;
-Spirited Companion
-&lt;/a&gt; provides us with the cheapest version of this effect and most on rate. I feel like we’re starting to reach the critical mass necessary to really bolster white-based decks.&lt;/p&gt;
-
-&lt;p&gt;Second, this doggo is also an enchantment. A strategy that has been gaining a lot of steam over the last few years is a pauper enchantress deck a la Satyr Enchanter. Having a cheap creature, perfect for suiting up with auras early, that also draws two cards is sweeeeet.
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nec/99/thoughtcast?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/96e109f7-9be2-4ae0-a1e2-cfd296db84f1.jpg?1644344043' width=100% height=100%&amp;gt;&quot;&gt;
-Thoughtcast
-&lt;/a&gt; and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/133/treasure-cruise?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90bb3d28-30a4-4344-8a41-fe8b9ebf6ce3.jpg?1625976581' width=100% height=100%&amp;gt;&quot;&gt;
-Treasure Cruise
-&lt;/a&gt; who?&lt;/p&gt;
-
-&lt;h3 id=&quot;chevs-pick-reckoners-bargain&quot;&gt;Chev’s Pick: Reckoner’s Bargain&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6338942d-d650-4571-8ec6-4d658792c53e.jpg?1643997417&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/117/village-rites?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1631048783' width=100% height=100%&amp;gt;&quot;&gt;
-Village Rites
-&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afr/94/deadly-dispute?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1627704524' width=100% height=100%&amp;gt;&quot;&gt;
-Deadly Dispute
-&lt;/a&gt;, and now this? Black card draw is hitting record highs in our fine format and shows no sign of slowing down. At the time of writing, Deadly Dispute (which we actually covered in our &lt;a href=&quot;/pauper%20commander/2021/07/09/afr_top10.html&quot;&gt;AFR Review&lt;/a&gt; is nearing $3 for a COMMON! And while Dispute creates a treasure and this doesn’t, it’s still an upgraded
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/80/costly-plunder?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/598405fd-02d2-4bf8-b241-7a2ae6338913.jpg?1598304489' width=100% height=100%&amp;gt;&quot;&gt;
-Costly Plunder
-&lt;/a&gt;. I’m looking to find room in my
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/112/shirei-shizos-caretaker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/7/0757cb66-7aa2-41a2-8efc-f3f35b70ab9e.jpg?1559959257' width=100% height=100%&amp;gt;&quot;&gt;
-Shirei, Shizo’s Caretaker
-&lt;/a&gt; list, as well as
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/znc/56/syr-konrad-the-grim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/8/685faa53-c0b3-4dbb-abd9-bf09067f6f91.jpg?1604193606' width=100% height=100%&amp;gt;&quot;&gt;
-Syr Konrad, the Grim
-&lt;/a&gt;, and hell, probably even the
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gtc/158/duskmantle-guildmage?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a1509ff-387e-4ccd-bda0-86e8738a98fb.jpg?1561838468' width=100% height=100%&amp;gt;&quot;&gt;
-Duskmantle Guildmage
-&lt;/a&gt; Persistent Petitioners competitive deck will give it a look. Keep an eye out for these at your local prereleases!&lt;/p&gt;
-
-&lt;h3 id=&quot;juless-pick-akki-ember-keeper&quot;&gt;Jules’s Pick: Akki Ember-Keeper&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1643493580&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a bit of a wild card pick, but I think there’s some serious potential with Akki Ember-Keeper. Any creature that provides passive resource generation in PDH is worth a look, and one that provides a stream of tokens in a color that loves to attack is most certainly worth two. Good mono-red or boros decks already have plenty of solid auras or equipment to trigger this hard-working Akki, so it probably doesn’t even need to be much of a build around… that being said, Akki Ember-Keeper will probably find the best home with
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/148/valduk-keeper-of-the-flame?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/5/253f9e43-5bc6-4f26-a8e9-773cd0ca3d02.jpg?1562732810' width=100% height=100%&amp;gt;&quot;&gt;
-Valduk, Keeper of the Flame
-&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/220/koll-the-forgemaster?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/22f68b53-0cf7-434d-9da5-1d18c0828a46.jpg?1631051644' width=100% height=100%&amp;gt;&quot;&gt;
-Koll, the Forgemaster
-&lt;/a&gt;, and the like.&lt;/p&gt;
-
-&lt;p&gt;Although, what &lt;em&gt;really&lt;/em&gt; gets my juices flowing is
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/130/akki-ember-keeper?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/4/d/4d83e837-fcd1-4833-9117-e6f1bb53caad.jpg?1643493580' width=100% height=100%&amp;gt;&quot;&gt;
-Akki Ember-Keeper
-&lt;/a&gt; in a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/nec/138/grumgully-the-generous?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba580628-60d1-4281-8705-dbc7823afd8d.jpg?1644344792' width=100% height=100%&amp;gt;&quot;&gt;
-Grumgully the Generous
-&lt;/a&gt; list. We’re already modifying our creatures via Grumgully, and since he’s so generous, even our spirit tokens created by the ember-keeper get counters as well! An army that refuses to die and continuously grows in power is terrifying and I need to build this deck right now. Actually, I’ll just be right back, it’s Chev’s turn anyway…&lt;/p&gt;
-
-&lt;h3 id=&quot;chevs-pick-tamiyos-compeation&quot;&gt;Chev’s Pick: Tamiyo’s Compeation&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;In a format like PDH, commanders are usually leaps and bounds above the 99 in terms of value, and often vital to the deck’s strategy. Eric found this out the hard way when Julian cast a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vis/48/vanishing?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d1fb805-1382-458c-b98d-4491f13833b6.jpg?1562278150' width=100% height=100%&amp;gt;&quot;&gt;
-Vanishing
-&lt;/a&gt; on his
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ktk/212/warden-of-the-eye?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/4/04135bf7-2bcf-4a92-80f0-6d5eefca551b.jpg?1562781945' width=100% height=100%&amp;gt;&quot;&gt;
-Warden of The Eye
-&lt;/a&gt;, and I’ve definitely been on the wrong side of an
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/100/oubliette?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817' width=100% height=100%&amp;gt;&quot;&gt;
-Oubliette
-&lt;/a&gt; in recent memory. While
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722' width=100% height=100%&amp;gt;&quot;&gt;
-Tamiyo’s Compleation
-&lt;/a&gt; doesn’t cause the enchanted creature to phase out, it does the next best thing: keeping a creature out of combat and removing all abilities. Throw in flash AND tap target on entry and this could take someone completely out of the game. 4 mana puts the cost above format allstars like
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/50/deep-freeze?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/1/51765d87-e842-4d84-aaf0-998737fe754c.jpg?1562735580' width=100% height=100%&amp;gt;&quot;&gt;
-Deep Freeze
-&lt;/a&gt; and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/52/frogify?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d89be5f5-75d4-42a0-81e9-5da5bf868e73.jpg?1598303930' width=100% height=100%&amp;gt;&quot;&gt;
-Frogify
-&lt;/a&gt;, but when shutting out a particular creature/artifact is vital, there are few cards as powerful.&lt;/p&gt;
-
-&lt;h3 id=&quot;juless-pick-shrine-steward&quot;&gt;Jules’s Pick: Shrine Steward&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;What’s that? You like
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722' width=100% height=100%&amp;gt;&quot;&gt;
-Tamiyo’s Compleation
-&lt;/a&gt; a whole bunch and you want it all the time? May I interest you in a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/259/shrine-steward?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080' width=100% height=100%&amp;gt;&quot;&gt;
-Shrine Steward
-&lt;/a&gt;? Five mana for a 3/2 is under rate, but the ETB here is really what sells this lil’ construct. Searching your library for any aura (sorry shrine fans, no common ones printed yet - but don’t give up hope) isn’t an unheard of effect (_
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/20/heliods-pilgrim?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/cafce2f5-f4f4-465b-96dc-bcdd29d4e4bb.jpg?1581479102' width=100% height=100%&amp;gt;&quot;&gt;
-Heliod’s Pilgrim
-&lt;/a&gt; has entered the chat_), but the steward brings this effect to literally any deck. And that means that we can drastically increase the pool of targets. In blue there’s
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.jpg?1643325722' width=100% height=100%&amp;gt;&quot;&gt;
-Tamiyo’s Compleation
-&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/56/aqueous-form?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c859f7cb-ac12-490e-b769-6f019791f2a5.jpg?1608909093' width=100% height=100%&amp;gt;&quot;&gt;
-Aqueous Form
-&lt;/a&gt;, and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/52/frogify?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d89be5f5-75d4-42a0-81e9-5da5bf868e73.jpg?1598303930' width=100% height=100%&amp;gt;&quot;&gt;
-Frogify
-&lt;/a&gt; among others. Green has
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ema/157/ancestral-mask?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/7/c7a19fc5-20f3-48d2-8c12-e012d3b302e7.jpg?1580014720' width=100% height=100%&amp;gt;&quot;&gt;
-Ancestral Mask
-&lt;/a&gt; and any number of
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/afc/158/fertile-ground?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0ade2db8-482e-42b0-939c-492dfbbe3b68.jpg?1631587908' width=100% height=100%&amp;gt;&quot;&gt;
-Fertile Ground
-&lt;/a&gt; effects. In red,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/172/dragon-breath&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/large/front/0/9/0900c3b6-cf56-4089-a1e3-c1f53edcf23a.jpg?1562896789' width=100% height=100%&amp;gt;&quot;&gt;
-Dragon Breath
-&lt;/a&gt; and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mm3/99/madcap-skills?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba77b1ff-e73d-4181-9564-d71df348b2fe.jpg?1593813488' width=100% height=100%&amp;gt;&quot;&gt;
-Madcap Skills
-&lt;/a&gt;, with any number of
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/125/pacifism?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0da7c6dc-9325-4866-8c09-78c7021f8f17.jpg?1600713540' width=100% height=100%&amp;gt;&quot;&gt;
-Pacifism
-&lt;/a&gt; effects in white. Heck, get yourself a favorite of Chev’s,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bok/62/blessing-of-leeches?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/de0ba1cf-d913-4285-9d8b-38acf78cc45e.jpg?1562880256' width=100% height=100%&amp;gt;&quot;&gt;
-Blessing of Leeches
-&lt;/a&gt;!
-I even think this card will see play in competitive decks despite it’s steep mana cost. Being able to grab staples like
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/2xm/100/oubliette?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4800a7d-c229-4ced-97ff-0e58645d58d6.jpg?1599705817' width=100% height=100%&amp;gt;&quot;&gt;
-Oubliette
-&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/dom/50/deep-freeze?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/1/51765d87-e842-4d84-aaf0-998737fe754c.jpg?1562735580' width=100% height=100%&amp;gt;&quot;&gt;
-Deep Freeze
-&lt;/a&gt;, and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/a25/58/freed-from-the-real?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c47ee6f6-50c1-4f56-b9ce-4c309bfb92ca.jpg?1562440713' width=100% height=100%&amp;gt;&quot;&gt;
-Freed From the Real
-&lt;/a&gt; is insanity, and providing that extra consistency is key in higher powered matches. If you’re running a non-zero number of high quality auras in any pauper deck you have, toss in a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/259/shrine-steward?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.jpg?1644001080' width=100% height=100%&amp;gt;&quot;&gt;
-Shrine Steward
-&lt;/a&gt; right this instant!&lt;/p&gt;
-
-&lt;h3 id=&quot;chevs-pick-undercity-scrounger&quot;&gt;Chev’s Pick: Undercity Scrounger&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6319b84b-8a3d-4bc8-af48-8b500f124be1.jpg?1644003426&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Repeatable treasure generation is not a joke, Jim. I’m going to be honest, until I have one of these in my hands I’m going to assume the set symbol was printed in the wrong color because boy howdy did I not expect to see something like this at common.
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/mid/113/morbid-opportunist?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5a53982e-3d66-4808-bcb5-46ff40567872.jpg?1634350039' width=100% height=100%&amp;gt;&quot;&gt;
-Morbid Opportunist
-&lt;/a&gt; this is not, but it doesn’t have to be. My brain is turning with some kind of
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/125/persistent-specimen?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7baf973-3202-4fea-8861-a4a5ec228640.jpg?1643590113' width=100% height=100%&amp;gt;&quot;&gt;
-Persistent Specimen
-&lt;/a&gt; loops to maximize creature death triggers, but even without those levels of optimizing there’s plenty of utility here. Plus, with these stats you can breathe easy as opponents drop
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/me2/92/gangrenous-zombies?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/5/b/5b49b583-ed1b-44ee-8f50-be5ae3527399.jpg?1562868582' width=100% height=100%&amp;gt;&quot;&gt;
-Gangrenous Zombies
-&lt;/a&gt;,
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/178/fiery-cannonade?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/3/9/396f1cdf-712b-4518-a0e8-0039303dccdc.jpg?1608910204' width=100% height=100%&amp;gt;&quot;&gt;
-Fiery Cannonade
-&lt;/a&gt;, and the rest. I swear I saw Oakley salivating at the chance to put this in
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/thb/99/gray-merchant-of-asphodel?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807' width=100% height=100%&amp;gt;&quot;&gt;
-Gray Merchant of Asphodel
-&lt;/a&gt; when it was mentioned during the recording of our Kamigawa: Neon Dynasty Prime Picks episode.&lt;/p&gt;
-
-&lt;h3 id=&quot;juless-pick-network-terminal&quot;&gt;Jules’s Pick: Network Terminal&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1644000678&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Oh look, another very reasonable 3-drop mana rock! Imagine my surprise. Wizards has really been on a roll with printing these
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/gnt/54/manalith?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f0d7d904-f29b-4524-9223-27910d748bdb.jpg?1592765238' width=100% height=100%&amp;gt;&quot;&gt;
-Manalith
-&lt;/a&gt;s with upside in the past several sets, and while in EDH I wouldn’t ever give these a second thought, they’re PDH’s bread and butter.
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/251/network-terminal?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.jpg?1644000678' width=100% height=100%&amp;gt;&quot;&gt;
-Network Terminal
-&lt;/a&gt; once again, is just a perfectly functional way to ramp and fix mana in any deck (even green ones, yeah you heard me).&lt;/p&gt;
-
-&lt;p&gt;Where it exceeds the mediocrity of a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/472/mana-geode?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/f/8/f8c54d41-683e-42fd-8aa4-371dddf3bcb3.jpg?1601080775' width=100% height=100%&amp;gt;&quot;&gt;
-Mana Geode
-&lt;/a&gt; or the like, is in its ability that allows you to loot for just a single mana. Okay yes, you have to tap another artifact you control, but there’s always a reasonable amount of equipment lying around, or a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/m21/241/tormods-crypt?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c224bf0-5641-4160-9d5c-46141ea8372a.jpg?1594737584' width=100% height=100%&amp;gt;&quot;&gt;
-Tormod’s Crypt
-&lt;/a&gt; you’re not quite ready to crack yet…and even if you have to tap another mana rock, this effect would still be worth it at 2 mana. And, for anyone who has that sweet, sweet synergy, you’re looting, so your graveyard is getting stocked up. I’m imagining the wonders this would do in any
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/cmr/71/ghost-of-ramirez-depietro?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4a41506-85c6-4362-b983-36df13db09d9.jpg?1608909231' width=100% height=100%&amp;gt;&quot;&gt;
-Ghost of Ramirez DePietro
-&lt;/a&gt; shell, a variation on
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/c21/213/crackling-drake?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cc51727-e39d-46b5-82cd-0c84c6572155.jpg?1625977527' width=100% height=100%&amp;gt;&quot;&gt;
-Crackling Drake
-&lt;/a&gt; or
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/146/cryptic-serpent?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a636f74-3bac-4b88-a24f-32a66a94e340.jpg?1600697735' width=100% height=100%&amp;gt;&quot;&gt;
-Cryptic Serpent
-&lt;/a&gt;, or something spicy like a &lt;em&gt;madness&lt;/em&gt; list perhaps piloted by
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/bbd/75/azra-oddsmaker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f5e6a5a-18ee-438f-ab16-694e19a2410e.jpg?1562920701' width=100% height=100%&amp;gt;&quot;&gt;
-Azra Oddsmaker
-&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;chevs-pick-virus-beetle&quot;&gt;Chev’s Pick: Virus Beetle&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/488ee202-0d28-4cc0-8a7d-644d9878e952.jpg?1643997655&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;See this is the perfect example of why we now do “favorites’’ as opposed to “best.” Virus Beetle isn’t taking home any trophies
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/jmp/214/burglar-rat?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/c/b/cb457c05-2a60-437a-8138-cfd581b22996.jpg?1600714334' width=100% height=100%&amp;gt;&quot;&gt;
-Burglar Rat
-&lt;/a&gt; and
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/khm/93/elderfang-disciple?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f3a6148-d005-49c1-a7fc-867c4e8251cd.jpg?1631048063' width=100% height=100%&amp;gt;&quot;&gt;
-Elderfang Disciple
-&lt;/a&gt; haven’t already, and with the same stat-line really the only thing that separates this little guy mechanically is having “Artifact” in its type-line.&lt;/p&gt;
-
-&lt;p&gt;…Which we don’t care about at all. Instead! We’re just here digging the vibe of a computer virus in a beetle with some solid 90s-era computer-jargon flavor text. Rock on little dude, and don’t be surprised to be joining a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/uma/112/shirei-shizos-caretaker?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/7/0757cb66-7aa2-41a2-8efc-f3f35b70ab9e.jpg?1559959257' width=100% height=100%&amp;gt;&quot;&gt;
-Shirei, Shizo’s Caretaker
-&lt;/a&gt; deck sometime soon.&lt;/p&gt;
-
-&lt;h3 id=&quot;juless-pick-mirrorshell-crab&quot;&gt;Jules’s Pick: Mirrorshell Crab&lt;/h3&gt;
-
-&lt;div&gt;
-    
-        &lt;div class=&quot;text-center&quot;&gt;
-            &lt;img src=&quot;https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881&quot; style=&quot;max-width: 33%;&quot; alt=&quot;image sourced from scryfall.com&quot; class=&quot;img-fluid&quot; /&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;A crab is basically an aquatic beetle right? All jokes aside, this “inconspicuous” crustacean has got me hype in a bunch of different ways, including making the best (and biggest) damn crab cake you’ve ever had. First off, I say it all the time, if you’re playing good ol’ kitchen table PDH, there’s nothing like gumming up the board with a frickin’ 5/7. Nothing is getting past this and it’s even hard to put into the steamer with a hefty &lt;em&gt;ward 3&lt;/em&gt;. Crabs are expensive, what can I say?&lt;/p&gt;
-
-&lt;p&gt;However, the real kicker… wait, that’s a different mechanic. Crap. Anyway, this card has &lt;em&gt;channel&lt;/em&gt;, a mechanic that I love more every time I read it. Sure
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/ima/66/mana-leak?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/247939d9-87e9-4f01-b223-fb4cfa7dbbe1.jpg?1562846529' width=100% height=100%&amp;gt;&quot;&gt;
-Mana Leak
-&lt;/a&gt; usually only costs 2 mana so we’re overpaying for a
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881' width=100% height=100%&amp;gt;&quot;&gt;
-Mirrorshell Crab
-&lt;/a&gt; counter, but where
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881' width=100% height=100%&amp;gt;&quot;&gt;
-Mirrorshell Crab
-&lt;/a&gt; exceeds is threefold. It has the capacity to target abilities, of which there are &lt;strong&gt;SEVERAL&lt;/strong&gt; important ones in PDH. It comes with the beautiful modality, a word that makes me quiver, of a beater attached to it. And finally, just like a freshly caught softshell, this thing is so slippery, that using this crab’s ability can’t be countered by traditional counterspells because &lt;em&gt;channel&lt;/em&gt; is an activated ability. No more counter wars, just give your opponent the pinch! Due to these factors, especially this final one, I wouldn’t be surprised if
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.jpg?1643992881' width=100% height=100%&amp;gt;&quot;&gt;
-Mirrorshell Crab
-&lt;/a&gt; saw some play in select cPDH decks as well as most regular PDH decks.&lt;/p&gt;
-
-&lt;p&gt;That’s what we got! Think we missed something or were expecting us to make another
-&lt;a class=&quot;accented-link external-card-link&quot; target=&quot;_blank&quot; href=&quot;https://scryfall.com/card/vow/168/lightning-wolf?utm_source=api&quot; data-toggle=&quot;popover&quot; data-placement=&quot;top&quot; data-content=&quot;&amp;lt;img src='https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/7211e4c3-e940-41da-88e4-4630eab447a6.jpg?1643591677' width=100% height=100%&amp;gt;&quot;&gt;
-Lightning Wolf
-&lt;/a&gt; reference? Let us know!&lt;/p&gt;</content><author><name>[&quot;chev&quot;, &quot;julian&quot;]</name></author><category term="Pauper Commander" /><category term="PDH" /><category term="Top10" /><summary type="html">Whaaaat’s up everyone, it’s Chev and Jules - We’re back. We’re locked. We’re loaded. We’re here for our Kamigawa: Neon Dynasty top PDH picks! Chev’s Pick: Kami of Industry With hardly any real card recursion at common, usually when things are dealt with they stay gone. So not only will your opponents be surprised by the first red “artifact recovery” effect in PDH, but also giving you immediate access to artifact “dies” triggers is incredibly powerful. Whether you’re chaining this helpful spirit with a Myr Retriever or Workshop Assistant to bring back something heinous ( Maelstrom Colossus ?), or a Tormod’s Crypt to activate against that sneaky Cryptic Serpent player, Kami of Industry is the toolbox card we had no idea we wanted, but will immediately find room for in a plethora of builds. Jules’s Pick: Spirited Companion Before I get too distracted by arguably the cutest Magic card ever printed, let’s talk about this goodest boy. There’s a few key reasons I want to highlight this card, other than the aesthetic. First off, we’re continuing to wrack up reasonable white cards that replace themselves. After Priest of Ancient Lore in AFR and Search Party Captain in MID (which we covered both of, Spirited Companion provides us with the cheapest version of this effect and most on rate. I feel like we’re starting to reach the critical mass necessary to really bolster white-based decks. Second, this doggo is also an enchantment. A strategy that has been gaining a lot of steam over the last few years is a pauper enchantress deck a la Satyr Enchanter. Having a cheap creature, perfect for suiting up with auras early, that also draws two cards is sweeeeet. Thoughtcast and Treasure Cruise who? Chev’s Pick: Reckoner’s Bargain Village Rites , Deadly Dispute , and now this? Black card draw is hitting record highs in our fine format and shows no sign of slowing down. At the time of writing, Deadly Dispute (which we actually covered in our AFR Review is nearing $3 for a COMMON! And while Dispute creates a treasure and this doesn’t, it’s still an upgraded Costly Plunder . I’m looking to find room in my Shirei, Shizo’s Caretaker list, as well as Syr Konrad, the Grim , and hell, probably even the Duskmantle Guildmage Persistent Petitioners competitive deck will give it a look. Keep an eye out for these at your local prereleases! Jules’s Pick: Akki Ember-Keeper This is a bit of a wild card pick, but I think there’s some serious potential with Akki Ember-Keeper. Any creature that provides passive resource generation in PDH is worth a look, and one that provides a stream of tokens in a color that loves to attack is most certainly worth two. Good mono-red or boros decks already have plenty of solid auras or equipment to trigger this hard-working Akki, so it probably doesn’t even need to be much of a build around… that being said, Akki Ember-Keeper will probably find the best home with Valduk, Keeper of the Flame , Koll, the Forgemaster , and the like. Although, what really gets my juices flowing is Akki Ember-Keeper in a Grumgully the Generous list. We’re already modifying our creatures via Grumgully, and since he’s so generous, even our spirit tokens created by the ember-keeper get counters as well! An army that refuses to die and continuously grows in power is terrifying and I need to build this deck right now. Actually, I’ll just be right back, it’s Chev’s turn anyway… Chev’s Pick: Tamiyo’s Compeation In a format like PDH, commanders are usually leaps and bounds above the 99 in terms of value, and often vital to the deck’s strategy. Eric found this out the hard way when Julian cast a Vanishing on his Warden of The Eye , and I’ve definitely been on the wrong side of an Oubliette in recent memory. While Tamiyo’s Compleation doesn’t cause the enchanted creature to phase out, it does the next best thing: keeping a creature out of combat and removing all abilities. Throw in flash AND tap target on entry and this could take someone completely out of the game. 4 mana puts the cost above format allstars like Deep Freeze and Frogify , but when shutting out a particular creature/artifact is vital, there are few cards as powerful. Jules’s Pick: Shrine Steward What’s that? You like Tamiyo’s Compleation a whole bunch and you want it all the time? May I interest you in a Shrine Steward ? Five mana for a 3/2 is under rate, but the ETB here is really what sells this lil’ construct. Searching your library for any aura (sorry shrine fans, no common ones printed yet - but don’t give up hope) isn’t an unheard of effect (_ Heliod’s Pilgrim has entered the chat_), but the steward brings this effect to literally any deck. And that means that we can drastically increase the pool of targets. In blue there’s Tamiyo’s Compleation , Aqueous Form , and Frogify among others. Green has Ancestral Mask and any number of Fertile Ground effects. In red, Dragon Breath and Madcap Skills , with any number of Pacifism effects in white. Heck, get yourself a favorite of Chev’s, Blessing of Leeches ! I even think this card will see play in competitive decks despite it’s steep mana cost. Being able to grab staples like Oubliette , Deep Freeze , and Freed From the Real is insanity, and providing that extra consistency is key in higher powered matches. If you’re running a non-zero number of high quality auras in any pauper deck you have, toss in a Shrine Steward right this instant! Chev’s Pick: Undercity Scrounger Repeatable treasure generation is not a joke, Jim. I’m going to be honest, until I have one of these in my hands I’m going to assume the set symbol was printed in the wrong color because boy howdy did I not expect to see something like this at common. Morbid Opportunist this is not, but it doesn’t have to be. My brain is turning with some kind of Persistent Specimen loops to maximize creature death triggers, but even without those levels of optimizing there’s plenty of utility here. Plus, with these stats you can breathe easy as opponents drop Gangrenous Zombies , Fiery Cannonade , and the rest. I swear I saw Oakley salivating at the chance to put this in Gray Merchant of Asphodel when it was mentioned during the recording of our Kamigawa: Neon Dynasty Prime Picks episode. Jules’s Pick: Network Terminal Oh look, another very reasonable 3-drop mana rock! Imagine my surprise. Wizards has really been on a roll with printing these Manalith s with upside in the past several sets, and while in EDH I wouldn’t ever give these a second thought, they’re PDH’s bread and butter. Network Terminal once again, is just a perfectly functional way to ramp and fix mana in any deck (even green ones, yeah you heard me). Where it exceeds the mediocrity of a Mana Geode or the like, is in its ability that allows you to loot for just a single mana. Okay yes, you have to tap another artifact you control, but there’s always a reasonable amount of equipment lying around, or a Tormod’s Crypt you’re not quite ready to crack yet…and even if you have to tap another mana rock, this effect would still be worth it at 2 mana. And, for anyone who has that sweet, sweet synergy, you’re looting, so your graveyard is getting stocked up. I’m imagining the wonders this would do in any Ghost of Ramirez DePietro shell, a variation on Crackling Drake or Cryptic Serpent , or something spicy like a madness list perhaps piloted by Azra Oddsmaker . Chev’s Pick: Virus Beetle See this is the perfect example of why we now do “favorites’’ as opposed to “best.” Virus Beetle isn’t taking home any trophies Burglar Rat and Elderfang Disciple haven’t already, and with the same stat-line really the only thing that separates this little guy mechanically is having “Artifact” in its type-line. …Which we don’t care about at all. Instead! We’re just here digging the vibe of a computer virus in a beetle with some solid 90s-era computer-jargon flavor text. Rock on little dude, and don’t be surprised to be joining a Shirei, Shizo’s Caretaker deck sometime soon. Jules’s Pick: Mirrorshell Crab A crab is basically an aquatic beetle right? All jokes aside, this “inconspicuous” crustacean has got me hype in a bunch of different ways, including making the best (and biggest) damn crab cake you’ve ever had. First off, I say it all the time, if you’re playing good ol’ kitchen table PDH, there’s nothing like gumming up the board with a frickin’ 5/7. Nothing is getting past this and it’s even hard to put into the steamer with a hefty ward 3. Crabs are expensive, what can I say? However, the real kicker… wait, that’s a different mechanic. Crap. Anyway, this card has channel, a mechanic that I love more every time I read it. Sure Mana Leak usually only costs 2 mana so we’re overpaying for a Mirrorshell Crab counter, but where Mirrorshell Crab exceeds is threefold. It has the capacity to target abilities, of which there are SEVERAL important ones in PDH. It comes with the beautiful modality, a word that makes me quiver, of a beater attached to it. And finally, just like a freshly caught softshell, this thing is so slippery, that using this crab’s ability can’t be countered by traditional counterspells because channel is an activated ability. No more counter wars, just give your opponent the pinch! Due to these factors, especially this final one, I wouldn’t be surprised if Mirrorshell Crab saw some play in select cPDH decks as well as most regular PDH decks. That’s what we got! Think we missed something or were expecting us to make another Lightning Wolf reference? Let us know!</summary></entry></feed>
+&lt;br /&gt;&lt;/p&gt;</content><author><name>julian</name></author><category term="Pauper Commander" /><category term="PDH" /><summary type="html">Ah yes, the Hexdrinkers PDH poll, truly a time-honored tradition! And with this being our ahem second installment, it’s now my (Julian’s) turn to bow to the collective consciousness and brew. Annnnnnnnd y’all have chosen Naomi, Pillar of Order ! (~ish, technically there was a tie. AKA y’all couldn’t make up your mind. Jeez, the whole point of a poll is so we have to do less work. C’mon, get with the program…) Naomi is an interesting commander, because on her face, she’s simple: achieve condition (have two ancillary card types), get minor value (make a token). However, there’s definitely a few interesting ways to build her if you look a little deeper. And, given orzhov decks are generally underrepresented in the PDH sphere, she’s a worthy inclusion into any meta you find yourself in! Okay, let’s go. Pillars of the Deck The way I chose to construct this build for Naomi (I’ll discuss other possible builds at the end) was as a midrange deck. We want to clog up the board with as many artifact and enchantment creatures as possible, enabling Naomi to create more samurai, and overwhelming our opponents with a massive board presence. Mixed into this is a selection of other artifacts and enchantments to further enable and support our combat efforts. Since Naomi does cost 5 mana, I’ve included several ways to get a bunch of reps out of her ETB without paying 7, 9, shudder 11 mana… namely in the form of blink and self bounce cards. And finally, as icing on the cake, we’ve got ways to utilize all the extra bodies we’re making, turning them into resources that do more than damage on the board. Shall we start by highlighting some new cards? Not sure why I’m asking, because y’all can’t answer in real time and I’ve already decided that’s what we’re doing. Mukotai Ambusher is a simple ninja, but we love him all the same. Not only is he an artifact creature to help trigger Naomi, but he can also ninjitsu her back to our hand. Did anyone ask for another ETB? Other great cards that function similarly are Ancestral Statue (play this guy during your post-combat main phase) and Aegis Automaton for activating on the end step after holding up removal for a turn cycle. Another new(er) card highlights the sort of value we want to abuse by creating several tokens with Naomi. Enter Morkrut Behemoth . Yes he’s a simple 7/6 with menace, but that’s probably going to be the biggest thing on the board, and if you sacrifice that samurai you just made last turn, he only costs 5 mana. Naomi on turn 4 into Behemoth on turn 5 already makes your board a force to be reckoned with. Similar to the behemoth, we have a bunch of ways to sacrifice our samurai or other creatures for value. Most notably, making sure Naomi can stay on the battlefield. Remember, Naomi costs 7 gosh darn mana the second time we cast her, which is a lot. Instead, if someone is trying to tear down our Pillar of order, sacrifice that samurai you just made to a Dark Privilege or Fanatical Devotion . This also allows Naomi to attack and block much more freely, especially if that attack means we’re instantly recouping our loss. Village Rites and Deadly Dispute have already become staples in several formats and Soulreaper of Mogis is an underrated way to up this draw redundancy while also being an enchantment creature for Naomi. But speaking of enchantment creatures… …we’re running a bunch of the OGs from Theros as well! Baleful Eidolon and Hopeful Eidolon are both cheap enchantment creatures to start chipping in with. Later in the game they can also be used to suit up Naomi making her even harder to deal with in combat, similar to a new NEO pick, Befriending the Moths , which becomes an enchantment creature when it flips! We round out our enchantment creatures package with Grim Guardian and Lampad of Death’s Vigil to give us more chip damage. Ah yes, sweet midrange how we love you. Finally, we’ve got classics like Ephemerate and Acrobatic Maneuver to not only protect Naomi, but also trigger her ETB. And don’t sleep on Flicker of Fate ’s ability to blink an aura, swapping a Journey to Nowhere to a newer bigger threat. And by utilizing Kaya’s Ghostform on Naomi so you can sacrifice her for value as well as your samurai, there are layers upon layers in this deck. Maintaining Order Now of course, we can’t get too cute with everything. We have to play generically good cards to make sure that this deck can function in a pod. However, mixed in with these generically good cards there is some wiggle room for that sweet synergy. Let’s take a look: Two favorites highlighted in our Top 10 for NEO article, Shrine Steward and Spirited Companion really shine in this deck. The Steward acts as an essential 2-for-1 with Naomi, being an artifact creature itself and tutoring for an aura. Oftentimes, these auras will be used to remove a blocker which allows Naomi to attack freely, making us more samurai. Spirited Companion is of course the best boy, drawing us a card and being an enchantment to trigger Naomi. Also, it feels horrible to say this, but Companion is great for sacrificing to a Village Rites before damage on a chump block (Editor’s note: Yikes Jules, I’m a cat person, but even this seems too much…) PDH and cPDH all-stars alike, such as Oubliette , Bound in Gold , and Arrest , are all good cards we would want to play anyway, but they do double duty in this deck. Not only are we removing problematic permanents and shutting off abilities, but we’re removing blockers as I said above, and of course, helping to ensure that whenever Naomi ETBs or attacks, we’re making a samurai. And, since enchantment removal and self sacrifice is much less common in PDH than EDH, these cards will often sit on the battlefield for turns on end, guaranteeing multiple samurai and allowing you to utilize your other enchantments or enchantment creatures more liberally. I’ve been mostly talking about enchantments so far, because artifacts are much easier to account for a la mana rocks. Yes we’re running Arcane Signet , Orzhov Signet , and Bonders Ornament , but we’ve also got utility mainstays Blood Fountain and Ceremonial Knife , both of which we praised in our Top 10 for VOW article. Also, Artifact Lands are a thing, so remember that when you’re checking your Naomi triggers. Choose Your (Neon) Destiny (EDITOR’S NOTE: He knows it’s “Dynasty” just, let him have this one) And that’s basically the deck! A lot of these cards are excellent inclusions in any Naomi deck, but I did want to take a moment to mention a couple other routes I considered when brewing. First off, you could go the heavy voltron route. Load Naomi up with equipment and auras and attack with impunity. The samurai you generate can block the crackback or can be sacrificed for value like in my midrange version. In addition, you can play several Pacifism effects to get Naomi through for damage. Another option is a heavy control build. Black and white are chock full of ways to remove creatures, draw cards and lock down the board. Give your opponents a death by 1,000 cuts via Naomi and her samurai pinging in over and over. It doesn’t matter how long it takes if your opponents creatures are stuck under Arrest or were Snuffed Out No matter which way you choose to build Naomi, don’t sleep on this advisor! Restore order to your playgroup with force and show off that pauper isn’t just a Dimir format. Check out the decklist below or on our Moxfield! Hit us up on Twitter and let us know how you built Naomi as well as tell us which commander you want us to cover next! Giving Orders and Maintaining Order Commander 1x Naomi, Pillar of Order Instants 1x Acrobatic Maneuver 1x Blood Pact 1x Cloudshift 1x Deadly Dispute 1x Ephemerate 1x Flicker of Fate 1x Merciless Resolve 1x Ob Nixilis's Cruelty 1x Rootborn Defenses 1x Snuff Out 1x Succumb to Temptation 1x Victim of Night 1x Village Rites Artifacts 1x Ancient Den 1x Arcane Signet 1x Blood Fountain 1x Bonder's Ornament 1x Ceremonial Knife 1x Commander's Sphere 1x Darksteel Citadel 1x Goldmire Bridge 1x Mind Stone 1x Orzhov Cluestone 1x Orzhov Signet 1x Vault of Whispers 1x Wayfarer's Bauble Enchantments 1x Arrest 1x Bound in Gold 1x Dark Privilege 1x Dreadful Apathy 1x Fanatical Devotion 1x Font of Return 1x Journey to Nowhere 1x Kaya's Ghostform 1x Oblivion Ring 1x Oubliette 1x Reprobation Sorceries 1x Bone Shards 1x Feed the Swarm 1x Night's Whisper 1x Read the Bones 1x Settle Beyond Reality 1x Syphon Mind Creatures 1x Aegis Automaton 1x Ancestral Statue 1x Anointer Priest 1x Antler Skulkin 1x Baleful Eidolon 1x Basri's Acolyte 1x Befriending the Moths / Imperial Moth 1x Blinding Souleater 1x Cathar Commando 1x Dreadbringer Lampads 1x Grim Guardian 1x Heliod's Pilgrim 1x Hopeful Eidolon 1x Lampad of Death's Vigil 1x Maelstrom Colossus 1x Morkrut Behemoth 1x Mukotai Ambusher 1x Priest of Ancient Lore 1x Rot-Tide Gargantua 1x Search Party Captain 1x Searchlight Companion 1x Shrine Steward 1x Soulreaper of Mogis 1x Spirited Companion 1x Starnheim Courser 1x Thorn of the Black Rose 1x Undercity Scrounger Lands 1x Barren Moor 1x Command Tower 1x Evolving Wilds 1x Forge of Heroes 1x Opal Palace 1x Orzhov Basilica 1x Path of Ancestry 1x Scoured Barrens 1x Secluded Steppe 1x Silverquill Campus 5x Snow-Covered Plains 9x Snow-Covered Swamp 1x Snowfield Sinkhole 1x Study Hall 1x Terramorphic Expanse 1x Thriving Heath 1x Thriving Moor</summary></entry></feed>
